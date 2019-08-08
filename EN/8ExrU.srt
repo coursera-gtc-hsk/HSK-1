@@ -1,3 +1,7 @@
+(Nǐ hǎo.
+Huānyínɡ láidào HSK hànyǔ kètánɡ.)
+
+
 1
 00:00:12,170 --> 00:00:16,620
 Hello, welcome to Chinese for HSK.
@@ -12,7 +16,7 @@ Nice to meet you.
 
 4
 00:00:20,360 --> 00:00:29,970
-Wo jiao YU Bin. For the first week of your Chinese study,
+Wǒ jiào Yú Bīn. Hěn ɡāoxìnɡ rènshi nǐ. For the first week of your Chinese study,
 
 5
 00:00:29,970 --> 00:00:33,765
@@ -36,7 +40,7 @@ see what people say when they meet for the first time.
 
 10
 00:00:51,605 --> 00:01:11,250
-Here come Xudong and Tingna.
+Here come Xudonɡ and Tinɡna.
 
 11
 00:01:11,250 --> 00:01:11,251
@@ -52,7 +56,7 @@ Ni jiao shenme mingzi?
 
 14
 00:01:11,253 --> 00:01:11,254
-Wo jiao tigna
+Wo jiao Tingna.
 
 15
 00:01:11,254 --> 00:01:11,255
@@ -60,7 +64,7 @@ Ni jiao shenme mingzi?
 
 16
 00:01:11,255 --> 00:01:11,256
-Wo jiao Xudong.
+Wo jiao Xudonɡ.
 
 17
 00:01:11,256 --> 00:01:11,257
@@ -72,7 +76,7 @@ Hen gaoxing renshi ni.
 
 19
 00:01:11,258 --> 00:01:12,915
-Cannot understand much?
+Can't understand much?
 
 20
 00:01:12,915 --> 00:01:18,025
@@ -84,7 +88,7 @@ You may have known that's the most commonly used phrase for
 
 22
 00:01:22,520 --> 00:01:27,950
-greetings in Chinese is ni hao, hello.
+greetings in Chinese is Ni hao, hello.
 
 23
 00:01:27,950 --> 00:01:32,445
@@ -92,23 +96,23 @@ Ni means you, hao means good.
 
 24
 00:01:32,445 --> 00:01:36,485
-So, ni hao literally means you good.
+So, Ni hao literally means you good.
 
 25
 00:01:36,485 --> 00:01:42,485
-However, ni hao is rarely used among very close friends or families.
+However, Ni hao is rarely used among very close friends or families.
 
 26
 00:01:42,485 --> 00:01:49,305
-Ni and hao about third tone when two-third tones are read in sequence,
+Nǐ and hǎo about third tone when two-third tones are read in sequence,
 
 27
 00:01:49,305 --> 00:01:53,045
-the first syllable turns into the second term.
+the first syllable turns into the second tone.
 
 28
 00:01:53,045 --> 00:02:00,180
-So, ni hao it's read ni hao rather than ni hao.
+So, Ni hao it's read ní hǎo rather than Nǐ hǎo.
 
 29
 00:02:00,180 --> 00:02:04,545
@@ -116,7 +120,7 @@ Although, you need to mark it at third tone in writing.
 
 30
 00:02:04,545 --> 00:02:13,030
-Follow me please, ni hao, ni hao.
+Follow me please, Nǐ hǎo, Nǐ hǎo.
 
 31
 00:02:13,150 --> 00:02:17,270
@@ -124,7 +128,7 @@ One day, we may meet up somewhere in the world.
 
 32
 00:02:17,270 --> 00:02:20,450
-How do you greet me?
+How do you greets me?
 
 33
 00:02:20,450 --> 00:02:25,115
@@ -136,7 +140,7 @@ Yu laoshi!
 
 35
 00:02:28,130 --> 00:02:32,590
-I say to you, for example,
+And I could say to you, for example,
 
 36
 00:02:32,740 --> 00:02:41,010
@@ -148,15 +152,15 @@ To ask somebody's name in Chinese is ni jiao shenme mingzi?
 
 38
 00:02:51,075 --> 00:02:54,540
-Literally, your quote what name,
+Literally, you call what name,
 
 39
 00:02:54,540 --> 00:02:56,655
-jiao means to call,
+jiào means to call,
 
 40
 00:02:56,655 --> 00:03:00,945
-shenme is what, mingzi is name.
+shénme is what, míngzi is name.
 
 41
 00:03:00,945 --> 00:03:07,245
@@ -180,19 +184,19 @@ a book, or name follows it.
 
 46
 00:03:22,245 --> 00:03:28,425
-Now, read with me jiao, jiao,
+Now, read with me jiào, jiào,
 
 47
 00:03:28,425 --> 00:03:37,695
-shenma, shenme, mingzi, mingzi, wo, wo.
+shénme, shénme, míngzi, míngzi, wǒ, wǒ.
 
 48
 00:03:37,695 --> 00:03:46,466
-Ni jiao shenme mingzi?
+Nǐ jiào shénme míngzi?
 
 49
 00:03:46,466 --> 00:03:55,930
-Wo jiao, wo jiao. Let's do an exercise now.
+wǒ jiào, wǒ jiào. Let's do an exercise now.
 
 50
 00:03:57,110 --> 00:04:02,630
@@ -200,7 +204,7 @@ Match the Chinese words with pictures or English words.
 
 51
 00:04:04,260 --> 00:04:07,760
-Let's say it together.
+Let's do it together.
 
 52
 00:04:08,010 --> 00:04:13,450
@@ -220,7 +224,7 @@ Did you get it? One more sentence
 
 56
 00:04:36,430 --> 00:04:42,470
-for you is hen gaoxing renshi ni, nice to meet you.
+for you is Hěn gāoxìng rènshi nǐ, nice to meet you.
 
 57
 00:04:42,470 --> 00:04:46,650
@@ -232,51 +236,51 @@ Read after me, please.
 
 59
 00:04:49,320 --> 00:04:57,705
-Hen, hen, gaoxing, gaoxing, renshi,
+Hěn, Hěn, gāoxìng, gāoxìng, rènshi,
 
 60
 00:04:57,705 --> 00:05:03,825
-renshi, hen gaoxing renshi ni,
+rènshi, Hěn gāoxìng rènshi nǐ,
 
 61
 00:05:03,825 --> 00:05:08,380
-hen gaoxing renshi mi.
+Hěn gāoxìng rènshi nǐ.
 
 62
 00:05:10,820 --> 00:05:15,250
-Reads the text of the video with me, please.
+Read the text of the video with me, please.
 
 63
 00:05:15,260 --> 00:05:17,760
-Ni hao!
+Nǐ hǎo!
 
 64
 00:05:17,760 --> 00:05:19,800
-Ni hao!
+Nǐ hǎo!
 
 65
 00:05:19,800 --> 00:05:23,145
-Ni jiao shenme mingzi?
+Nǐ jiào shénme míngzi?
 
 66
 00:05:23,145 --> 00:05:26,820
-Wo jiao tingna.
+Wǒ jiào Tínɡnà.
 
 67
 00:05:26,820 --> 00:05:30,090
-Ni jiao shenme mingzi.
+Nǐ jiào shénme míngzi?
 
 68
 00:05:30,090 --> 00:05:33,600
-Wo jiao Xudong.
+Wǒ jiào Xùdōnɡ.
 
 69
 00:05:33,600 --> 00:05:38,115
-Hen gaoxing renshi ni.
+Hěn ɡāoxìnɡ rènshi nǐ.
 
 70
 00:05:38,115 --> 00:05:42,820
-Han gaoxing renshi ni.
+Hěn ɡāoxìnɡ rènshi nǐ.
 
 71
 00:05:43,700 --> 00:05:48,515
@@ -294,21 +298,28 @@ Ni hao. Wo jiao Bide.
 00:06:10,740 --> 00:06:10,741
 Hen gaoxing renshi ni.
 
+(Ni hao. Wo jiao Mali.
+Hen gaoxing renshi ni.
+Ni hao. Wo jiao Bide.
+Hen gaoxing renshi ni.
+Ni hao. Wo jiao Mali.
+Hen gaoxing renshi ni.)
+
 75
 00:06:10,741 --> 00:06:14,320
 Okay? Let's see the answers.
 
 76
 00:06:16,790 --> 00:06:23,850
-The man's name, Bide,
+The man's name, Bǐdé,
 
 77
 00:06:23,850 --> 00:06:30,120
-Bide, and the woman's name,
+Bǐdé, and the woman's name,
 
 78
 00:06:30,120 --> 00:06:35,320
-Mali, Mali.
+Mǎlì, Mǎlì.
 
 79
 00:06:36,410 --> 00:06:42,010
