@@ -190,20 +190,19 @@ about telephone number.
 
 46
 00:04:33,801 --> 00:04:38,102
->> [Tíngnà, Nǐ de diànhuà hàomǎ shì duōshao?]
+>> [Tíngnà, nǐ de diànhuà hàomǎ shì duōshao?]
 
 47
 00:04:38,102 --> 00:04:44,743
->> [wǒ de diànhuà hàomǎ shì liù èr qī wǔ sì yāo èr èr(6275 4122). Nǐ de ne?]
+>> [Wǒ de diànhuà hàomǎ shì liù èr qī wǔ sì yāo èr èr(6275 4122). Nǐ de ne?]
 
 48
 00:04:44,743 --> 00:04:49,996
->> [wǒ de shì liù èr qī liù qī yāo qī wǔ(6276 7175).]
-
+>> [Wǒ de shì liù èr qī liù qī yāo qī wǔ(6276 7175).]
 
 49
 00:04:49,996 --> 00:04:53,393
->> [Hao, wǒ míngtiān geǐ nǐ ǎdiànhuà.]
+>> [Hao, wǒ míngtiān geǐ nǐ dǎ diànhuà.]
 
 50
 00:04:55,477 --> 00:04:57,897
@@ -272,7 +271,7 @@ emergency number
 
 65
 00:06:18,747 --> 00:06:23,493
-in China [yāo yāo línɡ].
+in China [yāo yāo línɡ (110)].
 
 66
 00:06:23,493 --> 00:06:28,327
@@ -280,7 +279,7 @@ And in America,
 
 67
 00:06:28,327 --> 00:06:31,439
-[jiǔ yāo yāo].
+[jiǔ yāo yāo (911)].
 
 68
 00:06:31,439 --> 00:06:37,304
@@ -292,7 +291,8 @@ sentence in the video,
 
 70
 00:06:42,404 --> 00:06:51,081
-[Wǒ míngtiān gěi nǐ dǎ diànhuà.] I will give you a ring tomorrow.
+It's [Wǒ míngtiān gěi nǐ dǎ diànhuà.]
+I will give you a ring tomorrow.
 
 71
 00:06:51,081 --> 00:06:55,725
@@ -309,40 +309,41 @@ it can't go to the end of a sentence.
 Read with me please.
 
 74
-00:07:04,501 --> 00:07:09,458
-[FOREIGN]
+00:07:04,501 --> 00:07:12,458
+[Wǒ míngtiān gěi nǐ dǎ diànhuà.]
 
 75
-00:07:09,458 --> 00:07:14,414
-Again,
+00:07:13,458 --> 00:07:14,414
+again.
 
 76
 00:07:14,414 --> 00:07:20,789
-[FOREIGN].
+[Wǒ míngtiān gěi nǐ dǎ diànhuà.]
 
 77
 00:07:23,045 --> 00:07:24,900
 Let's read the text.
 
 78
-00:07:28,150 --> 00:07:38,150
-[FOREIGN]
+00:07:28,150 --> 00:07:36,150
+[Tíngnà, nǐ de diànhuà hàomǎ shì duōshao?]
 
 79
-00:07:40,905 --> 00:07:50,905
-[FOREIGN] 
+00:07:36,905 --> 00:07:51,905
+ [wǒ de diànhuà hàomǎ shì liù èr qī wǔ sì yāo èr èr(6275 4122).]
 
 80
-00:07:53,660 --> 00:07:59,126
-[FOREIGN]
+00:07:52,660 --> 00:07:54,126
+[Nǐ de ne?]
 
 81
-00:07:59,126 --> 00:08:04,592
-[FOREIGN] 
+00:07:55,126 --> 00:08:06,592
+[wǒ de shì liù èr qī liù qī yāo qī wǔ(6276 7175).]
 
 82
-00:08:04,592 --> 00:08:14,592
-[FOREIGN] That's all for today.
+00:08:07,592 --> 00:08:16,592
+[Hao, wǒ míngtiān geǐ nǐ dǎ diànhuà.]
+That's all for today.
 
 83
 00:08:17,350 --> 00:08:20,349
