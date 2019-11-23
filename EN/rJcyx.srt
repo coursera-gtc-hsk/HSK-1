@@ -12,7 +12,6 @@ On our planet one out of
 five people is Chinese.
 
 4
-00:00:20,690 --> 00:00:24,816
 Chinese civilization has a long history, and
 
 5
@@ -81,4 +80,3 @@ See you soon.
 
 19
 00:01:32,522 --> 00:01:35,989
-[Zàijiàn!]Bye.
