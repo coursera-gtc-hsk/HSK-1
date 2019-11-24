@@ -14,7 +14,7 @@ a couple of characters in each lesson.
 4
 00:00:14,480 --> 00:00:19,520
 Firstly, please look at
-the information about stroke order for
+the information about the stroke order for
 
 5
 00:00:19,520 --> 00:00:24,610
@@ -35,5 +35,5 @@ with a pen and a piece of paper.
 Are you ready?
 
 9
-00:00:33,968 --> 00:00:43,968
+00:00:33,968 --> 00:00:34,968
 [MUSIC]

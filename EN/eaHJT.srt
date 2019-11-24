@@ -1,20 +1,20 @@
 1
-00:00:00,000 --> 00:00:04,757
+00:00:00,173 --> 00:00:04,679
 [MUSIC]
 
 2
-00:00:04,757 --> 00:00:07,000
+00:00:04,679 --> 00:00:06,990
 Writing Chinese characters is fun.
 
 3
-00:00:08,590 --> 00:00:13,440
+00:00:08,590 --> 00:00:13,430
 In this course, I will show you
 a couple of characters in each lesson.
 
 4
 00:00:14,480 --> 00:00:19,520
 Firstly, please look at
-information about stroke order for
+the information about the stroke order for
 
 5
 00:00:19,520 --> 00:00:24,610
@@ -22,18 +22,18 @@ writing Chinese characters and
 the characters you're going to learn.
 
 6
-00:00:24,610 --> 00:00:28,034
-After that, please follow me to write
+00:00:24,610 --> 00:00:26,596
+After that, please,
 
 7
-00:00:28,034 --> 00:00:32,432
-these characters with a pen and
-a piece of paper.
+00:00:26,596 --> 00:00:32,456
+follow me to write these characters
+with a pen and a piece of paper.
 
 8
-00:00:32,432 --> 00:00:33,700
+00:00:32,456 --> 00:00:33,968
 Are you ready?
 
 9
-00:00:33,700 --> 00:00:40,669
+00:00:33,968 --> 00:00:34,968
 [MUSIC]
