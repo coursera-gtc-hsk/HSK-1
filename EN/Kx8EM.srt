@@ -1,6 +1,7 @@
 1
 00:00:00,000 --> 00:00:19,560
-[inaudible]
+[Ni hao. Huanying laidao HSK hanyu ketang.]
+[Wo jiao Yubing. Wo shi zhongguo ren. Ni shi na guo ren?]
 
 2
 00:00:19,560 --> 00:00:23,860
@@ -8,7 +9,7 @@ Can you tell me your country's name in Chinese?
 
 3
 00:00:27,860 --> 00:00:33,630
-Yingguo? Hanguo? Aiji? Aodaliya?
+[Yingguo? Hanguo? Aiji? Aodaliya?]
 
 4
 00:00:33,630 --> 00:00:39,890
@@ -24,43 +25,43 @@ Follow me to read 1 to 10 please.
 
 7
 00:00:53,810 --> 00:00:59,430
-Yi, yi,
+[Yī, yī]
 
 8
 00:00:59,430 --> 00:01:04,430
-er, er,
+[èr, èr]
 
 9
 00:01:04,430 --> 00:01:09,430
-san, san,
+[sān, sān]
 
 10
 00:01:09,430 --> 00:01:13,930
-si, si,
+[sì, sì]
 
 11
 00:01:13,930 --> 00:01:18,430
-wu, wu,
+[wǔ, wǔ]
 
 12
 00:01:18,430 --> 00:01:22,930
-liu, liu,
+[liù, liù]
 
 13
 00:01:22,930 --> 00:01:27,430
-qi, qi,
+[qī, qī]
 
 14
 00:01:28,430 --> 00:01:32,930
-ba, ba,
+[bā, bā]
 
 15
 00:01:32,930 --> 00:01:37,930
-jiu, jiu,
+[jiǚ, jiǚ]
 
 16
 00:01:37,930 --> 00:01:43,035
-shi, shi.
+[shí, shí]
 
 17
 00:01:43,035 --> 00:01:47,470
@@ -68,7 +69,7 @@ On top, the number is
 
 18
 00:01:47,470 --> 00:01:52,770
-ling, ling.
+[líng, líng]
 
 19
 00:01:53,000 --> 00:01:58,940
@@ -76,7 +77,7 @@ Wow, so many pandas.
 
 20
 00:01:58,940 --> 00:02:01,190
-[inaudible]
+[Dàxióngmāo]
 
 21
 00:02:01,190 --> 00:02:05,095
@@ -84,39 +85,39 @@ Let's read it.
 
 22
 00:02:05,095 --> 00:02:09,950
-Yi, yi,
+[Yī, yī]
 
 23
 00:02:10,950 --> 00:02:15,630
-er, er,
+[èr, èr]
 
 24
 00:02:15,630 --> 00:02:19,630
-san, san,
+[sān, sān]
 
 25
 00:02:19,630 --> 00:02:24,130
-si, si
+[sì, sì]
 
 26
 00:02:26,130 --> 00:02:31,130
-wu, wu,
+[wǔ, wǔ]
 
 27
 00:02:31,130 --> 00:02:35,630
-liu, liu,
+[liù, liù]
 
 28
 00:02:35,630 --> 00:02:40,130
-qi, qi,
+[qī, qī]
 
 29
 00:02:42,130 --> 00:02:46,630
-ba, ba,
+[bā, bā]
 
 30
 00:02:46,630 --> 00:02:51,130
-jiu, jiu.
+[jiǔ, jiǔ]
 
 31
 00:02:51,190 --> 00:02:53,600
@@ -124,7 +125,7 @@ The last picture,
 
 32
 00:02:53,600 --> 00:02:59,020
-shi, shi.
+[shí, shí]
 
 33
 00:02:59,380 --> 00:03:04,199
@@ -132,11 +133,11 @@ Numbers above 10 are easy to remember,
 
 34
 00:03:04,199 --> 00:03:11,640
-you just say ten one, ten two, et cetera.
+you just say [ten one, ten two] et cetera.
 
 35
 00:03:11,640 --> 00:03:17,590
-Shi yi, shi er.
+[Shí yī, shí èr]
 
 36
 00:03:17,630 --> 00:03:21,790
@@ -148,47 +149,47 @@ Read the list with me, please.
 
 38
 00:03:25,620 --> 00:03:28,840
-Shi yi
+[Shí yī]
 
 39
 00:03:28,840 --> 00:03:32,840
-Shi er
+[Shí èr]
 
 40
 00:03:32,840 --> 00:03:35,840
-er shi
+[èr shí]
 
 41
 00:03:35,840 --> 00:03:39,340
-er shi san
+[èr shí sān]
 
 42
 00:03:39,340 --> 00:03:43,840
-san shi si
+[sān shí sì]
 
 43
 00:03:43,840 --> 00:03:48,340
-si shi qi
+[sì shí qī]
 
 44
 00:03:48,340 --> 00:03:52,340
-wu shi liu
+[wǔ shí liù]
 
 45
 00:03:52,340 --> 00:03:54,840
-liu shi jiu
+[liù shí jiǔ]
 
 46
 00:03:54,840 --> 00:03:58,575
-qi shi ba,
+[qī shí bā]
 
 47
 00:03:58,575 --> 00:04:01,950
-ba shi wu,
+[bā shí wǔ]
 
 48
 00:04:01,950 --> 00:04:06,250
-jiu shi jiu.
+[jiù shí jiǔ]
 
 49
 00:04:08,630 --> 00:04:13,540
@@ -200,7 +201,10 @@ Here is a video for you.
 
 51
 00:04:16,030 --> 00:04:31,950
-[inaudible]
+[Xudong, ni duo da le?]
+[Wo er shi si sui. Ni ne?]
+[Wo er shi yi sui. Ta duo da le?]
+[Ta shi ba sui.]
 
 52
 00:04:31,950 --> 00:04:35,710
@@ -208,19 +212,19 @@ Did you hear the age of these three people?
 
 53
 00:04:40,910 --> 00:04:43,320
-er shi si
+[èr shí sì]
 
 54
 00:04:43,320 --> 00:04:47,850
-er shi yi
+[èr shí yī]
 
 55
 00:04:47,850 --> 00:04:51,760
-shi ba
+[shí bā]
 
 56
 00:04:54,620 --> 00:04:57,795
-ni duo da le?
+[nǐ duō dà le?]
 
 57
 00:04:57,795 --> 00:04:59,430
@@ -228,11 +232,11 @@ How old are you?
 
 58
 00:04:59,430 --> 00:05:04,650
-Ni duo means how old.
+[Duo da] means how old.
 
 59
 00:05:04,650 --> 00:05:12,110
-Le is used at the end of a sentence to indicate change of state.
+[Le] is used at the end of a sentence to indicate change of state.
 
 60
 00:05:12,110 --> 00:05:20,905
@@ -240,7 +244,7 @@ In other words, there's now a new situation or there is about to be a new situat
 
 61
 00:05:20,905 --> 00:05:24,445
-Si means year.
+[Suì] means year.
 
 62
 00:05:24,445 --> 00:05:27,085
@@ -248,11 +252,11 @@ For the answer to the question,
 
 63
 00:05:27,085 --> 00:05:29,425
-ni duo da le,
+[nǐ duō dà le?]
 
 64
 00:05:29,425 --> 00:05:36,160
-you say, Wo, plus your age and then say,
+you say, [Wǒ], plus your age and then say,
 
 65
 00:05:36,160 --> 00:05:39,020
@@ -260,55 +264,55 @@ read after me please.
 
 66
 00:05:39,020 --> 00:05:44,445
-Ni duo da le?
+[nǐ duō dà le?]
 
 67
 00:05:44,445 --> 00:05:49,460
-Ni duo da le?
+[nǐ duō dà le?]
 
 68
 00:05:49,460 --> 00:05:52,525
-Wo er shi si sui.
+[Wǒ èr shí sì suì.]
 
 69
 00:05:52,525 --> 00:05:56,615
-Wo er shi si sui.
+[Wǒ èr shí sì suì.]
 
 70
 00:05:56,615 --> 00:06:00,700
-Ni ne?
+[Nǐ ne?]
 
 71
 00:06:00,700 --> 00:06:04,105
-Wo er shi yi sui.
+[Wǒ èr shí yī suì.]
 
 72
 00:06:04,105 --> 00:06:08,870
-Wo er shi yi sui.
+[Wǒ èr shí yī suì.]
 
 73
 00:06:09,210 --> 00:06:12,400
-Ta duo da le?
+[Tā duō dà le?]
 
 74
 00:06:12,400 --> 00:06:15,425
-Ta duo da le?
+[Tā duō dà le?]
 
 75
 00:06:15,425 --> 00:06:20,700
-Ta shi ba sui.
+[Tā shí bā suì.]
 
 76
 00:06:20,700 --> 00:06:25,230
-Ta shi ba sui.
+[Tā shí bā suì.]
 
 77
 00:06:25,230 --> 00:06:32,280
-Have you noticed there is a ne after after ni? What is it?
+Have you noticed there is a [ne] after [ni]? What is it?
 
 78
 00:06:32,280 --> 00:06:39,200
-Ne is a participle which can be used to ask reciprocal questions,
+[Ne] is a particle which can be used to ask reciprocal questions,
 
 79
 00:06:39,200 --> 00:06:43,920
@@ -316,11 +320,11 @@ also known as bounce-back questions.
 
 80
 00:06:44,260 --> 00:06:54,450
-Ne can be used to form simple questions asking what about or how about.
+[Ne] can be used to form simple questions asking what about or how about.
 
 81
 00:06:54,450 --> 00:07:00,945
-The structure is, topic plus ne.
+The structure is, topic plus [ne].
 
 82
 00:07:00,945 --> 00:07:02,850
@@ -328,31 +332,31 @@ For example,
 
 83
 00:07:02,850 --> 00:07:06,690
-Ni duo da le?
+[Ni duo da le?]
 
 84
 00:07:06,690 --> 00:07:11,170
-Wo shi liu sui. Ni ne?
+[Wo shi liu sui. Ni ne?]
 
 85
 00:07:11,930 --> 00:07:15,480
-Wo er shi qi sui.
+[Wo er shi qi sui.]
 
 86
 00:07:15,480 --> 00:07:18,730
-Ni shi na guo ren?
+[Ni shi na guo ren?]
 
 87
 00:07:18,770 --> 00:07:22,800
-Wo shi Zhongguo ren.
+[Wo shi Zhongguo ren.]
 
 88
 00:07:22,800 --> 00:07:30,240
-Ni ne? We have
+[Ni ne?] We have
 
 89
 00:07:30,240 --> 00:07:35,790
-learned ni, wo, ta.
+learned [nǐ, wǒ, tā.]
 
 90
 00:07:35,790 --> 00:07:43,935
@@ -360,7 +364,7 @@ Interestingly, the pronunciation for he is the same as for she.
 
 91
 00:07:43,935 --> 00:07:46,590
-So, when I say ta,
+So, when I say [tā],
 
 92
 00:07:46,590 --> 00:07:52,150
@@ -376,7 +380,7 @@ However, in writing we don't have this problem because they are different charac
 
 95
 00:08:05,835 --> 00:08:14,020
-Have a look, ta, ta.
+Have a look, [tā, tā.]
 
 96
 00:08:15,710 --> 00:08:19,660
@@ -392,19 +396,22 @@ The question is how old are they?
 
 99
 00:08:31,300 --> 00:08:55,870
-Number one. [inaudible]
+Number one. [Ta jiao Aobama. Ta wu shi si sui.]
+[Ta jiao Aobama. Ta wu shi si sui.]
 
 100
 00:08:55,870 --> 00:09:15,510
-Number two. [inaudible]
+Number two. [Ta jiao Zhang Ziyi. Ta san shi qi sui.]
+[Ta jiao Zhang Ziyi. Ta san shi qi sui.]
 
 101
 00:09:15,510 --> 00:09:36,720
-Number three. [inaudible]
-
+Number three. [Ta jiao Lin Shuhao. Ta er shi ba sui.]
+[Ta jiao Lin Shuhao. Ta er shi ba sui.]
+ 
 102
 00:09:36,720 --> 00:09:46,020
-Okay. Can you tell me [inaudible]?
+Okay. Can you tell me [Tamen duo da le]?
 
 103
 00:09:46,020 --> 00:09:49,330
@@ -412,11 +419,11 @@ Okay, let's see the answer,
 
 104
 00:09:51,110 --> 00:10:03,100
-Obama [inaudible] Obama, wu shi si qui.
+[Aobama duo da le? Aobama wu shi si sui.]
 
 105
 00:10:03,920 --> 00:10:15,400
-Zhang Ziyi, [inaudible] san shi qi sui.
+[Zhang Ziyi duo da le? Ta san shi qi sui.]
 
 106
 00:10:15,860 --> 00:10:17,730
@@ -424,7 +431,7 @@ The last person,
 
 107
 00:10:17,730 --> 00:10:29,700
-Lin Shuhao  [inaudible] er shi ba sui.
+[Lin Shuhao duo da le? Ta er shi ba sui.]
 
 108
 00:10:29,700 --> 00:10:31,560
@@ -440,8 +447,8 @@ Have a good rest.
 
 111
 00:10:38,865 --> 00:10:39,870
-Xiexie!
+[Xiexie!]
 
 112
 00:10:39,870 --> 00:10:42,520
-Zaijian!
+[Zaijian!]
