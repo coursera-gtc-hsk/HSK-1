@@ -1,175 +1,175 @@
 1
 00:00:12,170 --> 00:00:16,620
 [Nǐ hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.]
-Hello, welcome to Chinese for HSK.
+你好，欢迎来到HSK汉语课堂
 
 2
 00:00:16,620 --> 00:00:18,850
-My name is YU Bin.
+我叫於斌
 
 3
 00:00:18,850 --> 00:00:20,360
-Nice to meet you.
+很高兴认识你
 
 4
 00:00:20,360 --> 00:00:29,970
 [Wǒ jiào Yú Bīn. Hěn ɡāoxìnɡ rènshi nǐ.]
-For the first week of your Chinese study,
+在你中文学习的第一周
 
 5
 00:00:29,970 --> 00:00:33,765
-we'll talk about greetings and numbers.
+我们来讲讲打招呼和数字
 
 6
 00:00:33,765 --> 00:00:37,850
-In this lesson, we're going to learn how to greet
+这节课 我们学习 如何用中文与人打招呼
 
 7
 00:00:37,850 --> 00:00:43,030
-people and how to ask somebody's name in Chinese.
+如何询问某人的名字
 
 8
 00:00:43,030 --> 00:00:47,195
-Firstly, let's watch a short video and see
+首先 我们看一个短视频
 
 9
 00:00:47,195 --> 00:00:51,605
-what people say when they meet for the first time.
+看看人们首次见面时 会说些什么
 
 10
 00:00:51,605 --> 00:01:59,250
-Here come Xudong and Tingna.
+婷娜和旭东来了
 
 11
 00:00:59,250 --> 00:01:00,251
->> [Nǐ hǎo!] >> [Nǐ hǎo!]
+>> 你好 >> 你好
 
 12
 00:01:01,852 --> 00:01:05,000
->> [Nǐ jiào shénme míngzi?]
->> [Wǒ jiào Tínɡnà. Nǐ jiào shénme míngzi?]
+>> 你叫什么名字?
+>> 我叫婷娜 你叫什么名字?
 
 13
 00:01:05,000 --> 00:01:09,800
->> [Wǒ jiào Xùdōnɡ. Hěn gāoxìng rènshi nǐ.]
->> [Hěn gāoxìng rènshi nǐ.]
+>> 我叫旭东 很高兴认识你
+>> 很高兴认识你
 
 14
 00:01:11,258 --> 00:01:12,915
-Cannot understand much? Don't worry.
+理解不了太多? 别担心
 
 15
 00:01:12,915 --> 00:01:18,025
-I'm sure you'll be okay at the end of this lesson.
+我肯定在课程结束的时候你能行
 
 16
 00:01:18,025 --> 00:01:22,520
-You may have known that's the most
-commonly used phrase for
+你可能知道 中文里打招呼最常用的词组
 
 17
 00:01:22,520 --> 00:01:27,950
-greetings in Chinese is [nǐ hǎo], hello.
+是你好 [nǐ hǎo]
 
 18
 00:01:27,950 --> 00:01:32,445
-[Nǐ] means you, [hǎo] means good.
+你[nǐ] 是你的意思 好[hǎo] 是好的意思
 
 19
 00:01:32,445 --> 00:01:36,485
-So, [Nǐ hǎo] literally means you good.
+你好[nǐ hǎo] 字面意思就是 你好
 
 20
 00:01:36,485 --> 00:01:42,485
-However, [Nǐ hǎo] is rarely used among
-very close friends or families.
+然而 你好在亲朋好友间很少用
 
 21
 00:01:42,485 --> 00:01:49,305
-[Nǐ] and [hǎo] are both third tones.
-When two-third tones are read in sequence,
+你与好都是第三声
+当两个第三声连读时
 
 22
 00:01:49,305 --> 00:01:53,045
-the first syllable turns into the second tone.
+第一个音节变为二声
 
 23
 00:01:53,045 --> 00:02:00,180
-So, nǐ hǎo it's read ní hǎo rather than nǐ hǎo.
+你好读作 [ní hǎo] 而不是 [nǐ hǎo]
 
 24
 00:02:00,180 --> 00:02:04,545
-Although, you need to mark it at third tone in writing.
+虽然在写作中要标作 [nǐ hǎo]
 
 25
 00:02:04,545 --> 00:02:13,030
-Follow me please, [ní hǎo], [ní hǎo].
+跟我念 [ní hǎo] [ní hǎo]
 
 26
 00:02:13,150 --> 00:02:17,270
-One day, we may meet up somewhere in the world.
+一天 我们在世界某处相见
 
 27
 00:02:17,270 --> 00:02:20,450
-How do you greet me?
+你怎么跟我打招呼呢?
 
 28
 00:02:20,450 --> 00:02:27,115
-You may say, [ní hǎo! Yú lǎoshī!]
+你可能会说 你好 於老师
+[ní hǎo! Yú lǎoshī!]
 
 29
 00:02:28,130 --> 00:02:32,590
-I say to you, for example,
+我跟你说 比如
 
 30
 00:02:32,740 --> 00:02:41,010
+你好珍妮 你好露西 你好大卫
 [Ní hǎo Jenny, ní hǎo Lucy, ní hǎo David.]
 
 31
 00:02:43,520 --> 00:02:51,075
-To ask somebody's name in Chinese is
+中文中 问某人的名字 是 你叫什么名字
 [Nǐ jiào shénme míngzi?]
 
 32
 00:02:51,075 --> 00:02:54,540
-Literally, your quote what name,
+字面上 你引述名字
 
 33
 00:02:54,540 --> 00:02:56,655
-[jiào] means to call,
+叫[jiào] 意思是叫
 
 34
 00:02:56,655 --> 00:03:00,945
-[shénme] is what, [míngzi] is name.
+什么[shénme]是什么 名字[míngzi]是名字
 
 35
 00:03:00,945 --> 00:03:07,245
-To respond, you say [wǒ jiào] followed by your name.
+回答你可以说 我叫[wǒ jiào] 加上你的名字
 
 36
 00:03:07,245 --> 00:03:10,095
-Unlike English, the question word,
+不像英语 疑问词什么[shénme]
 
 37
 00:03:10,095 --> 00:03:15,580
-[shénme] is usually placed after the verb
-in the sentence.
+通常放在句中动词之后
 
 38
 00:03:15,580 --> 00:03:19,199
-Sometimes, a noun such as a person,
+有时 一个名词 像是人
 
 39
 00:03:19,199 --> 00:03:22,245
-a book, or name follows it.
+书或是名字 会跟在后面
 
 40
 00:03:22,245 --> 00:03:28,425
-Now, read with me: [jiào], [jiào],
+现在跟我念 [jiào] [jiào]
 
 41
 00:03:28,425 --> 00:03:37,695
-[shénme], [shénme], [míngzi], [míngzi], [wǒ], [wǒ].
+[shénme] [shénme] [míngzi] [míngzi]
+[wǒ] [wǒ]
 
 42
 00:03:37,695 --> 00:03:46,466
@@ -178,60 +178,60 @@ Now, read with me: [jiào], [jiào],
 
 43
 00:03:46,466 --> 00:03:55,930
-[Wǒ jiào], [wǒ jiào].
-Let's do an exercise now.
+[Wǒ jiào] [wǒ jiào]
+现在我们做个练习
 
 44
 00:03:57,110 --> 00:04:02,630
-Match the Chinese words with pictures or English words.
+将中文单词与英文单词或是图片连起来
 
 45
 00:04:04,260 --> 00:04:07,760
-Let's say it together.
+我们一起说
 
 46
 00:04:08,010 --> 00:04:13,450
-[Ní hǎo]. Which one? Yeah, here.
+你好 哪一个? 对 这里
 
 47
 00:04:13,450 --> 00:04:22,420
-[Míngzi], [jiào],
+名字 叫
 
 48
 00:04:22,530 --> 00:04:29,700
-this one, [shénme].
+这个 什么
 
 49
 00:04:30,700 --> 00:04:36,430
-Did you get it? One more sentence
+明白了吗? 给你来一句
 
 50
 00:04:36,430 --> 00:04:42,470
-for you is [Hěn gāoxìng rènshi nǐ.], nice to meet you.
+很高兴认识你 [Hěn gāoxìng rènshi nǐ]
 
 51
 00:04:42,470 --> 00:04:46,650
-Literally, it means very happy to know you.
+字面上它是说 很高兴认识你
 
 52
 00:04:46,650 --> 00:04:49,320
-Read after me, please.
+请跟我念
 
 53
 00:04:49,320 --> 00:04:57,705
-[Hěn], [Hěn], [gāoxìng], [gāoxìng], [rènshi],
+[Hěn] [Hěn] [gāoxìng] [gāoxìng] [rènshi]
 
 54
 00:04:57,705 --> 00:05:03,825
-[rènshi], [Hěn gāoxìng rènshi nǐ.]
+[rènshi] [Hěn gāoxìng rènshi nǐ]
 
 55
 00:05:03,825 --> 00:05:08,380
-[Hěn gāoxìng rènshi nǐ.]
+[Hěn gāoxìng rènshi nǐ]
 
 56
 00:05:10,820 --> 00:05:15,250
-Reads the text of the video with me, please.
+请跟我念视频文本
 
 57
 00:05:15,260 --> 00:05:17,760
@@ -267,41 +267,41 @@ Reads the text of the video with me, please.
 
 65
 00:05:43,700 --> 00:05:48,515
-Now, listen to a conversation between two people,
+现在 听一段两人对话
 
 66
 00:05:48,515 --> 00:05:50,360
-two questions for you.
+你有两个问题
 
 67
 00:05:50,360 --> 00:06:10,741
-[Nǐ hǎo, wǒ jiào  Bǐdé. Hěn gāoxìng rènshi nǐ.]
-[Nǐ hǎo, wǒ jiào  Mǎlì. Hěn gāoxìng rènshi nǐ.]
+>> 你好 我叫彼得 很高兴认识你
+>> 你好 我叫玛丽 很高兴认识你
 
 68
 00:06:10,741 --> 00:06:14,320
-Okay? Let's see the answers.
+好 我们来看答案
 
 69
 00:06:16,790 --> 00:06:23,850
-The man's name, [Bǐdé],
+男人的名字 彼得 [Bǐdé] [Bǐdé]
 
 70
 00:06:23,850 --> 00:06:30,120
-[Bǐdé], and the woman's name,
+女人的名字 玛丽 [Mǎlì] [Mǎlì]
 
 71
 00:06:30,120 --> 00:06:35,320
-[Mǎlì], [Mǎlì].
+女人的名字 玛丽 [Mǎlì] [Mǎlì]
 
 72
 00:06:36,410 --> 00:06:42,010
-Are you correct? That's all for today.
+你做对了吗? 这就是今天全部的内容
 
 73
 00:06:42,010 --> 00:06:45,635
-I hope you enjoyed the lesson. Thank you.
+我希望你喜欢这节课 谢谢
 
 74
 00:06:45,635 --> 00:06:50,640
-Bye bye. [Xièxie! Zàijiàn!]
+拜拜 谢谢 再见 [Xièxie! Zàijiàn!]
