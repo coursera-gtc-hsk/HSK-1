@@ -250,62 +250,58 @@ Read the text of the video with me, please.
 [Nǐ jiào shénme míngzi?]
 
 60
-00:05:23,145 --> 00:05:26,820
+00:05:23,145 --> 00:05:30,090
 [Wǒ jiào Tínɡnà. Nǐ jiào shénme míngzi?]
 
 61
-00:05:26,820 --> 00:05:30,090
-[Nǐ jiào shénme míngzi?]
-
-62
 00:05:30,090 --> 00:05:33,600
 [Wǒ jiào Xùdōnɡ.]
 
-63
+62
 00:05:33,600 --> 00:05:38,115
 [Hěn gāoxìng rènshi nǐ.]
 
-64
+63
 00:05:38,115 --> 00:05:42,820
 [Hěn gāoxìng rènshi nǐ.]
 
-65
+64
 00:05:43,700 --> 00:05:48,515
 Now, listen to a conversation between two people,
 
-66
+65
 00:05:48,515 --> 00:05:50,360
 two questions for you.
 
-67
+66
 00:05:50,360 --> 00:06:10,741
 [Nǐ hǎo, wǒ jiào  Bǐdé. Hěn gāoxìng rènshi nǐ.]
 [Nǐ hǎo, wǒ jiào  Mǎlì. Hěn gāoxìng rènshi nǐ.]
 
-68
+67
 00:06:10,741 --> 00:06:14,320
 Okay? Let's see the answers.
 
-69
+68
 00:06:16,790 --> 00:06:23,850
 The man's name, [Bǐdé],
 
-70
+69
 00:06:23,850 --> 00:06:30,120
 [Bǐdé], and the woman's name,
 
-71
+70
 00:06:30,120 --> 00:06:35,320
 [Mǎlì], [Mǎlì].
 
-72
+71
 00:06:36,410 --> 00:06:42,010
 Are you correct? That's all for today.
 
-73
+72
 00:06:42,010 --> 00:06:45,635
 I hope you enjoyed the lesson. Thank you.
 
-74
+73
 00:06:45,635 --> 00:06:50,640
 Bye bye. [Xièxie! Zàijiàn!]

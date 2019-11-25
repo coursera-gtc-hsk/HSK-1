@@ -28,247 +28,212 @@ Where are you from or what's your nationality
 is [nǐ shì nǎ guó rén?].
 
 7
-00:00:44,415 --> 00:00:48,317
-In Chinese, [shì] is to be,
+00:00:44,415 --> 00:00:51,317
+In Chinese, [shì] is to be, [nǎ] is which,
+
+8
+00:00:51,317 --> 00:00:59,870
+[guó] means country or nation, [rén] is
+person or people.
 
 9
-00:00:48,317 --> 00:00:53,870
-[nǎ] is which,
-[guó] means country,
+00:00:59,870 --> 00:01:06,876
+Word by word is: you, are, which, country,
+person.
 
 10
-00:00:53,870 --> 00:00:58,980
-a nation, [rén] is person or people.
+00:01:06,876 --> 00:01:19,242
+Read after me please, [nǐ shì nǎ guó rén?]
 
 11
-00:01:00,070 --> 00:01:06,876
-Word by word is you
-are which country person?
+00:01:19,242 --> 00:01:24,400
+Is the word order in sentence weird?
+Not really.
 
 12
-00:01:06,876 --> 00:01:14,242
-Read after me please [FOREIGN].
+00:01:24,400 --> 00:01:30,658
+it's the same as [Nǐ jiào shénme míngzi].
 
 13
-00:01:14,242 --> 00:01:20,861
-That's word order in sentence
-
-14
-00:01:20,861 --> 00:01:25,444
-weird, not really,
-
-15
-00:01:25,444 --> 00:01:31,307
-it's the same as [FOREIGN].
-
-16
-00:01:31,307 --> 00:01:38,260
+00:01:30,658 --> 00:01:36,290
 A subject, a verb,
 question word, and a noun.
 
-17
-00:01:38,260 --> 00:01:43,266
-If you ask me [FOREIGN].
+14
+00:01:38,540 --> 00:01:42,259
+If you ask me, [Nǐ shì nǎ ɡuórén?]
 
-18
-00:01:43,266 --> 00:01:49,472
-I'll tell you [FOREIGN] I'm Chinese.
+15
+00:01:42,259 --> 00:01:50,167
+I'll tell you [Wǒ shì Zhōnɡɡuórén.]
+I'm Chinese.
 
-19
+16
 00:01:49,472 --> 00:01:56,469
-[FOREIGN] It's China, so
-to talk about nationality in Chinese,
+[Zhōnɡɡuó] is China, so to talk about
+nationality in Chinese,
 
-20
+17
 00:01:56,469 --> 00:02:02,049
-you just add [FOREIGN] after
+you just add [rén] after
 the name of the country.
 
+18
+00:02:02,049 --> 00:02:07,643
+For example American is [Měiɡuórén],
+
+19
+00:02:07,643 --> 00:02:13,237
+Japanese is [Rìběnrén].
+
+20
+00:02:12,998 --> 00:02:20,230
+Please pay attention to [shì],
+Chinese verbs do not have deflections.
+
 21
-00:02:02,049 --> 00:02:08,661
-For example American is [FOREIGN],
+00:02:20,230 --> 00:02:27,241
+That is the form of the verb is the same
+no matter what the subject is.
 
 22
-00:02:08,661 --> 00:02:12,998
-Japanese is [FOREIGN].
+00:02:29,974 --> 00:02:33,360
+For example, in the sentences,
 
 23
-00:02:12,998 --> 00:02:20,230
-Please pay attention to [FOREIGN],
-Chinese verbs do not have inflections.
+00:02:33,688 --> 00:02:42,774
+[Wǒ shì Zhōnɡɡuó rén], [Nǐ shì Měiɡuó rén],
+[Tā shì Yìdàlì rén],
 
 24
-00:02:20,230 --> 00:02:27,241
-That is the form of the verb it's
-the same no matter what the subject is.
+00:02:42,774 --> 00:02:50,017
+the verb is always [shì] never changes.
 
 25
-00:02:29,974 --> 00:02:33,360
-For example,
+00:02:50,873 --> 00:02:52,805
+Read after me please
 
 26
-00:02:33,360 --> 00:02:37,874
-in the sentences,
+00:02:52,805 --> 00:03:05,327
+[Wǒ shì Zhōnɡɡuó rén] [Nǐ shì Měiɡuó rén]
+[Tā shì Yìdàlì rén]
 
 27
-00:02:37,874 --> 00:02:44,082
-[FOREIGN] the verb is always
+00:03:05,327 --> 00:03:17,349
+again? [Wǒ shì Zhōnɡɡuó rén] [Nǐ shì Měiɡuó rén]
+[Tā shì Yìdàlì rén]
 
 28
-00:02:44,082 --> 00:02:50,017
-[FOREIGN] never changes.
+00:03:19,379 --> 00:03:24,975
+Let's watch a video now, listen to [Xùdōnɡ] and
+[Kǎilì] carefully,
 
 29
-00:02:50,017 --> 00:02:56,625
-Read after
+00:03:24,975 --> 00:03:28,896
+tell me where they're from.
 
 30
-00:02:56,625 --> 00:03:03,967
-me please,
+00:03:29,885 --> 00:03:31,675
+>> [ní hǎo.] >> [ní hǎo.]
 
 31
-00:03:03,967 --> 00:03:09,107
-[FOREIGN]
+00:03:31,675--> 00:03:36,796
+>>[Nǐ shì nǎ ɡuórén?]
+>>[Wǒ shì Zhōnɡɡuó rén. Nǐ shì nǎ ɡuórén?]
 
 32
-00:03:09,107 --> 00:03:12,778
-again
+00:03:36,796 --> 00:03:50,545
+>> [Wǒ shì Měiɡuó rén. Tā shì nǎ ɡuórén?]
+>> [Tā yě shì Zhōnɡɡuó rén.]
 
 33
-00:03:12,778 --> 00:03:19,392
-[FOREIGN].
+00:03:53,603 --> 00:03:54,886
+An exercise for you.
 
 34
-00:03:19,392 --> 00:03:24,677
-Let's watch a video now,
-listen to [FOREIGN] and
-
-35
-00:03:24,677 --> 00:03:30,105
-[FOREIGN] carefully tell
-me where they're from.
-
-36
-00:03:30,105 --> 00:03:32,175
->> [FOREIGN]
->> [FOREIGN]
-
-37
-00:03:32,175 --> 00:03:33,796
->> [FOREIGN]
-
-38
-00:03:33,796 --> 00:03:37,745
->> [FOREIGN]
-
-39
-00:03:37,745 --> 00:03:47,745
->> [FOREIGN]
-
-40
-00:03:53,603 --> 00:03:54,886
->> An exercise for you.
-
-41
-00:03:58,074 --> 00:04:01,268
+00:03:58,005 --> 00:04:01,480
 Match the people in the video
 with their nationalities.
 
-42
-00:04:07,748 --> 00:04:16,127
-Okay, [FOREIGN]
+35
+00:04:07,748 --> 00:04:18,127
+Okay, [Xùdōnɡ shì nǎ ɡuórén?]
+[Zhōnɡɡuó rén]
 
-43
-00:04:16,127 --> 00:04:22,571
-and the girl
+36
+00:04:18,127 --> 00:04:26,727
+[Kǎilì shì Měiɡuó rén]
 
-44
-00:04:22,571 --> 00:04:29,665
-with the book
+37
+00:04:26,727 --> 00:04:29,571
+and the girl with the book
 
-45
-00:04:32,357 --> 00:04:37,111
-[FOREIGN] are you correct?
+38
+00:04:31,357 --> 00:04:37,111
+[yě shì Zhōnɡɡuó rén]
+are you correct?
 
-46
-00:04:41,679 --> 00:04:46,833
+39
+00:04:41,679 --> 00:04:50,963
 The last dialogue in the video
+is a question, [Tā shì nǎ ɡuórén?]
 
-47
-00:04:46,833 --> 00:04:50,963
-is a question [FOREIGN].
+40
+00:04:50,963 --> 00:05:03,866
+And the answer, [Tā yě shì Zhōnɡɡuó rén.]
+[Tā] means she, [yě] means also.
 
-48
-00:04:50,963 --> 00:04:55,665
-[FOREIGN]
-means
-
-49
-00:04:55,665 --> 00:05:00,366
-she, [FOREIGN]
-
-50
-00:05:00,366 --> 00:05:04,682
-means also.
-
-51
+41
 00:05:04,682 --> 00:05:07,966
 The question is, where is she from?
 
-52
-00:05:07,966 --> 00:05:11,968
-[FOREIGN].
+42
+00:05:07,966 --> 00:05:13,968
+And [Xùdōnɡ] says, She is also Chinese.
 
-53
-00:05:11,968 --> 00:05:13,707
-She is also Chinese.
+43
+00:05:13,968 --> 00:05:20,755
+Different from English, [yě] is placed
+before verb.
 
-54
-00:05:13,707 --> 00:05:20,755
-Different from English, yeah,
-it's placed before verb.
+44
+00:05:20,755 --> 00:05:26,520
+You can't put it after verb
+or at the end of a sentence.
 
-55
-00:05:20,755 --> 00:05:25,620
-You can't put
+45
+00:05:26,520 --> 00:05:30,076
+Moreover, if you say me too,
 
-56
-00:05:25,620 --> 00:05:30,891
-it after verb or
+46
+00:05:30,076 --> 00:05:37,535
+you can't say [wǒ yě],
+but [wǒ yě shì].
 
-57
-00:05:30,891 --> 00:05:39,405
-at the end of a sentence,
+47
+00:05:39,099 --> 00:05:41,808
+Read with me again,
 
-58
-00:05:39,405 --> 00:05:44,676
-moreover if you
+48
+00:05:41,808 --> 00:05:50,328
+>> [Nǐ shì nǎ ɡuórén?]
+>> [Wǒ shì Zhōnɡɡuó rén. ]
 
-59
-00:05:44,676 --> 00:05:48,731
-say [FOREIGN]
+49
+00:05:50,328 --> 00:05:57,917
+>> [Nǐ shì nǎ ɡuórén?]
+>> [Wǒ shì Měiɡuó rén.]
 
-60
-00:05:48,731 --> 00:05:56,435
-you can't say [FOREIGN]
+50
+00:05:57,917 --> 00:06:07,437
+>> [Tā shì nǎ ɡuórén?]
+>> [Tā yě shì Zhōnɡɡuó rén.]
 
-61
-00:05:56,435 --> 00:06:00,490
-but [FOREIGN]
-
-62
-00:06:00,490 --> 00:06:04,545
-read with me
-
-63
-00:06:04,545 --> 00:06:10,235
-again [FOREIGN].
-
-64
+51
 00:06:10,235 --> 00:06:17,015
 Okay, that's all for today,
 don't forget your quiz for the lesson.
 
-65
+52
 00:06:17,015 --> 00:06:20,878
-[FOREIGN]
+[Xièxie! Zàijiàn!]
