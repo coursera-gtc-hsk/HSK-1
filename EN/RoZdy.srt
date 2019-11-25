@@ -3,43 +3,42 @@
 [MUSIC]
 
 2
-00:00:08,305 --> 00:00:11,056
+00:00:08,047 --> 00:00:17,089
+[Nǐ hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.]
 Hello, welcome to HSK Chinese.
 
 3
-00:00:11,056 --> 00:00:15,409
-[FOREIGN]
-Today
+00:00:17,089 --> 00:00:22,369
+[Wǒ jiào Yú Bīn. Hěn ɡāoxìnɡ rènshi nǐ.]
+I am YU Bin, nice to meet you.
 
 4
-00:00:15,409 --> 00:00:20,124
-we're going to
+00:00:22,369 --> 00:00:28,653
+[Nǐ jiào shénme míngzi, nǐ shì nǎ guó rén?]
+What's your name, what's your nationality?
 
 5
-00:00:20,124 --> 00:00:26,653
-learn how to ask about
-
-6
-00:00:26,653 --> 00:00:34,640
+00:00:28,653 --> 00:00:34,640
+Today we are going to learn how to ask about
 nationality in Chinese.
 
-7
+6
 00:00:37,070 --> 00:00:44,415
-Where are you from or
-what's your nationality is [FOREIGN].
+Where are you from or what's your nationality
+is [nǐ shì nǎ guó rén?].
 
-8
+7
 00:00:44,415 --> 00:00:48,317
-In Chinese, [FOREIGN] is to be,
+In Chinese, [shì] is to be,
 
 9
 00:00:48,317 --> 00:00:53,870
-[FOREIGN] is which,
-[FOREIGN] means country,
+[nǎ] is which,
+[guó] means country,
 
 10
 00:00:53,870 --> 00:00:58,980
-a nation, [FOREIGN] is person or people.
+a nation, [rén] is person or people.
 
 11
 00:01:00,070 --> 00:01:06,876
