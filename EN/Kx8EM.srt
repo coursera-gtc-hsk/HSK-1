@@ -367,7 +367,7 @@ problem because they are different characters.
 
 89
 00:08:05,835 --> 00:08:14,020
-Have a look, [tā, tā.]
+Have a look, [tā, tā]。
 
 90
 00:08:15,710 --> 00:08:19,660
@@ -398,7 +398,7 @@ Tā èr shí bā suì.]
 
 96
 00:09:36,720 --> 00:09:46,020
-Okay. Can you tell me
+Okay. Can you tell me,
 [Tāmén duō dà le]?
 
 97
