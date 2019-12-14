@@ -129,20 +129,20 @@ the time they mention in the video.
 
 31
 00:02:27,288 --> 00:02:31,790
->> [FOREIGN]
->> [FOREIGN]
+—— [FOREIGN]
+—— [FOREIGN]
 
 32
 00:02:31,790 --> 00:02:33,310
->> [FOREIGN]
+—— [FOREIGN]
 
 33
 00:02:33,310 --> 00:02:39,216
->> [FOREIGN]
+—— [FOREIGN]
 
 34
 00:02:39,216 --> 00:02:39,820
->> Okay?
+—— Okay?
 
 35
 00:02:39,820 --> 00:02:49,820
@@ -264,32 +264,32 @@ Xiao Bei's birthday in the video.
 
 62
 00:05:18,938 --> 00:05:24,621
->> [FOREIGN]
->> [FOREIGN]
+—— [FOREIGN]
+—— [FOREIGN]
 
 63
 00:05:24,621 --> 00:05:27,412
->> [FOREIGN]
+—— [FOREIGN]
 
 64
 00:05:27,412 --> 00:05:30,039
->> [FOREIGN]
+—— [FOREIGN]
 
 65
 00:05:30,039 --> 00:05:33,137
->> [FOREIGN]
+—— [FOREIGN]
 
 66
 00:05:33,137 --> 00:05:34,876
->> [FOREIGN]
+—— [FOREIGN]
 
 67
 00:05:34,876 --> 00:05:37,184
->> [FOREIGN].
+—— [FOREIGN].
 
 68
 00:05:37,184 --> 00:05:38,837
->> When is Xiao Bei's birthday?
+—— When is Xiao Bei's birthday?
 
 69
 00:05:38,837 --> 00:05:43,308

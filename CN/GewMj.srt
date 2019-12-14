@@ -8,11 +8,11 @@
 
 3
 00:00:11,333 --> 00:00:15,068
-[Jīntiān shì jǐ yuè jǐ hào？Jīntiān xīnɡqī jǐ？] 
+[Jīntiān shì jǐ yuè jǐ hào？Jīntiān xīnɡqī jǐ？]
 
 4
 00:00:15,068 --> 00:00:22,541
-[Nǐ de shēnɡrì shì jǐ yuè jǐ hào？] 'Happy birthday!' [zěnme shuō]? 
+[Nǐ de shēnɡrì shì jǐ yuè jǐ hào？] 'Happy birthday!' [zěnme shuō]?
 
 5
 00:00:22,541 --> 00:00:29,017
@@ -34,12 +34,12 @@ Listen to dialogue one.
 
 9
 00:00:38,600 --> 00:00:46,008
->> [FOREIGN]
->> [FOREIGN]
+—— [FOREIGN]
+—— [FOREIGN]
 
 10
 00:00:46,008 --> 00:00:48,655
->> What are they talking about?
+—— What are they talking about?
 
 11
 00:00:48,655 --> 00:00:51,697
@@ -93,12 +93,12 @@ Now listen to dialog two.
 
 23
 00:01:52,060 --> 00:01:59,051
->> [FOREIGN]
->> [FOREIGN]
+—— [FOREIGN]
+—— [FOREIGN]
 
 24
 00:01:59,051 --> 00:01:59,621
->> From the picture,
+—— From the picture,
 
 25
 00:01:59,621 --> 00:02:00,950
@@ -205,20 +205,20 @@ in the two cities.
 
 49
 00:04:07,414 --> 00:04:11,183
->> [FOREIGN]
->> [FOREIGN]
+—— [FOREIGN]
+—— [FOREIGN]
 
 50
 00:04:11,183 --> 00:04:12,280
->> [FOREIGN]
+—— [FOREIGN]
 
 51
 00:04:12,280 --> 00:04:13,975
->> [FOREIGN].
+—— [FOREIGN].
 
 52
 00:04:16,499 --> 00:04:22,681
->> [Guǎnɡzhōu de tiānqì zěnmeyànɡ？].
+—— [Guǎnɡzhōu de tiānqì zěnmeyànɡ？].
 
 53
 00:04:22,681 --> 00:04:29,452
@@ -226,15 +226,15 @@ The answer
 
 54
 00:04:29,452 --> 00:04:36,222
-[Tài rè le！] [Tài rè le！] 
+[Tài rè le！] [Tài rè le！]
 
 55
 00:04:36,222 --> 00:04:39,983
-[Hā ěr bīn de tiānqì zěnmeyànɡ？] 
+[Hā ěr bīn de tiānqì zěnmeyànɡ？]
 
 56
 00:04:39,983 --> 00:04:46,753
-[Yǒu diǎnr lěnɡ.] [Yǒu diǎnr lěnɡ.] 
+[Yǒu diǎnr lěnɡ.] [Yǒu diǎnr lěnɡ.]
 
 57
 00:04:46,753 --> 00:04:51,270
@@ -283,7 +283,7 @@ Listen.
 
 68
 00:05:49,041 --> 00:05:51,445
->> Number 1.
+—— Number 1.
 
 69
 00:05:51,445 --> 00:05:55,920
@@ -311,7 +311,7 @@ Number 5.
 74
 00:06:15,674 --> 00:06:24,534
 [FOREIGN]
->> Okay, let's see the answers.
+—— Okay, let's see the answers.
 
 75
 00:06:29,674 --> 00:06:31,853

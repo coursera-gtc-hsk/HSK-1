@@ -140,16 +140,16 @@ Now let's watch a video.
 
 34
 00:02:22,938 --> 00:02:27,012
->> [Nǐ zěnmeyàng?]
->> [Wǒ hěn hǎo. Nǐ ne?]
+—— [Nǐ zěnmeyàng?]
+—— [Wǒ hěn hǎo. Nǐ ne?]
 
 35
 00:02:27,012 --> 00:02:29,561
->> [Wǒ yě hěn hǎo.]
+—— [Wǒ yě hěn hǎo.]
 
 36
 00:02:29,561 --> 00:02:32,913
->> The first sentence in the video is
+—— The first sentence in the video is
 
 37
 00:02:32,913 --> 00:02:35,314
@@ -239,12 +239,12 @@ Have a look, then.
 
 57
 00:04:08,722 --> 00:04:12,269
->> [Xièxie!]
->> [Bú kèqi!]
+—— [Xièxie!]
+—— [Bú kèqi!]
 
 58
 00:04:12,269 --> 00:04:14,850
->> [Xièxie] means thank you.
+—— [Xièxie] means thank you.
 
 59
 00:04:16,210 --> 00:04:20,229
@@ -275,12 +275,12 @@ Dialogue 4 for you.
 
 65
 00:04:45,218 --> 00:04:50,990
->> [Oh, Duìbuqǐ!]
->> [Méi guānxi!]
+—— [Oh, Duìbuqǐ!]
+—— [Méi guānxi!]
 
 66
 00:04:50,990 --> 00:04:52,610
->> What did they say?
+—— What did they say?
 
 67
 00:04:52,610 --> 00:04:56,180
@@ -319,11 +319,11 @@ The last dialogue for you is,
 75
 00:05:30,910 --> 00:05:33,025
 let's watch a video,
->> [Qiáozhì, zaìjiàn!]
+—— [Qiáozhì, zaìjiàn!]
 
 76
 00:05:33,025 --> 00:05:37,079
->> [Míngtiān jiàn!]
+—— [Míngtiān jiàn!]
 
 77
 00:05:40,079 --> 00:05:42,909

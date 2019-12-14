@@ -20,7 +20,7 @@ Nǐ yǒu māo mɑ？Nǐ de ɡǒu jiào shénme mínɡzi？]
 
 6
 00:00:30,002 --> 00:00:35,315
-[Wǒ yǒu ɡǒu，wǒ yě yǒu māo.] 
+[Wǒ yǒu ɡǒu，wǒ yě yǒu māo.]
 
 7
 00:00:35,315 --> 00:00:40,260
@@ -42,7 +42,7 @@ information you've got.
 
 11
 00:00:52,013 --> 00:01:02,013
->> Jenny,
+—— Jenny,
 
 12
 00:01:04,856 --> 00:01:14,856
@@ -54,7 +54,7 @@ Lucy.
 
 14
 00:01:25,340 --> 00:01:29,836
->> Lucy mentioned three
+—— Lucy mentioned three
 people in her email.
 
 15
