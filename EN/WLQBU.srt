@@ -4,11 +4,11 @@
 
 2
 00:00:05,760 --> 00:00:13,807
-[Tónɡxuémen hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.]   
+[Tónɡxuémen hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.]
 
 3
 00:00:13,807 --> 00:00:17,255
-[Nǐ xǐhuɑn zuò shénme？Nǐ xǐhuɑn qù kāfēitīnɡ mɑ？]  
+[Nǐ xǐhuɑn zuò shénme？Nǐ xǐhuɑn qù kāfēitīnɡ mɑ？]
 
 4
 00:00:17,255 --> 00:00:24,152
@@ -24,7 +24,7 @@
 
 7
 00:00:35,647 --> 00:00:45,997
-[yě xǐhuɑn zài nàlǐ jiàn pénɡyou.] The lesson for today 
+[yě xǐhuɑn zài nàlǐ jiàn pénɡyou.] The lesson for today
 [Wǒ ài kàn diànyǐnɡ.].
 
 8
@@ -94,7 +94,7 @@ Three.
 
 24
 00:01:45,696 --> 00:01:54,704
-[FOREIGN] 
+[FOREIGN]
 Who loves watching films?
 
 25
@@ -132,7 +132,7 @@ Read with me, please.
 
 33
 00:02:41,197 --> 00:02:50,024
-[FOREIGN] [ài] 
+[FOREIGN] [ài]
 
 34
 00:02:50,024 --> 00:02:51,876
@@ -194,7 +194,7 @@ It's [zài jiā lǐ] or [zài jiā]. Inside hospital,
 
 48
 00:03:55,217 --> 00:03:59,004
-[zài yīyuàn lǐ]. 
+[zài yīyuàn lǐ].
 
 49
 00:03:59,004 --> 00:04:04,056
@@ -244,7 +244,7 @@ Read the text with me please.
 
 60
 00:05:30,991 --> 00:05:39,411
-[FOREIGN] Let's do an exercise now. 
+[FOREIGN] Let's do an exercise now.
 
 61
 00:05:40,590 --> 00:05:42,093
@@ -268,7 +268,7 @@ Number two.
 
 66
 00:06:09,732 --> 00:06:14,564
-[FOREIGN] 
+[FOREIGN]
 
 67
 00:06:14,564 --> 00:06:18,706
@@ -296,7 +296,7 @@ Number five.
 
 73
 00:06:50,434 --> 00:06:59,756
-[FOREIGN]Please choose one correct answer for each question.Okay, the answers for you here,  
+[FOREIGN]Please choose one correct answer for each question.Okay, the answers for you here,
 
 74
 00:07:06,114 --> 00:07:09,208
@@ -304,7 +304,7 @@ That's
 
 75
 00:07:09,208 --> 00:07:10,611
-one, 
+one,
 
 76
 00:07:10,611 --> 00:07:15,747
@@ -312,15 +312,15 @@ we choose B
 
 77
 00:07:15,747 --> 00:07:21,423
-and 2C, 3A, 4C 
+and 2C, 3A, 4C
 
 78
 00:07:21,423 --> 00:07:26,558
-and 5A. [Nǐ dá duì le mɑ？] 
+and 5A. [Nǐ dá duì le mɑ？]
 
 79
 00:07:26,558 --> 00:07:32,247
-This type of question is the same as part 2 Listening   
+This type of question is the same as part 2 Listening
 
 80
 00:07:32,247 --> 00:07:38,204
@@ -328,15 +328,15 @@ of the HSK test, level one. There are 5 items in part 2.
 
 81
 00:07:38,204 --> 00:07:45,570
-The recording of each item will be played twice.  
+The recording of each item will be played twice.
 
 82
 00:07:46,960 --> 00:07:49,450
-A sentence and 3 pictures are provided 
+A sentence and 3 pictures are provided
 
 83
 00:07:49,450 --> 00:07:55,610
-with each item. You need to choose corresponding pictures 
+with each item. You need to choose corresponding pictures
 
 84
 00:07:55,610 --> 00:08:02,170
