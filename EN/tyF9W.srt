@@ -13,22 +13,24 @@ After learning Chinese for
 4
 00:00:18,955 --> 00:00:23,771
 a week, now you can tell me
-[Nǐ jiào shénme mínɡzi? Nǐ shì nǎ ɡuó rén? Nǐ duō dà le?]
+[Nǐ jiào shénme mínɡzi?]
+[Nǐ shì nǎ ɡuó rén? Nǐ duō dà le?]
 
 5
 00:00:23,771 --> 00:00:28,294
 [Nǐ de diànhuà hàomǎ shì duōshao?]
 
 6
-00:00:28,294 --> 00:00:33,459
+00:00:28,294 --> 00:00:30,459
 You can also say
 
 7
-00:00:33,459 --> 00:00:39,814
-[Lǎoshī hǎo! Nǐ zěnmeyànɡ? Xièxie! Búkèqi! Duìbuqǐ! Méiɡuānxi!]
+00:00:30,459 --> 00:00:40,814
+[Lǎoshī hǎo! Nǐ zěnmeyànɡ?]
+[Xièxie! Búkèqi! Duìbuqǐ! Méiɡuānxi!]
 
 8
-00:00:39,814 --> 00:00:45,390
+00:00:40,814 --> 00:00:45,390
 [Zàijiàn!] and so on. That's great.
 
 9
@@ -45,8 +47,8 @@ Let's start from lesson one.
 [Tā shì shéi？] Look at the picture.
 
 12
-00:00:58,408 --> 00:01:04,180
-There are bàba, māma, gēge, mèimei.
+00:00:58,408 --> 00:01:10,180
+There are [bàba, māma, gēge, mèimei].
 
 13
 00:01:10,641 --> 00:01:14,247
@@ -70,215 +72,188 @@ Let's watch a video and
 see how Xudong introduces his family.
 
 18
-00:01:36,371 --> 00:01:40,740
+00:01:36,371 --> 00:01:44,740
 >> [Xù dōng, tā shì shéi?]
-
-19
-00:01:44,224 --> 00:01:47,022
 >> [Tā shì wǒ māma, jīn nián sì shí liù suì.]
 
-20
-00:01:47,022 --> 00:01:49,059
+19
+00:01:44,224 --> 00:01:53,975
 >> [Tā shì shéi?]
-
-21
-00:01:49,059 --> 00:01:51,497
->> [FOREIGN]
-
-22
-00:01:50,497 --> 00:01:53,975
 >> [Tā shì wǒ mèimei, jīn nián shí jiǔ suì.]
 
+20
+00:01:53,975 --> 00:01:57,257
+>> [Nǐ mèi mèi hěn piào liàng.]
+>> [Xiè xie]
+
+21
+00:01:57,257 --> 00:02:06,893
+>> [Zhègèrén shì shéi?]
+>> [Zhègèrén shì wǒ bàba. Tā jīn nián wǔ shí suì.]
+
+22
+00:02:00,100 --> 00:02:12,398
+>> How many people are there in Xudong's family?
+
 23
-00:01:57,257 --> 00:02:00,100
->> [FOREIGN]
-
-24
-00:02:00,100 --> 00:02:06,893
->> How many people are there
-
-25
-00:02:06,893 --> 00:02:12,398
-in Xudong's family?
-
-26
 00:02:12,398 --> 00:02:18,322
-[Duì，sì kǒu (口, measure word for people, especially for family members) rén.]
+[Duì，sì kǒu rén.]
 There are four people.
 
-27
-00:02:18,322 --> 00:02:22,541
-[bàbɑ, māmɑ, mèimei] and [Xudong].
+24
+00:02:18,322 --> 00:02:28,541
+[Bàbɑ, māmɑ, mèimei] and [Xùdōng].
 [Tāmen duōdà le？]
 
+25
+00:02:28,541 --> 00:02:37,422
+[Māmɑ duōdà? Māmɑ sì shí liù suì.]
+
+26
+00:02:37,422 --> 00:02:43,580
+[Bàbɑ duōdà? Bàbɑ wǔ shí suì.]
+
+27
+00:02:43,580 --> 00:02:53,294
+[Mèimei duōdà? Mèimei shí jiǔ suì.]
+
 28
-00:02:22,541 --> 00:02:25,346
-[FOREIGN]
+00:02:54,294 --> 00:02:58,910
+Let's see the whole text of the video.
 
 29
-00:02:30,051 --> 00:02:33,422
-[FOREIGN]
-
-30
-00:02:38,014 --> 00:02:41,580
-[FOREIGN]
-
-31
-00:02:41,580 --> 00:02:46,164
-[FOREIGN]
-
-32
-00:02:46,164 --> 00:02:53,294
-[FOREIGN]
-
-33
-00:02:53,294 --> 00:02:59,410
-[FOREIGN] Let's see the whole text of the video.
-
-34
-00:02:59,410 --> 00:03:03,722
+00:02:58,910 --> 00:03:03,722
 Read after me please.
 
-35
-00:03:03,722 --> 00:03:12,817
-[FOREIGN]
+30
+00:03:03,722 --> 00:03:15,817
+>> [Xù dōng, tā shì shéi?]
+>> [Tā shì wǒ māma. Tā jīn nián sì shí liù suì.]
 
-36
-00:03:12,817 --> 00:03:19,313
-[FOREIGN]
+31
+00:03:15,817 --> 00:03:28,313
+>> [Tā shì shéi?]
+>> [Tā shì wǒ mèimei. Tā jīn nián shí jiǔ suì.]
 
-37
-00:03:19,313 --> 00:03:25,808
-[FOREIGN]
+32
+00:03:28,813 --> 00:03:37,644
+[shéi] means who or whom. We learned
+[shénme] [nǎ] in previous lessons.
 
-38
-00:03:25,808 --> 00:03:33,606
-[FOREIGN]
+33
+00:03:37,644 --> 00:03:41,644
+[shéi] is another wh-word.
 
-39
-00:03:33,606 --> 00:03:41,644
-[shéi] means who or whom. We learned [shénme] [nǎ] in previous lessons. [shéi] is another wh-word.
-
-40
+34
 00:03:41,644 --> 00:03:48,242
-[jīnnián] is this year. [FOREIGN]
+[jīnnián] is this year.
+[Tā jīn nián sì shí liù suì]
 
-41
+35
 00:03:48,242 --> 00:03:54,353
 Why we say 'this year' while talking
 about people's age in Chinese?
 
-42
-00:03:54,353 --> 00:04:02,187
+36
+00:03:54,353 --> 00:04:00,187
 It's because in Chinese culture,
-
-43
-00:04:02,187 --> 00:04:10,541
 your age changes when it's New Year,
 
-44
-00:04:10,541 --> 00:04:17,851
+37
+00:04:00,187 --> 00:04:05,851
 no matter when your birthday is.
 
-45
-00:04:17,851 --> 00:04:22,827
-Read after me please. [FOREIGN].
+38
+00:04:05,851 --> 00:04:15,827
+Read after me please.
+[Nǐ mèi mèi hěn piào liàng.] [Xiè xie]
 
-46
-00:04:22,827 --> 00:04:24,910
-[FOREIGN].
+39
+00:04:16,827 --> 00:04:29,910
+>> [Zhègèrén shì shéi?]
+>> [Zhègèrén shì wǒ bàba. Tā jīn nián wǔ shí suì.]
 
-47
-00:04:24,910 --> 00:04:32,124
-[FOREIGN]. [piàoliɑnɡ] is pretty or beautiful.
+40
+00:04:29,910 --> 00:04:33,124
+[piàoliɑnɡ] is pretty or beautiful.
 
-48
-00:04:32,124 --> 00:04:39,084
-[Zhè ɡe rén]
-means this person.
+41
+00:04:33,124 --> 00:04:39,084
+[Zhè ɡe rén] means this person.
 
-49
+42
 00:04:39,084 --> 00:04:40,729
 Let's do an exercise.
 
-50
+43
 00:04:42,450 --> 00:04:50,167
 Look at the picture and ask questions as many
 as you can about the person in the picture.
 
-51
+44
 00:04:50,167 --> 00:04:56,852
 I think at least now you're able
 to ask five questions in Chinese.
 
-52
-00:05:02,121 --> 00:05:05,918
-[FOREIGN]
+45
+00:05:02,121 --> 00:05:09,918
+[Tā shì shéi?] [Zhègèrén shì shéi?]
 
-53
-00:05:13,921 --> 00:05:24,239
-[FOREIGN]
+46
+00:05:09,918 --> 00:05:14,239
+[Tā jiào shénme mínɡzi?]
 
-54
-00:05:24,239 --> 00:05:33,084
-[FOREIGN] Okay.
+47
+00:05:15,239 --> 00:05:19,239
+[Tā shì nǎ ɡuó rén?]
 
-55
-00:05:33,084 --> 00:05:37,262
-How do you answer the questions?
+48
+00:05:21,239 --> 00:05:24,239
+[Tā duō dà le?]
 
-56
-00:05:37,262 --> 00:05:40,140
+49
+00:05:25,239 --> 00:05:31,239
+[Tā Nǐ de diànhuà hàomǎ shì duōshao?]
+
+50
+00:05:32,584 --> 00:05:36,762
+Okay. How do you answer the questions?
+
+51
+00:05:36,762 --> 00:05:40,140
 Please have a try by yourself.
 
-57
-00:05:42,619 --> 00:05:44,550
+52
+00:05:42,619 --> 00:05:49,978
 Another exercise for you.
-
-58
-00:05:46,670 --> 00:05:49,978
 Match the questions and answers.
 
-59
-00:05:49,978 --> 00:05:51,801
-Number one.
+53
+00:05:49,978 --> 00:05:55,131
+Number one. [Tāmen shì shéi?]
 
-60
-00:05:51,801 --> 00:05:55,131
-[FOREIGN]
+54
+00:05:59,472 --> 00:06:05,712
+[Bàba hé māma.]
 
-61
-00:05:59,472 --> 00:06:02,832
-[FOREIGN]
+55
+00:06:05,712 --> 00:06:14,877
+Number two. [nǐmèimei jīnnián duō dà le?]
 
-62
-00:06:02,832 --> 00:06:05,712
-[FOREIGN]
+56
+00:06:14,877 --> 00:06:17,542
+[Shí èr suì.]
 
-63
-00:06:05,712 --> 00:06:11,877
-Number two
+57
+00:06:17,542 --> 00:06:23,161
+Number three. [Tā de tóngxué piàoliang mā?]
 
-64
-00:06:11,877 --> 00:06:18,042
-[FOREIGN].
-
-65
-00:06:18,042 --> 00:06:22,161
-Number three [FOREIGN].
-
-66
-00:06:22,161 --> 00:06:25,632
-[FOREIGN]
-
-67
-00:06:25,632 --> 00:06:33,071
+58
+00:06:25,632 --> 00:06:32,071
+[Hěn piào liàng.]
 Are you correct?
 
-68
-00:06:33,071 --> 00:06:36,748
+59
+00:06:32,071 --> 00:06:39,364
 That's all for today. See you soon.
-
-69
-00:06:36,748 --> 00:06:39,364
 [Xièxie! Zàijiàn!]
