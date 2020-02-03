@@ -1,379 +1,384 @@
 1
 00:00:00,000 --> 00:00:05,971
-[MUSIC]
+[背景音乐]
 
 2
 00:00:05,971 --> 00:00:11,587
-[FOREIGN]
-You can
+同学们好 欢迎来到HSK汉语课堂
 
 3
-00:00:11,587 --> 00:00:15,907
-tell me your
-
+00:00:11,587 --> 00:00:16,407
+现在几点了 你几点吃饭
 4
-00:00:15,907 --> 00:00:21,091
-daily routine
+00:00:16,407 --> 00:00:21,091
+你什么时候看电视 你什么时候睡觉
 
 5
 00:00:21,091 --> 00:00:27,920
-in Chinese now.
+你可以用汉语跟我讲你的日常生活
 
 6
 00:00:27,920 --> 00:00:28,480
-That's great.
+那很棒
 
 7
 00:00:30,270 --> 00:00:34,650
-Today we're going to learn the days
-of the week and the birthdays.
+今天我们来讲一周当中的天 以及生日
 
 8
 00:00:37,160 --> 00:00:44,132
-To ask what day of the week
-is it today is [FOREIGN].
+问今天是一周的哪天
+是 今天是星期几[Jīntiān xīngqījǐ?]
 
 9
 00:00:44,132 --> 00:00:47,760
-[FOREIGN] means week in Chinese.
+星期[Xīngqī] 在汉语当中是周的意思
 
 10
 00:00:47,760 --> 00:00:53,760
-This is also used to indicate which
-weekday you're talking about.
+它也用来表明
+你在说一周中的哪天
 
 11
 00:00:55,240 --> 00:00:59,460
-It's much easier to say days of
-the week in Chinese than in English.
+汉语中 说一周中的一天
+要比英语容易
 
 12
 00:00:59,460 --> 00:01:04,761
-They are formed by the words
-week followed by a number.
+它们由表示周的词加上一个数字组成
 
 13
-00:01:04,761 --> 00:01:09,944
-For example, Monday is [FOREIGN].
+00:01:04,761 --> 00:01:10,444
+比如 星期一[xīngqīyī]
 
 14
-00:01:09,944 --> 00:01:13,519
-Tuesday is [FOREIGN].
+00:01:10,444 --> 00:01:13,519
+星期二[xīngqīèr]
 
 15
 00:01:13,519 --> 00:01:16,736
-What about Wednesday?
+Wednesday如何呢
 
 16
 00:01:16,736 --> 00:01:20,140
-Yes, it's [FOREIGN].
+对是星期三[xīngqīsān].
 
 17
 00:01:20,140 --> 00:01:20,995
-Here is the table.
+这里是表格
 
 18
 00:01:20,995 --> 00:01:23,892
-Read after me, please.
+请跟我读
 
 19
 00:01:23,892 --> 00:01:28,514
-[FOREIGN]
-or
+星期一[xīngqīyī]  星期二[xīngqīèr]
 
 20
 00:01:28,514 --> 00:01:33,137
-[FOREIGN].
+星期三[xīngqīsān] 星期四[xīngqīsì]
 
 21
 00:01:33,137 --> 00:01:39,130
-As you can see,
+星期五[xīngqīwǔ] 星期六[xīngqīliù]
 
 22
 00:01:39,130 --> 00:01:48,826
-Sunday is an exception.
+星期天[xīngqītiān] 或者星期日[xīngqīrì]
+你可以看到 Sunday是个例外
 
 23
 00:01:48,826 --> 00:01:52,600
-It's [FOREIGN] or [FOREIGN].
+它是 星期天[xīngqītiān] 或者星期日[xīngqīrì]
 
 24
 00:01:52,600 --> 00:01:55,661
-You can't say [FOREIGN].
+你不能说 星期七[xīngqīqī].
 
 25
-00:01:55,661 --> 00:01:59,609
-To answer the question [FOREIGN],
+00:01:56,661  --> 00:02:01,661
+要回答 今天是星期几[Jīntiān xīngqījǐ?]
 
 26
-00:01:59,609 --> 00:02:07,647
-you just need to replace the date
-with the question word, [FOREIGN].
+00:02:01,661--> 00:02:07,647
+你只需要将疑问词 几[jǐ] 换成日期
 
 27
 00:02:07,647 --> 00:02:13,552
-For example,
+比如 今天是星期几[Jīntiān xīngqījǐ?]
 
 28
 00:02:13,552 --> 00:02:17,983
-[FOREIGN].
+今天是星期天[Jīntiān xīngqītiān.]
 
 29
 00:02:17,983 --> 00:02:19,580
-Let's watch a video.
+我们来看个视频
 
 30
-00:02:19,580 --> 00:02:24,026
-Tell me the day and
-the time they mention in the video.
+00:02:20,080 --> 00:02:24,026
+告诉我视频当中
+他们提到的天与日期
 
 31
 00:02:27,288 --> 00:02:31,790
-—— [FOREIGN]
-—— [FOREIGN]
+—— 今天是星期几[Jīntiān xīngqījǐ?]
+—— 今天是星期五[Jīntiān xīngqīwǔ.]
 
 32
 00:02:31,790 --> 00:02:33,310
-—— [FOREIGN]
+—— 你去学校吗[Nǐ qù xuéxiào ma?]
 
 33
 00:02:33,310 --> 00:02:39,216
-—— [FOREIGN]
+—— 去 我十一点二十分去学校
+[Qù, wǒ shíyī diǎn èrshí fēn qù xuéxiào.]
 
 34
 00:02:39,216 --> 00:02:39,820
-—— Okay?
+好了吗
 
 35
-00:02:39,820 --> 00:02:49,820
-[FOREIGN]
+00:02:39,820 --> 00:02:55,820
+星期几[Xīngqījǐ?] 星期五[Xīngqīwǔ.]
+几点[Jǐdiǎn?] 十一点二十分[Shíyī diǎn èrshí fēn.]
 
 36
 00:02:57,819 --> 00:02:59,130
-What are they talking about?
+他们在说什么
 
 37
 00:02:59,130 --> 00:03:01,930
-You may have heard [FOREIGN].
+你可能听到了 学校[xuéxiào]
 
 38
 00:03:01,930 --> 00:03:06,853
-A new word for
-you is [FOREIGN] which means to go.
+对你来说 有个新词 去[qù]
+是 to go 的意思
 
 39
 00:03:06,853 --> 00:03:09,953
-Read the whole conversation with me,
-please.
+请跟我来读整个对话
 
 40
 00:03:09,953 --> 00:03:14,927
-[FOREIGN]
-For
+—— 今天是星期几[Jīntiān xīngqījǐ?]
 
 41
 00:03:14,927 --> 00:03:20,399
-the question
+—— 今天是星期五[Jīntiān xīngqīwǔ.]
 
 42
 00:03:20,399 --> 00:03:24,876
-[FOREIGN],
+—— 你去学校吗[Nǐ qù xuéxiào ma?]
 
 43
 00:03:24,876 --> 00:03:30,347
-are you going
+—— 去 我十一点二十分去学校
+[Qù, wǒ shíyī diǎn èrshí fēn qù xuéxiào.]
 
 44
 00:03:30,347 --> 00:03:35,322
-to school or
+—— 去 我十一点二十分去学校
+[Qù, wǒ shíyī diǎn èrshí fēn qù xuéxiào.]
 
 45
 00:03:35,322 --> 00:03:41,296
-university?
+问题 你会去学校吗[Nǐ qù xuéxiào ma?]
 
 46
 00:03:41,296 --> 00:03:45,317
-The answer is [FOREIGN].
+回答是 去[qù]
 
 47
 00:03:45,317 --> 00:03:49,922
-In Chinese, we often use the verb
-from the question for the answer.
+汉语 我们通常将问题中的动词用在回答当中
 
 48
 00:03:49,922 --> 00:03:56,494
-For example, [FOREIGN].
+比如 你会说汉语吗[Nǐ huì shuō hànyǔ ma?]
 
 49
 00:03:56,494 --> 00:03:58,696
-If yes, you say [FOREIGN].
+如果是 回答 会[huì]
 
 50
 00:03:58,696 --> 00:04:04,616
-If not, you say [FOREIGN].
+如果不是 回答 不会[búhuì].
+你认识他吗[Nǐ rènshi tā ma?]
 
 51
 00:04:04,616 --> 00:04:10,457
-The answer could be [FOREIGN] or
-[FOREIGN].
+回答可以是 认识[rènshi]
+或者 不认识[búrènshi]
 
 52
 00:04:12,689 --> 00:04:17,283
-In Chinese,
-a sentence with the nominal predicate is
+汉语当中 带有名词性谓语的句子
 
 53
 00:04:17,283 --> 00:04:21,476
-a sentence whose predicate
-is nominal element.
+就是谓语为名词性元素的句子
 
 54
 00:04:21,476 --> 00:04:27,753
-It's usually used to indicate age,
-time, date, and so on.
+它通常用来表示年龄 时间 日期等等
 
 55
 00:04:27,753 --> 00:04:34,220
-For example
+比如 今天星期五[Jīntiān xīngqīwǔ.]
 
 56
-00:04:34,220 --> 00:04:38,749
-[FOREIGN]
+00:04:34,220 --> 00:04:45,841
+我我二十七岁[Wǒ èrshíqī suì.]
+现在几点[Xiànzài jǐ diǎn?]
 
 57
 00:04:45,841 --> 00:04:48,198
-There are a couple of new
-words in dialogue two.
+对话二中 有一些新词
 
 58
 00:04:48,198 --> 00:04:50,210
-Read after me please.
+请跟我读
 
 59
-00:04:50,210 --> 00:05:00,210
-[FOREIGN].
+00:04:52,210 --> 00:05:09,210
+号[hào] 生日[shēngrì] 月[yuè] 快乐[kuàilè]
 
 60
 00:05:10,616 --> 00:05:13,922
-Xiao Bei and are talking about birthday.
+小蓓和婷娜在讲生日
 
 61
 00:05:13,922 --> 00:05:18,938
-Listen to them and pay attention to
-Xiao Bei's birthday in the video.
+听她们的对话 注意小蓓的生日
 
 62
 00:05:18,938 --> 00:05:24,621
-—— [FOREIGN]
-—— [FOREIGN]
+—— 今天是几号[Jīntiān shì jǐ hào?]
+—— 今天是十九号[Jīntiān shì shíjiǔ hào.]
 
 63
 00:05:24,621 --> 00:05:27,412
-—— [FOREIGN]
+—— 你的生日是几月几号
+[Nǐ de shēngrì shì jǐ yuè jǐ hào?]
 
 64
 00:05:27,412 --> 00:05:30,039
-—— [FOREIGN]
+—— 我的生日是八月十九号
+[wǒ de shēng rì shì bāyuè shíjiǔ hào.]
 
 65
 00:05:30,039 --> 00:05:33,137
-—— [FOREIGN]
+—— 八月十九号 是今天
+[Bāyuè shíjiǔ hào? Shì jīntiān.]
 
 66
 00:05:33,137 --> 00:05:34,876
-—— [FOREIGN]
+—— 对 是今天[Duì! shì jīntiān.]
 
 67
 00:05:34,876 --> 00:05:37,184
-—— [FOREIGN].
+—— 生日快乐[Shēngrì kuàilè.]
+—— 谢谢[Xièxie.]
 
 68
 00:05:37,184 --> 00:05:38,837
-—— When is Xiao Bei's birthday?
+小蓓的生日是什么时候
+[Xiǎobèi de shēngrì shì shénme shíhou?]
 
 69
-00:05:38,837 --> 00:05:43,308
-[FOREIGN]
+00:05:39,837 --> 00:05:43,308
+小蓓的生日是什么时候
+[Xiǎobèi de shēngrì shì shénme shíhou?]
 
 70
-00:05:43,308 --> 00:05:47,140
-Are you
+00:05:45,308 --> 00:05:49,140
+是八月十九号[Shì bā yuè shíjiǔ hào.]
 
 71
-00:05:47,140 --> 00:05:52,889
-correct?
+00:05:49,140 --> 00:05:52,889
+你答对了吗[Nǐ dá duì le ma?]
 
 72
-00:05:52,889 --> 00:05:55,639
-Please read the text with me.
+00:05:52,889 --> 00:05:56,139
+请跟我读课文
 
 73
-00:05:55,639 --> 00:06:03,616
-[FOREIGN]
+00:05:56,139 --> 00:06:06,616
+—— 今天是几号[Jīntiān shì jǐ hào?]
+—— 今天是十九号[Jīntiān shì shíjiǔ hào.]
 
 74
-00:06:03,616 --> 00:06:09,314
-means
+00:06:06,616 --> 00:06:12,314
+—— 你的生日是几月几号
+[Nǐ de shēngrì shì jǐ yuè jǐ hào?]
 
 75
-00:06:09,314 --> 00:06:15,012
-which
+00:06:12,314 --> 00:06:17,012
+—— 我的生日是八月十九号[wǒ de shēng rì shì bāyuè shíjiǔ hào.]
 
 76
-00:06:15,012 --> 00:06:21,850
-date?
+00:06:17,012 --> 00:06:21,850
+几号[jǐ hào?]] 意思是which date
 
 77
 00:06:21,850 --> 00:06:28,263
-You could also say [FOREIGN] means
+你也可以说 哪天[nǎ tiān].
+你的生日是哪天[Nǐ de shēngrì shì nǎ tiān?]
 
 78
-00:06:28,263 --> 00:06:33,733
-which month, which date?
+00:06:28,263 --> 00:06:34,233
+几月几号[jǐ yuè jǐ hào]
+意思是which month which date
 
 79
-00:06:33,733 --> 00:06:41,530
-In Chinese days follow the order year,
-month, day.
+00:06:34,233 --> 00:06:41,530
+汉语当中 一天按照 年 月 日的顺序
 
 80
 00:06:41,530 --> 00:06:45,350
-This goes from big to
-small in Chinese culture.
+这源于中国文化当中的由大到小
 
 81
 00:06:46,620 --> 00:06:47,277
-Look at some examples.
+来看一些例子
 
 82
 00:06:47,277 --> 00:06:49,548
-The structure.
+结构是[年 + 月 + 日/号]
 
 83
 00:06:49,548 --> 00:06:57,019
-[FOREIGN]
+结构是[年 + 月 + 日/号]
 
 84
-00:06:57,019 --> 00:07:05,556
-Go on with
+00:06:57,019 --> 00:07:13,556
+1986年8月16号
+2016年1月1号
 
 85
-00:07:05,556 --> 00:07:15,163
-the text.
+00:07:13,556 --> 00:07:15,163
+回到课文
 
 86
-00:07:15,163 --> 00:07:20,919
-[FOREIGN]
-That's
+00:07:16,163 --> 00:07:20,919
+—— 八月十九号 是今天
+[Bāyuè shíjiǔ hào? Shì jīntiān.]
 
 87
 00:07:20,919 --> 00:07:26,262
-all for today,
+—— 对 是今天[Duì! shì jīntiān.]
+—— 生日快乐[Shēngrì kuàilè.] —— 谢谢[Xièxie.]
 
 88
 00:07:26,262 --> 00:07:32,428
-I hope you enjoyed
+—— 对 是今天[Duì! shì jīntiān.]
+—— 生日快乐[Shēngrì kuàilè.] —— 谢谢[Xièxie.]
 
 89
 00:07:32,428 --> 00:07:39,832
-the lesson, [FOREIGN]
+这就是今天的内容 希望你喜欢这一课
+谢谢 再见

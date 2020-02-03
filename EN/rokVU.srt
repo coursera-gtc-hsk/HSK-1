@@ -1,7 +1,9 @@
 1
 00:00:00,000 --> 00:00:04,780
->>[FOREIGN]>> [FOREIGN]
+>> [Jīntiān xīngqījǐ?]
+>> [Jīntiān xīngqīwǔ.]
 
 2
 00:00:04,780 --> 00:00:12,354
->> [FOREIGN]>> [FOREIGN]
+>> [Nǐ qù xuéxiào ma?]
+>> [Qù, wǒ shíyī diǎn èrshí fēn qù xuéxiào.]

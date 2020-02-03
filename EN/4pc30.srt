@@ -4,19 +4,21 @@
 
 2
 00:00:05,971 --> 00:00:11,587
-[FOREIGN]
-You can
+[Tóngxuémen hǎo! Huānyíng láidào HSK hànyǔ kètáng.]
 
 3
-00:00:11,587 --> 00:00:15,907
-tell me your
+00:00:11,587 --> 00:00:16,407
+[Xiànzài jǐ diǎn le?]
+[Nǐ jǐ diǎn chīfàn?]
 
 4
-00:00:15,907 --> 00:00:21,091
-daily routine
+00:00:16,407 --> 00:00:21,091
+[Nǐ shénme shíhòu kàn diànshì?]
+[Nǐ shénme shíhòu shuìjiào?]
 
 5
 00:00:21,091 --> 00:00:27,920
+You can tell me your daily routine
 in Chinese now.
 
 6
@@ -31,11 +33,11 @@ of the week and the birthdays.
 8
 00:00:37,160 --> 00:00:44,132
 To ask what day of the week
-is it today is [FOREIGN].
+is it today is [Jīntiān xīngqījǐ?].
 
 9
 00:00:44,132 --> 00:00:47,760
-[FOREIGN] means week in Chinese.
+[Xīngqī] means week in Chinese.
 
 10
 00:00:47,760 --> 00:00:53,760
@@ -53,12 +55,12 @@ They are formed by the words
 week followed by a number.
 
 13
-00:01:04,761 --> 00:01:09,944
-For example, Monday is [FOREIGN].
+00:01:04,761 --> 00:01:10,444
+For example, Monday is [xīngqīyī].
 
 14
-00:01:09,944 --> 00:01:13,519
-Tuesday is [FOREIGN].
+00:01:10,444 --> 00:01:13,519
+Tuesday is [xīngqīèr].
 
 15
 00:01:13,519 --> 00:01:16,736
@@ -66,7 +68,7 @@ What about Wednesday?
 
 16
 00:01:16,736 --> 00:01:20,140
-Yes, it's [FOREIGN].
+Yes, it's [xīngqīsān].
 
 17
 00:01:20,140 --> 00:01:20,995
@@ -74,79 +76,80 @@ Here is the table.
 
 18
 00:01:20,995 --> 00:01:23,892
-Read after me, please.
+Read after me please.
 
 19
 00:01:23,892 --> 00:01:28,514
-[FOREIGN]
-or
+[xīngqīyī]  [xīngqīèr]
 
 20
 00:01:28,514 --> 00:01:33,137
-[FOREIGN].
+[xīngqīsān] [xīngqīsì]
 
 21
 00:01:33,137 --> 00:01:39,130
-As you can see,
+[xīngqīwǔ] [xīngqīliù]
 
 22
 00:01:39,130 --> 00:01:48,826
-Sunday is an exception.
+[xīngqītiān] or [xīngqīrì]
+As you can see, Sunday is an exception.
 
 23
 00:01:48,826 --> 00:01:52,600
-It's [FOREIGN] or [FOREIGN].
+It's [xīngqītiān] or [xīngqīrì].
 
 24
 00:01:52,600 --> 00:01:55,661
-You can't say [FOREIGN].
+You can't say [xīngqīqī].
 
 25
-00:01:55,661 --> 00:01:59,609
-To answer the question [FOREIGN],
+00:01:56,661  --> 00:02:01,661
+To answer the question [Jīntiān xīngqījǐ?],
 
 26
-00:01:59,609 --> 00:02:07,647
+00:02:01,661--> 00:02:07,647
 you just need to replace the date
-with the question word, [FOREIGN].
+with the question word, [jǐ].
 
 27
 00:02:07,647 --> 00:02:13,552
-For example,
+For example, [Jīntiān xīngqījǐ?]
 
 28
 00:02:13,552 --> 00:02:17,983
-[FOREIGN].
+[Jīntiān xīngqītiān.]
 
 29
 00:02:17,983 --> 00:02:19,580
 Let's watch a video.
 
 30
-00:02:19,580 --> 00:02:24,026
+00:02:20,080 --> 00:02:24,026
 Tell me the day and
 the time they mention in the video.
 
 31
 00:02:27,288 --> 00:02:31,790
->> [FOREIGN]
->> [FOREIGN]
+>> [Jīntiān xīngqījǐ?]
+>> [Jīntiān xīngqīwǔ.]
 
 32
 00:02:31,790 --> 00:02:33,310
->> [FOREIGN]
+>> [Nǐ qù xuéxiào ma?]
 
 33
 00:02:33,310 --> 00:02:39,216
->> [FOREIGN]
+>> [Qù, wǒ shíyī diǎn èrshí fēn qù xuéxiào.]
 
 34
 00:02:39,216 --> 00:02:39,820
->> Okay?
+Okay?
 
 35
-00:02:39,820 --> 00:02:49,820
-[FOREIGN]
+00:02:39,820 --> 00:02:55,820
+[Xīngqījǐ?] [Xīngqīwǔ.]
+[Jǐdiǎn?] [Shíyī diǎn èrshí fēn.]
 
 36
 00:02:57,819 --> 00:02:59,130
@@ -154,46 +157,46 @@ What are they talking about?
 
 37
 00:02:59,130 --> 00:03:01,930
-You may have heard [FOREIGN].
+You may have heard [xuéxiào].
 
 38
 00:03:01,930 --> 00:03:06,853
-A new word for
-you is [FOREIGN] which means to go.
+A new word for you is [qù],
+ which means to go.
 
 39
 00:03:06,853 --> 00:03:09,953
-Read the whole conversation with me,
-please.
+Read the whole conversation
+with me, please.
 
 40
 00:03:09,953 --> 00:03:14,927
-[FOREIGN]
-For
+>> [Jīntiān xīngqījǐ?]
 
 41
 00:03:14,927 --> 00:03:20,399
-the question
+>> [Jīntiān xīngqīwǔ.]
 
 42
 00:03:20,399 --> 00:03:24,876
-[FOREIGN],
+>> [Nǐ qù xuéxiào ma?]
 
 43
 00:03:24,876 --> 00:03:30,347
-are you going
+>> [Qù, wǒ shíyī diǎn èrshí fēn qù xuéxiào.]
 
 44
 00:03:30,347 --> 00:03:35,322
-to school or
+>> [Qù, wǒ shíyī diǎn èrshí fēn qù xuéxiào.]
 
 45
 00:03:35,322 --> 00:03:41,296
-university?
+For the question [Nǐ qù xuéxiào ma?],
+are you going to school or university?
 
 46
 00:03:41,296 --> 00:03:45,317
-The answer is [FOREIGN].
+The answer is [qù].
 
 47
 00:03:45,317 --> 00:03:49,922
@@ -202,25 +205,26 @@ from the question for the answer.
 
 48
 00:03:49,922 --> 00:03:56,494
-For example, [FOREIGN].
+For example, [Nǐ huì shuō hànyǔ ma?]
 
 49
 00:03:56,494 --> 00:03:58,696
-If yes, you say [FOREIGN].
+If yes, you say [huì].
 
 50
 00:03:58,696 --> 00:04:04,616
-If not, you say [FOREIGN].
+If not, you say [búhuì].
+[Nǐ rènshi tā ma?]
 
 51
 00:04:04,616 --> 00:04:10,457
-The answer could be [FOREIGN] or
-[FOREIGN].
+The answer could be [rènshi]
+ or [búrènshi].
 
 52
 00:04:12,689 --> 00:04:17,283
-In Chinese,
-a sentence with the nominal predicate is
+In Chinese, a sentence with the nominal
+predicate is
 
 53
 00:04:17,283 --> 00:04:21,476
@@ -234,11 +238,11 @@ time, date, and so on.
 
 55
 00:04:27,753 --> 00:04:34,220
-For example
+For example, [Jīntiān xīngqīwǔ.]
 
 56
-00:04:34,220 --> 00:04:38,749
-[FOREIGN]
+00:04:34,220 --> 00:04:45,841
+[Wǒ èrshíqī suì.] [Xiànzài jǐ diǎn?]
 
 57
 00:04:45,841 --> 00:04:48,198
@@ -250,96 +254,101 @@ words in dialogue two.
 Read after me please.
 
 59
-00:04:50,210 --> 00:05:00,210
-[FOREIGN].
+00:04:52,210 --> 00:05:09,210
+[hào] [shēngrì] [yuè] [kuàilè]
 
 60
 00:05:10,616 --> 00:05:13,922
-Xiao Bei and are talking about birthday.
+Xiaobei and Tingna are talking
+about birthday.
 
 61
 00:05:13,922 --> 00:05:18,938
 Listen to them and pay attention to
-Xiao Bei's birthday in the video.
+Xiaobei's birthday in the video.
 
 62
 00:05:18,938 --> 00:05:24,621
->> [FOREIGN]
->> [FOREIGN]
+>> [Jīntiān shì jǐ hào?]
+>> [Jīntiān shì shíjiǔ hào.]
 
 63
 00:05:24,621 --> 00:05:27,412
->> [FOREIGN]
+>> [Nǐ de shēngrì shì jǐ yuè jǐ hào?]
 
 64
 00:05:27,412 --> 00:05:30,039
->> [FOREIGN]
+>> [wǒ de shēng rì shì bāyuè shíjiǔ hào.]
 
 65
 00:05:30,039 --> 00:05:33,137
->> [FOREIGN]
+>> [Bāyuè shíjiǔ hào? Shì jīntiān.]
 
 66
 00:05:33,137 --> 00:05:34,876
->> [FOREIGN]
+>> [Duì! shì jīntiān.]
 
 67
 00:05:34,876 --> 00:05:37,184
->> [FOREIGN].
+>> [Shēngrì kuàilè.] >> [Xièxie.]
 
 68
 00:05:37,184 --> 00:05:38,837
->> When is Xiao Bei's birthday?
+When is Xiaobei's birthday?
 
 69
-00:05:38,837 --> 00:05:43,308
-[FOREIGN]
+00:05:39,837 --> 00:05:43,308
+[Xiǎobèi de shēngrì shì shénme shíhou?]
 
 70
-00:05:43,308 --> 00:05:47,140
-Are you
+00:05:45,308 --> 00:05:49,140
+[Shì bāyuè shíjiǔ hào.]
 
 71
-00:05:47,140 --> 00:05:52,889
-correct?
+00:05:49,140 --> 00:05:52,889
+[Nǐ dá duì le ma?]
+Are you correct?
 
 72
-00:05:52,889 --> 00:05:55,639
+00:05:52,889 --> 00:05:56,139
 Please read the text with me.
 
 73
-00:05:55,639 --> 00:06:03,616
-[FOREIGN]
+00:05:56,139 --> 00:06:06,616
+>> [Jīntiān shì jǐ hào?]
+>> [Jīntiān shì shíjiǔ hào.]
 
 74
-00:06:03,616 --> 00:06:09,314
-means
+00:06:06,616 --> 00:06:12,314
+>> [Nǐ de shēngrì shì jǐ yuè jǐ hào?]
 
 75
-00:06:09,314 --> 00:06:15,012
-which
+00:06:12,314 --> 00:06:17,012
+>> [wǒ de shēng rì shì bāyuè shíjiǔ hào.]
 
 76
-00:06:15,012 --> 00:06:21,850
-date?
+00:06:17,012 --> 00:06:21,850
+[jǐ hào?]] means which date?
 
 77
 00:06:21,850 --> 00:06:28,263
-You could also say [FOREIGN] means
+You could also say [nǎ tiān].
+[Nǐ de shēngrì shì nǎ tiān?]
 
 78
-00:06:28,263 --> 00:06:33,733
-which month, which date?
+00:06:28,263 --> 00:06:34,233
+[jǐ yuè jǐ hào] means which month,
+which date?
 
 79
-00:06:33,733 --> 00:06:41,530
-In Chinese days follow the order year,
+00:06:34,233 --> 00:06:41,530
+In Chinese, days follow the order year,
 month, day.
 
 80
 00:06:41,530 --> 00:06:45,350
-This goes from big to
-small in Chinese culture.
+This goes from big to small
+ in Chinese culture.
 
 81
 00:06:46,620 --> 00:06:47,277
@@ -348,32 +357,36 @@ Look at some examples.
 82
 00:06:47,277 --> 00:06:49,548
 The structure.
-
+[nián + yuè + rì/hào]
 83
 00:06:49,548 --> 00:06:57,019
-[FOREIGN]
+The structure.
+[nián + yuè + rì/hào]
 
 84
-00:06:57,019 --> 00:07:05,556
-Go on with
+00:06:57,019 --> 00:07:13,556
+[yījiǔbājiǔ nián bā yuè shíliù hào]
+[]èrlíngyīliù nián yī yuè yī hào]
 
 85
-00:07:05,556 --> 00:07:15,163
-the text.
+00:07:13,556 --> 00:07:15,163
+Go on with the text.
 
 86
-00:07:15,163 --> 00:07:20,919
-[FOREIGN]
-That's
+00:07:16,163 --> 00:07:20,919
+>> [Bāyuè shíjiǔ hào? Shì jīntiān.]
 
 87
 00:07:20,919 --> 00:07:26,262
-all for today,
+—— [Duì! shì jīntiān.]
+—— [Shēngrì kuàilè.] —— [Xièxie.]
 
 88
 00:07:26,262 --> 00:07:32,428
-I hope you enjoyed
+—— [Duì! shì jīntiān.]
+—— [Shēngrì kuàilè.] —— [Xièxie.]
 
 89
 00:07:32,428 --> 00:07:39,832
-the lesson, [FOREIGN]
+That's all for today, I hope you
+enjoyed the lesson, [Xièxie! Zàijiàn!]

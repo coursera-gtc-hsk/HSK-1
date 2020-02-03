@@ -1,19 +1,18 @@
 1
 00:00:00,000 --> 00:00:04,200
-[FOREIGN]
->> [FOREIGN]
+>> [Jīntiān shì jǐ hào?]
+>> [Jīntiān shì shíjiǔ hào.]
 
 2
 00:00:04,200 --> 00:00:09,300
->> [FOREIGN]
->> [FOREIGN]
+>> [Nǐ de shēngrì shì jǐ yuè jǐ hào?]
+>> [wǒ de shēng rì shì bāyuè shíjiǔ hào.]
 
 3
 00:00:09,300 --> 00:00:13,980
->> [FOREIGN]
->> [FOREIGN]
+>> [Bāyuè shíjiǔ hào? Shì jīntiān.]
+>> [Duì! shì jīntiān.]
 
 4
 00:00:13,980 --> 00:00:16,114
->> [FOREIGN]
->> [FOREIGN]
+>> [Shēngrì kuàilè.] >> [Xièxie.]
