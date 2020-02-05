@@ -3,20 +3,22 @@
 [MUSIC]
 
 2
-00:00:08,374 --> 00:00:11,687
-[Tónɡxuémen hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.]
+00:00:06,374 --> 00:00:11,687
+[Tónɡxuémen hǎo! Huānyínɡ láidào
+HSK hànyǔ kètánɡ.]
 
 3
 00:00:11,687 --> 00:00:15,946
-[Jīntiān tiānqì zěnmeyànɡ？Jīntiān rè mɑ？] 
+[Jīntiān tiānqì zěnmeyànɡ？Jīntiān rè mɑ?]
 
 4
 00:00:15,946 --> 00:00:21,625
-[Jīntiān lěnɡ mɑ？Yǒu yǔ mɑ？] Do you like the weather in your place?]
+[Jīntiān lěnɡ mɑ? Yǒu yǔ mɑ?]
+Do you like the weather in your place?
 
 5
 00:00:21,625 --> 00:00:26,837
- [Jīntiān Běijīnɡ yǒu diǎnr rè.]   
+[Jīntiān Běijīnɡ yǒu diǎnr rè.]
 
 6
 00:00:26,837 --> 00:00:32,812
@@ -25,7 +27,7 @@
 7
 00:00:32,812 --> 00:00:38,590
 we're going to listen and
-read a postcard from Daxing to Xiaomei.  
+read a postcard from Daxing to Xiaomei.
 
 8
 00:00:38,590 --> 00:00:41,520
@@ -42,20 +44,20 @@ Firstly, let's learn some new words.
 
 11
 00:00:56,454 --> 00:01:07,074
-[FOREIGN]
+[lái] [duō] [chē]
 
 12
 00:01:07,074 --> 00:01:17,074
-Shanghai.
+[zhèlǐ] [gōngzuò]
 
 13
-00:01:22,247 --> 00:01:23,502
-Shanghai.
+00:01:22,247 --> 00:01:28,027
+[de shíhou] [shànghǎi]
 
 14
 00:01:28,027 --> 00:01:33,575
-We've learnt [duō] in 
-[duō dà] Which means how old.
+We've learnt [duō] in
+[duō dà], which means how old.
 
 15
 00:01:33,575 --> 00:01:38,806
@@ -68,7 +70,7 @@ Many people, [hěn duō rén].
 
 17
 00:01:42,450 --> 00:01:47,100
-Many schools is [hěn duō xué xiào].
+Many schools, is [hěn duō xué xiào].
 
 18
 00:01:47,100 --> 00:01:51,462
@@ -76,32 +78,32 @@ A lot of rain, [hěn duō yǔ].
 
 19
 00:01:53,605 --> 00:01:58,346
-To talk about events that happened at or 
+To talk about events that happened at or
 
 20
 00:01:58,346 --> 00:02:04,019
 during a particular time,
-[…… de shíhou] is often used.
+[de shíhou] is often used.
 
 21
 00:02:04,019 --> 00:02:07,204
-For
+For example,
 
 22
 00:02:07,204 --> 00:02:16,760
-example,
+[Zuótiān nǐ dǎ diànhuà de shíhou, wǒ bù zài jiā.]
 
 23
 00:02:16,760 --> 00:02:26,319
-[FOREIGN].
+[Zhōngwǔ chīfàn de shí hou, wǒ gēgē lái le.]
 
 24
 00:02:26,319 --> 00:02:31,778
-That structure, we can have a look.
+That's the structure, we can have a look.
 
 25
 00:02:31,778 --> 00:02:35,978
-Now we are going to listen to Daxing
+Now we are going to listen to Daxing.
 
 26
 00:02:35,978 --> 00:02:41,675
@@ -109,39 +111,43 @@ Please pay attention to the size,
 
 27
 00:02:41,675 --> 00:02:45,015
-the people, cars,
+the people, cars,scenery and the weather.
 
 28
 00:02:45,015 --> 00:02:49,340
-scenery and the weather.
+[Xiǎoměi, wǒ lái shànghǎi wǔ gè yuè le.
+shànghǎi hěn dà, ]
 
 29
 00:02:49,340 --> 00:02:59,340
->> [FOREIGN]
+[rén duō, chē duō, yě hěn piàoliàng.]
+[Xiànzài shànghǎi tiānqì hěn hǎo, bù lěng bù rè.]
 
 30
-00:03:14,819 --> 00:03:18,075
->> Let's see the answers.
+00:02:59,340 --> 00:03:14,819
+[wǒ qù gōngzuò de shíhou rènshi le hěnduō péngyǒu,
+nǐ shénme shíhou lái shànghǎi? Dàxīng, 2016.03.25]
 
 31
-00:03:18,075 --> 00:03:21,672
+00:03:14,819 --> 00:03:21,672
+Let's see the answers.
 What is Shanghai like?
 
 32
 00:03:21,672 --> 00:03:25,705
-The size, [FOREIGN].
+The size? [hěn dà.]
 
 33
 00:03:25,705 --> 00:03:32,080
-People, [FOREIGN]
+People? [rén duō.]
 
 34
 00:03:32,080 --> 00:03:38,124
->> Cars, [FOREIGN].
+Cars? [chē duō.]
 
 35
 00:03:38,124 --> 00:03:44,262
-Scenery, [FOREIGN].
+Scenery, [piàoliàng.]
 
 36
 00:03:44,262 --> 00:03:47,687
@@ -149,51 +155,57 @@ What about weather?
 
 37
 00:03:47,687 --> 00:03:51,342
-[FOREIGN] [Nǐ dá duì le mɑ？] If not,
+[bù lěng bù rè.]
 
 38
 00:03:51,342 --> 00:03:57,084
-don't worry. We'll read
+[Nǐ dá duì le mɑ？] If not,
+don't worry.
 
 39
 00:03:57,084 --> 00:04:02,311
-Daxing's postcard.
+We'll read Daxing's postcard.
 
 40
 00:04:02,311 --> 00:04:05,832
-[FOREIGN]
+[Xiǎoměi, wǒ lái shànghǎi wǔ gè yuè le.
+shànghǎi hěn dà, rén duō,]
 
 41
 00:04:05,832 --> 00:04:13,880
-In your language,
+[Xiǎoměi, wǒ lái shànghǎi wǔ gè yuè le.
+shànghǎi hěn dà, rén duō,]
 
 42
-00:04:13,880 --> 00:04:18,910
-perhaps you
+00:04:13,880 --> 00:04:17,910
+[chē duō, yě hěn piàoliàng.]
 
 43
 00:04:18,910 --> 00:04:23,940
-don't have
+[Xiànzài shànghǎi tiānqì hěn hǎo,
 
 44
 00:04:23,940 --> 00:04:30,479
-something like
+bù lěng bù rè. wǒ qù gōngzuò de shíhou rènshi le
+ hěnduō péngyǒu,nǐ shénme shíhou lái shànghǎi?]
 
 45
 00:04:30,479 --> 00:04:37,018
-a sentence with
+bù lěng bù rè. wǒ qù gōngzuò de shíhou rènshi le
+ hěnduō péngyǒu,nǐ shénme shíhou lái shànghǎi?]
 
 46
-00:04:37,018 --> 00:04:43,557
-an adjectival
+00:04:37,018 --> 00:04:46,557
+Dàxīng, 2016.03.25]
 
 47
-00:04:43,557 --> 00:04:50,599
-predicate, but
+00:04:46,557 --> 00:04:50,599
+In your language, perhaps you don't have
 
 48
 00:04:50,599 --> 00:04:58,151
-we do in Chinese.
+something like a sentence with
+an adjectival predicate, but we do in Chinese.
 
 49
 00:04:58,151 --> 00:05:06,300
@@ -214,36 +226,37 @@ Follow me, please.
 
 53
 00:05:19,366 --> 00:05:23,769
-Shanghai [FOREIGN].
+[Shànghǎi hěn dà.]
 
 54
-00:05:23,769 --> 00:05:32,847
-[FOREIGN]
+00:05:23,769 --> 00:05:30,847
+[Tiān qì bù rè.]
 How do you say,
 
 55
-00:05:32,847 --> 00:05:37,899
+00:05:30,847 --> 00:05:37,899
 'My younger brother is cool" and
-"His dog is not pretty."?
+"His dog is not pretty"?
 
 56
 00:05:43,103 --> 00:05:46,168
-[FOREIGN]
+[wǒ dìdi hěn kù!]
 
 57
 00:05:48,084 --> 00:05:53,906
-[FOREIGN]
+[Tā de gǒu bù piàoliàng.]
 
 58
 00:05:56,098 --> 00:06:03,538
-There are also sentences like [FOREIGN].
+There are also sentences like
+[shànghǎi tiānqì hěn hǎo.]
 
 59
-00:06:03,538 --> 00:06:09,797
+00:06:03,538 --> 00:06:06,797
 Their structure is,
 
 60
-00:06:09,797 --> 00:06:15,714
+00:06:06,797 --> 00:06:15,714
 have a look please.
 
 61
@@ -252,28 +265,29 @@ Okay, follow me to read the examples.
 
 62
 00:06:22,399 --> 00:06:25,871
-[FOREIGN]
+[Zhèlǐ tiānqì hěnrè. ]
 
 63
 00:06:25,871 --> 00:06:32,319
-From the text,
+[Zhèlǐ tiānqì hěnrè. ]
 
 64
 00:06:32,319 --> 00:06:36,783
-can you get
+[Nàlǐ fēngjǐng hěn piàoliàng.]
 
 65
 00:06:36,783 --> 00:06:41,743
-the answers to
+[Nàlǐ fēngjǐng hěn piàoliàng.]
 
 66
-00:06:41,743 --> 00:06:51,170
-the questions below?
+00:06:44,743 --> 00:06:51,170
+From the text, can you get
+the answers to the questions below?
 
 67
 00:06:58,385 --> 00:07:06,865
-Number one,
-how long has Daxing been in Shanghai?
+Number one, how long has Daxing
+ been in Shanghai?
 
 68
 00:07:10,833 --> 00:07:14,125
