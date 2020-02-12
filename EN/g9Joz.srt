@@ -1,32 +1,38 @@
 1
 00:00:00,000 --> 00:00:06,162
-[FOREIGN]
->> [FOREIGN]
+>> [Tíng nà, nǐ māma zuò shénme gōngzuò?]
+>> [Wǒ māma shì zhōngxué lǎoshī.]
 
 2
 00:00:06,162 --> 00:00:08,292
->> [FOREIGN]
+>> [Tā de xuésheng duō me?]
+>> [Bùshǎom tā yǒu wǔshíliù gè xuésheng.]
 
 3
 00:00:08,292 --> 00:00:12,723
->> [FOREIGN]
+>> [Tā de xuésheng duō me?]
+>> [Bùshǎom tā yǒu wǔshíliù gè xuésheng.]
 
 4
 00:00:12,723 --> 00:00:15,125
->> [FOREIGN]
+>> [Tā men dōu shì zhōng guó rén me?]
+>> [Bù dōu shì zhōngguó rén, yě yǒu wàiguó rén.]
 
 5
 00:00:15,125 --> 00:00:18,832
->> [FOREIGN]
+>> [Tā men dōu shì zhōng guó rén me?]
+>> [Bù dōu shì zhōngguó rén, yě yǒu wàiguó rén.]
 
 6
 00:00:18,832 --> 00:00:21,031
->> [FOREIGN]
+>> [Nǐ bàba zài nǎr gōng zuò?]
 
 7
 00:00:21,031 --> 00:00:23,343
->> [FOREIGN]
+>> [Wǒ bàba zài yínháng gōngzuò.] >> [Ò, Nǐ
+míngnián qù xiānggǎng gōngzuò, shì ma?]
 
 8
 00:00:23,343 --> 00:00:27,889
->> [FOREIGN]
+>> [Wǒ bàba zài yínháng gōngzuò.] >> [Ò, Nǐ
+míngnián qù xiānggǎng gōngzuò, shì ma?]

@@ -7,12 +7,14 @@
 [Nǐ hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.]
 
 3
-00:00:10,871 --> 00:00:19,447
-[Jīntiān shì jǐ yuè jǐ hào？Jīntiān xīnɡqī jǐ？Xiànzài jǐ diǎn le？] 
+00:00:10,871 --> 00:00:20,447
+[Jīntiān shì jǐ yuè jǐ hào? Jīntiān xīnɡqī jǐ?
+Xiànzài jǐ diǎn le?]
 
 4
-00:00:19,447 --> 00:00:25,165
-[Shànɡ ɡè yuè nǐ qù nǎr le？] [Nàlǐ tiānqì zěnmeyànɡ？]
+00:00:20,447 --> 00:00:25,165
+[Shànɡ ɡè yuè nǐ qù nǎr le?]
+[Nàlǐ tiānqì zěnmeyànɡ?]
 
 5
 00:00:25,165 --> 00:00:31,430
@@ -28,33 +30,35 @@ talk about work and hobbies.
 Let's start from lesson one.
 
 8
-00:00:40,012 --> 00:00:45,242
-[FOREIGN]
+00:00:40,012 --> 00:00:45,742
+[Wǒ māma shì zhōngxué lǎoshī.]
 
 9
-00:00:45,242 --> 00:00:50,476
+00:00:47,242 --> 00:00:50,476
 Look at two pictures.
 
 10
 00:00:50,476 --> 00:01:00,476
-[zhōnɡxué，zhōnɡxué] [Tónɡxuémen zài xuéxiào.]
-[yínhánɡ，yínhánɡ] [Tāmen zài yínhánɡ ɡōnɡzuò.] 
+[zhōnɡxué]
+[Tónɡxuémen zài xuéxiào.]
 
 11
-00:01:08,749 --> 00:01:13,969
-[FOREIGN]
+00:01:00,476 --> 00:01:10,969
+[yínhánɡ]
+[Tāmen zài yínhánɡ ɡōnɡzuò.]
 
 12
-00:01:13,969 --> 00:01:24,410
-[FOREIGN]
+00:01:10,969 --> 00:01:24,410
+[míngnián] [wàiguó rén] [zuò]
 
 13
 00:01:24,410 --> 00:01:34,410
-[FOREIGN] [mínɡnián] is next year.
+[xuésheng] [shǎo] [ó]
 
 14
-00:01:40,075 --> 00:01:47,627
-[Wǒmen yě xuéxí le] 'this year'. This year is [jīn nián]
+00:01:36,075 --> 00:01:47,627
+[mínɡnián] is next year. [Wǒmen yě
+xuéxí le] 'this year'. This year is [jīn nián].
 
 15
 00:01:47,627 --> 00:01:51,289
@@ -66,31 +70,33 @@ Look at two pictures.
 
 17
 00:01:55,233 --> 00:01:59,055
-[[Wǒmen yě xuéxí le]] 'Chinese people'.
+[Wǒmen yě xuéxí le] 'Chinese people'.
 
 18
 00:01:59,055 --> 00:02:03,873
-[Zhōnɡɡuórén]. [Wǒ shì Zhōnɡɡuórén.]
+[Zhōnɡɡuórén] [Wǒ shì Zhōnɡɡuórén.]
 
 19
 00:02:03,873 --> 00:02:09,381
-[zuò] is to do. 
+[zuò] is to do.
+To cook, [zuò fàn].
 
 20
-00:02:09,381 --> 00:02:12,854
-To cook, [zuò fàn ]. 
+00:02:09,381 --> 00:02:11,854
+[zuò] is to do.
+To cook, [zuò fàn].
 
 21
-00:02:12,854 --> 00:02:17,244
-To do homework, [zuò zuōyè]. 
+00:02:11,854 --> 00:02:17,244
+To do homework, [zuò zuōyè].
 
 22
-00:02:17,244 --> 00:02:21,888
+00:02:15,244 --> 00:02:21,888
 To do a job, [Zěnme shuō]? [zuò ɡōnɡzuò.]
 
 23
-00:02:21,888 --> 00:02:27,405
-[xuéshenɡ] student, university student? 
+00:02:22,888 --> 00:02:27,405
+[xuéshenɡ] student, university student?
 
 24
 00:02:27,405 --> 00:02:31,453
@@ -103,11 +109,11 @@ primary school student?
 
 26
 00:02:36,656 --> 00:02:40,759
-[xiǎoxué shēnɡ]. [shǎo] is less,
+[xiǎoxué shēnɡ].
 
 27
 00:02:40,759 --> 00:02:44,865
-little, or few.
+[shǎo] is less, little, or few.
 
 28
 00:02:44,865 --> 00:02:49,062
@@ -122,12 +128,13 @@ little, or few.
 [bù shǎo]. What about not many, not few?
 
 31
-00:03:00,452 --> 00:03:06,532
-It's [bù duō bù shǎo]. 
+00:03:00,452 --> 00:03:05,532
+It's [bù duō bù shǎo].
 
 32
-00:03:06,532 --> 00:03:13,300
-[ò] is to express exclamation of various kinds of emotional response.
+00:03:05,532 --> 00:03:13,300
+[ò] is to express exclamation of
+various kinds of emotional response.
 
 33
 00:03:13,300 --> 00:03:17,531
@@ -145,36 +152,41 @@ Two questions for you.
 
 36
 00:03:28,848 --> 00:03:34,804
->> [FOREIGN]
->> [FOREIGN]
+>> [Tíng nà, nǐ māma zuò shénme gōngzuò?]
+>> [Wǒ māma shì zhōngxué lǎoshī.]
 
 37
 00:03:34,804 --> 00:03:36,979
->> [FOREIGN]
+>> [Tā de xuésheng duō me?]
+>> [Bùshǎom tā yǒu wǔshíliù gè xuésheng.]
 
 38
 00:03:36,979 --> 00:03:41,600
->> [FOREIGN]
+>> [Tā de xuésheng duō me?]
+>> [Bùshǎo, tā yǒu wǔshíliù gè xuésheng.]
 
 39
 00:03:41,600 --> 00:03:44,009
->> [FOREIGN]
+>> [Tā men dōu shì zhōng guó rén me?]
+>> [Bù dōu shì zhōngguó rén, yě yǒu wàiguó rén.]
 
 40
 00:03:44,009 --> 00:03:47,606
->> [FOREIGN]
+>> [Tā men dōu shì zhōng guó rén me?]
+>> [Bù dōu shì zhōngguó rén, yě yǒu wàiguó rén.]
 
 41
 00:03:47,606 --> 00:03:50,034
->> [FOREIGN]
+>> [Nǐ bàba zài nǎr gōng zuò?]
 
 42
 00:03:50,034 --> 00:03:56,804
->> [FOREIGN]
+>> [Wǒ bàba zài yínháng gōngzuò.] >> [Ò, Nǐ
+míngnián qù xiānggǎng gōngzuò, shì ma?]
 
 43
 00:03:56,804 --> 00:04:02,633
->> Okay, let's see the answers.
+Okay, let's see the answers.
 
 44
 00:04:02,633 --> 00:04:06,179
@@ -182,51 +194,57 @@ Number one.
 
 45
 00:04:06,179 --> 00:04:11,315
-[FOREIGN]
+[Tíng nà de māma zuò shénme gōngzuò?]
 
 46
 00:04:11,315 --> 00:04:16,451
-[FOREIGN]
+[Tā shì zhōngxué lǎoshī.]
 
 47
 00:04:16,451 --> 00:04:22,101
-[FOREIGN]
+[Tíngnà de bàba zài nǎr gōngzuò?]
+[Tā bàba zài yínháng gōngzuò.]
 
 48
 00:04:22,101 --> 00:04:28,776
-[FOREIGN]
+[Tíngnà de bàba zài nǎr gōngzuò?]
+[Tā bàba zài yínháng gōngzuò.]
 
 49
 00:04:28,776 --> 00:04:34,432
-How do you ask me if you don't know what I do or where I work?
+How do you ask me if you don't know
+what I do or where I work?
 
 50
 00:04:34,432 --> 00:04:41,173
-You may say [FOREIGN]
+You may say [Nǐ zuò shénme gōngzuò?]
 
 51
 00:04:41,173 --> 00:04:45,808
-or [FOREIGN].
+or [Nǐ zài nǎr gōngzuò?]
 
 52
 00:04:45,808 --> 00:04:54,186
-Literally [FOREIGN] you do what work?
+Literally [Nǐ zuò shénme gōngzuò],
+you do what work.
 
 53
 00:04:54,186 --> 00:05:00,084
-[FOREIGN] You ask where work.
+[Nǐ zài nǎr gōngzuò],
+you ask where work.
 
 54
-00:05:02,280 --> 00:05:09,337
+00:05:02,280 --> 00:05:04,337
 For the answer,
+I could say, [wǒ shì dàxué lǎoshī.]
 
 55
-00:05:09,337 --> 00:05:17,404
-I could say [FOREIGN]
+00:05:04,337 --> 00:05:17,404
+I could say [wǒ zài dàxué gōngzuò],
 
 56
 00:05:17,404 --> 00:05:22,957
-or [FOREIGN].
+or [wǒ zài běijīng dàxué gōngzuò].
 
 57
 00:05:22,957 --> 00:05:26,677
@@ -235,38 +253,44 @@ read the whole text.
 
 58
 00:05:30,088 --> 00:05:40,088
-[FOREIGN]
+>> [Nǐ māma zuò shénme gōngzuò?]
+>> [Wǒ māma shì zhōngxué lǎoshī.]
 
 59
-00:05:43,157 --> 00:05:46,891
-or
+00:05:41,157 --> 00:05:47,891
+>> [Tā de xuésheng duō me?
+>> [Bùshǎo, tā yǒu wǔshíliù gè xuésheng.]
 
 60
-00:05:46,891 --> 00:05:56,891
-[FOREIGN]
+00:05:47,891 --> 00:05:59,960
+>> [Tā men dōu shì zhōngguó rén me?]
+>> [Bù dōu shì zhōngguó rén, yě yǒu wàiguó rén.]
 
 61
 00:05:59,960 --> 00:06:03,694
-or
+>> [Nǐ bàba zài nǎr gōng zuò?]
+>> [Wǒ bàba zài yínháng gōngzuò.]
 
 62
-00:06:03,694 --> 00:06:13,694
-[FOREIGN].
+00:06:03,694 --> 00:06:12,694
+>> [Nǐ bàba zài nǎr gōng zuò?]
+>> [Wǒ bàba zài yínháng gōngzuò.]
 
 63
-00:06:20,500 --> 00:06:24,417
-There are two verbs in the sentence.
+00:06:12,694 --> 00:06:24,417
+>> [Ò,Nǐ míngnián qù xiānggǎng gōngzuò, shì ma?]
+There are two verbs in the sentence,
 
 64
-00:06:24,417 --> 00:06:28,349
+00:06:24,417 --> 00:06:31,349
 [Nǐ mínɡnián qù Xiānɡɡǎnɡ ɡōnɡzuò.] one is [qù],
 
 65
-00:06:28,349 --> 00:06:32,468
+00:06:28,349 --> 00:06:34,468
 the other one is [ɡōnɡzuò],
 
 66
-00:06:32,468 --> 00:06:37,210
+00:06:34,468 --> 00:06:37,210
 The predicate of the sentence
 
 67
@@ -285,11 +309,11 @@ For example,
 
 70
 00:06:50,791 --> 00:06:59,445
-[FOREIGN]
+[Mèimei lái zhōngguó xuéxí hànyǔ.]
 
 71
 00:06:59,445 --> 00:07:06,177
-[FOREIGN]
+[Dìdi qù diànyǐngyuàn kàn diànyǐng.]
 
 72
 00:07:09,038 --> 00:07:12,328
@@ -309,51 +333,56 @@ And based on the picture, there are questions.
 
 76
 00:07:24,835 --> 00:07:31,012
-Number one, [FOREIGN].
+Number one, [tā zuò shénme gōngzuò?]
 
 77
 00:07:31,012 --> 00:07:36,901
-Number two, [FOREIGN].
+Number two, [tā zài nǎr gōng zuò?]
 
 78
-00:07:36,901 --> 00:07:42,881
-Number three, [FOREIGN].
+00:07:36,901 --> 00:07:45,881
+Number three, [tā de xuésheng duō ma?]
 
 79
-00:07:42,881 --> 00:07:48,981
+00:07:46,881 --> 00:07:48,981
 And number four,
+[tāmen dōu shì zhōngguó rén ma?]
 
 80
 00:07:48,981 --> 00:07:52,643
-[FOREIGN].
+And number four,
+[tāmen dōu shì zhōngguó rén ma?]
 
 81
 00:07:52,643 --> 00:07:59,342
-The last one, [FOREIGN].
+The last one, [tāmen zài zuò shénme?]
 
 82
 00:07:59,342 --> 00:08:04,036
-So I think for the answers you could say
+So I think for the answers you could say,
 
 83
 00:08:04,036 --> 00:08:09,328
-probably [Tā shì lǎoshī.], for the first question.
+,probably, [tā shì lǎoshī], for the first question.
 
 84
 00:08:09,328 --> 00:08:14,389
-And the second
+And the second,
 
 85
-00:08:14,389 --> 00:08:18,185
-[Tā zài dàxué、zhōnɡxué or xiǎoxué ɡōnɡzuò],
+00:08:14,389 --> 00:08:20,185
+[Tā zài dàxué, zhōnɡxué,]
+or [xiǎoxué ɡōnɡzuò.]
 
 86
-00:08:18,185 --> 00:08:23,246
-I think should
+00:08:20,185 --> 00:08:23,246
+I think should be [dàxué].
+[Tā zài dàxué ɡōnɡzuò.]
 
 87
 00:08:23,246 --> 00:08:27,895
-be [dàxué]. [Tā zài dàxué ɡōnɡzuò].
+I think should be [dàxué].
+[Tā zài dàxué ɡōnɡzuò.]
 
 88
 00:08:27,895 --> 00:08:31,559
@@ -361,8 +390,8 @@ And number three,
 
 89
 00:08:31,559 --> 00:08:37,062
-[Tā de xuéshenɡ duō mɑ？]
-a lot? not many.
+[Tā de xuéshenɡ duō mɑ?]
+A lot? Not many.
 
 90
 00:08:37,062 --> 00:08:41,566
@@ -370,23 +399,25 @@ You could say [bù duō].
 
 91
 00:08:41,566 --> 00:08:47,477
-And next one, [FOREIGN],
+And next one,
+[tāmen dōu shì zhōngguó rén ma?]
 
 92
 00:08:47,477 --> 00:08:51,150
-probably not.
+Probably not.
 
 93
 00:08:51,150 --> 00:08:58,063
-So you could say [Bú shì. Yǒu Zhōnɡɡuórén，yě yǒu wàiɡuó rén.]
+So you could say [Búshì. Yǒu Zhōnɡɡuó rén,
+ yě yǒu wàiɡuó rén.]
 
 94
 00:08:58,063 --> 00:09:04,983
-or you could say [Tāmen dōu shì wàiɡuó rén.].
+or you could say [Tāmen dōu shì wàiɡuó rén.]
 
 95
 00:09:04,983 --> 00:09:10,684
-Okay, the last question, [FOREIGN].
+Okay, the last question, [tāmen zài zuò shénme?]
 
 96
 00:09:10,684 --> 00:09:14,413
@@ -394,12 +425,11 @@ Studying, studying what?
 
 97
 00:09:14,413 --> 00:09:19,963
-So you could say,
+So you could say, [tāmen zài xuéxí.]
 
 98
 00:09:19,963 --> 00:09:26,625
-[Tāmen zài xuéxí.]
-or [Tāmen zài xuéxí hàn yǔ.].
+or [Tāmen zài xuéxí hànyǔ.].
 
 99
 00:09:26,625 --> 00:09:30,674
