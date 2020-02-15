@@ -8,31 +8,34 @@
 
 3
 00:00:11,001 --> 00:00:18,585
-[Nǐ yǒu jiějie mɑ？Tā zuò shénme ɡōnɡzuò？Tā shì yīshēnɡ mɑ？]
+[Nǐ yǒu jiějie mɑ? Tā zuò shénme ɡōnɡzuò?
+Tā shì yīshēnɡ mɑ?]
 
 4
 00:00:18,585 --> 00:00:24,545
-[Nǐ xiǎnɡ zài yīyuàn ɡōnɡzuò mɑ？] [Wǒ yǒu yí ɡè jiějie.]
+[Nǐ xiǎnɡ zài yīyuàn ɡōnɡzuò mɑ?]
+[Wǒ yǒu yí ɡè jiějie.]
 
 5
-00:00:24,545 --> 00:00:30,504
-[Tā bú shì yī shenɡ. Wǒ yě yǒu yí ɡè dìdi hé yí ɡè mèimei.]
+00:00:24,545 --> 00:00:32,504
+[Tā bú shì yīshenɡ. Wǒ yě yǒu yí ɡè dìdi
+ hé yí ɡè mèimei.]
 
 6
-00:00:30,504 --> 00:00:37,546
-[Tāmen dōu bú shì yīshēnɡ.] In this lesson, 
+00:00:32,504 --> 00:00:37,546
+[Tāmen dōu bú shì yīshēnɡ.] In this lesson,
 
 7
-00:00:37,546 --> 00:00:42,429
+00:00:37,546 --> 00:00:41,929
 we're going to talk about what you like or dislike.
 
 8
-00:00:42,429 --> 00:00:47,851
-[Nǐ xǐhuɑn zuò shénme? Nǐ bù xǐhuɑn zuò shénme？] 
+00:00:41,929 --> 00:00:48,351
+[Nǐ xǐhuɑn zuò shénme? Nǐ bù xǐhuɑn zuò shénme?]
 
 9
-00:00:47,851 --> 00:00:52,855
-[Wǒ xǐhuɑn kànshū，nǐ ne？]
+00:00:48,351 --> 00:00:52,855
+[Wǒ xǐhuɑn kànshū，nǐ ne?]
 
 10
 00:00:52,855 --> 00:00:57,864
@@ -44,22 +47,23 @@ Follow me please.
 
 12
 00:01:00,085 --> 00:01:10,085
-[FOREIGN]
+[kāfēi tīng] [nàlǐ/nàr]
 
 13
 00:01:17,277 --> 00:01:22,189
-[FOREIGN]
+[kànshū/dúshū] [běn]
 
 14
-00:01:22,189 --> 00:01:32,189
-[kāfēi] is coffee.
+00:01:22,189 --> 00:01:34,189
+[zhōngwén] [hǎokàn] [hónglóumèng]
 
 15
-00:01:41,838 --> 00:01:46,222
+00:01:34,838 --> 00:01:45,222
+[kāfēi tīng], café. [kāfēi] is coffee.
 [tīnɡ] means hall or room.
 
 16
-00:01:46,222 --> 00:01:47,544
+00:01:45,222 --> 00:01:47,544
 [nàlǐ], there.
 
 17
@@ -67,12 +71,12 @@ Follow me please.
 You could also say [nàr].
 
 18
-00:01:49,906 --> 00:01:57,930
-You may remember here is [zhèlǐ] or
-[zhèr]. [kànshū] to read a book, reading. 
+00:01:49,906 --> 00:01:58,930
+You may remember, here is [zhèlǐ] or
+[zhèr]. [kànshū] to read a book, reading.
 
 19
-00:01:57,930 --> 00:02:00,990
+00:01:58,930 --> 00:02:00,990
 [shū] means book.
 
 20
@@ -80,15 +84,16 @@ You may remember here is [zhèlǐ] or
 For reading, we also say [dúshū].
 
 21
-00:02:04,992 --> 00:02:09,164
+00:02:04,992 --> 00:02:08,164
 [běn], measure words for books.
 
 22
-00:02:09,164 --> 00:02:12,823
-We can say, [yì běn shū，yì běn hǎo shū].
+00:02:08,164 --> 00:02:14,823
+We can say, [Yì běn shū]
+[Yì běn hǎoshū].
 
 23
-00:02:12,823 --> 00:02:18,210
+00:02:14,823 --> 00:02:18,210
 [zhōnɡwén], Chinese language.
 
 24
@@ -96,127 +101,143 @@ We can say, [yì běn shū，yì běn hǎo shū].
 Another word for Chinese is [hànyǔ].
 
 25
-00:02:22,501 --> 00:02:24,950
-[hǎokàn], 
+00:02:23,501 --> 00:02:24,950
+[hǎokàn], good looking.
+You could say [Tā hěn hǎokàn.].
 
 26
 00:02:24,950 --> 00:02:31,624
-good looking.
-You could say [Tā hěn hǎokàn.].
+[hǎokàn], good looking.
+You could say [Tā hěn hǎokàn].
 
 27
 00:02:31,624 --> 00:02:35,449
 Also [hǎokàn] means interesting.
 
 28
-00:02:35,449 --> 00:02:40,542
-You could say [Zhè běn shū hěn hǎokàn.].
+00:02:35,449 --> 00:02:39,542
+You could say [Zhè běn shū hěn hǎokàn].
 
 29
-00:02:40,542 --> 00:02:42,150
-[Hónɡlóumènɡ],
+00:02:39,542 --> 00:02:42,150
+[Hónɡlóumènɡ], the English translation
+is A Dream of Red Mansions.
 
 30
-00:02:42,150 --> 00:02:47,364
-The English translation is
-A Dream of Red Mansions.
+00:02:42,150 --> 00:02:46,364
+[Hónɡlóumènɡ], the English translation
+is A Dream of Red Mansions.
 
 31
-00:02:47,364 --> 00:02:51,748
+00:02:46,364 --> 00:02:51,748
 A very famous novel in China.
+Video time.
 
 32
 00:02:51,748 --> 00:02:53,499
-Video time.
+Kaili and Qiaozhi are chatting on Wechat.
 
 33
-00:02:53,499 --> 00:02:57,551
-Kaili and
-Qiaozhi are chatting on Wechat. 
+00:02:53,499 --> 00:02:55,551
+Kaili and Qiaozhi are chatting on Wechat.
 
 34
-00:02:57,551 --> 00:03:00,683
-Listen and tell me 
+00:02:55,551 --> 00:03:00,683
+Listen and tell me, [Tāmen xǐhuɑn shénme?]
+[Tāmen bù xǐhuɑn shénme?]
 
 35
-00:03:00,683 --> 00:03:05,904
-[Tāmen xǐhuɑn shénme?] [Tāmen bù xǐhuɑn shénme?].
+00:03:00,683 --> 00:03:04,904
+Listen and tell me, [Tāmen xǐhuɑn shénme?]
+[Tāmen bù xǐhuɑn shénme?]
 
 36
-00:03:05,904 --> 00:03:10,682
->> [FOREIGN]
+00:03:04,904 --> 00:03:09,682
+>> [Kǎilì, nǐ zài nǎr ne?]
+>> [Wǒ zài kāfēi tīng ne.[]
 
 37
-00:03:10,682 --> 00:03:14,756
->> [FOREIGN]
+00:03:09,682 --> 00:03:14,756
+>> [Nǐ zài nǎlǐ zuò shénme ne?]
+>> [Wǒ kàn shū ne.]
 
 38
-00:03:14,756 --> 00:03:19,620
->> [FOREIGN]
+00:03:15,756 --> 00:03:24,620
+>> [Ó, shén me shū?]
+>> [Yī běn zhōngwén shū, jiào hóng lóu mèng.]
 
 39
-00:03:19,620 --> 00:03:22,615
->> [FOREIGN]
+00:03:24,620 --> 00:03:27,615
+>> [Hǎo kàn ma?]
 
 40
 00:03:28,040 --> 00:03:31,070
->> [FOREIGN]
+>> [En, hěn hǎokàn.]
 
 41
-00:03:31,070 --> 00:03:34,900
->> [FOREIGN]
+00:03:31,070 --> 00:03:36,400
+[Wǒ xǐ huān kàn zhòngwén shū,
+nǐ zài kàn shén me shū?]
 
 42
-00:03:34,900 --> 00:03:35,729
->> [FOREIGN]
+00:03:36,400 --> 00:03:39,400
+>> [Wǒ bù xǐhuān kànshū.]
 
 43
-00:03:35,729 --> 00:03:37,106
->> [FOREIGN]
+00:03:39,400 --> 00:03:43,437
+[Wǒ xǐhuān shuìjiào hé kàn diànshì.]
 
 44
-00:03:39,400 --> 00:03:43,437
->> What did you
-
-45
-00:03:43,437 --> 00:03:48,686
-hear from their
-
-46
 00:03:48,686 --> 00:03:54,344
+What did you hear from their
 conversation?
 
+45
+00:03:57,686 --> 00:04:07,686
+[Kǎilì zài nǎr ne?]
+[Kǎilì zài kāfēi tīng ne.]
+
+46
+00:04:07,686 --> 00:04:17,927
+[Kǎilì zuò shénme ne?]
+[Kǎilì kànshū ne.]
+
 47
-00:04:05,686 --> 00:04:15,686
-[FOREIGN]
+00:04:17,927 --> 00:04:27,624
+[Shū de míngzì shì shénme?]
+[Hónglóumèng.]
 
 48
-00:04:19,155 --> 00:04:24,927
-[FOREIGN]
+00:04:28,627 --> 00:04:37,624
+[Kǎilì xǐhuān kàn shénme shū?]
+[Tā xǐhuān kàn zhòngwén shū.]
 
 49
-00:04:24,927 --> 00:04:32,624
-[FOREIGN]
+00:04:38,624 --> 00:04:46,624
+[Qiáozhì xǐhuān kànshū ma?]
+[Bù xǐhuān.]
 
 50
-00:04:32,624 --> 00:04:42,624
-[FOREIGN] the last question,
+00:04:47,524 --> 00:04:51,868
+The last question,
+[Qiáozhì xǐhuān zuò shénme?]
 
 51
-00:04:51,868 --> 00:04:57,755
-[FOREIGN] 
+00:04:51,868 --> 00:04:54,755
+The last question,
+[Qiáozhì xǐhuān zuò shénme?]
 
 52
-00:04:57,755 --> 00:05:04,297
-[FOREIGN] 
+00:04:54,755 --> 00:05:02,297
+[Qiáozhì xǐhuān shuìjiào hé kàn diànshì.]
 
 53
-00:05:04,297 --> 00:05:12,812
-I know it's not easy for you to get all the answers correct, because there's quite
-a lot of information.
+00:05:03,297 --> 00:05:10,812
+I know it's not easy for you to get all the answers
+ correct, because there's quite a lot of information.
 
 54
-00:05:12,812 --> 00:05:17,504
+00:05:10,812 --> 00:05:17,504
 But I'm sure you could understand
 more after reading the text.
 
@@ -225,69 +246,79 @@ more after reading the text.
 Okay, read with me please.
 
 56
-00:05:23,021 --> 00:05:30,750
-[FOREIGN]
+00:05:24,021 --> 00:05:31,750
+>> [Kǎilì, nǐ zài nǎr ne?]
+>> [Wǒ zài kāfēi tīng ne.]
 
 57
-00:05:30,750 --> 00:05:40,818
-[FOREIGN]
+00:05:32,750 --> 00:05:40,818
+>> [Nǐ zài nǎlǐ zuò shénme ne?]
+>> [Wǒ kàn shū ne.]
 
 58
-00:05:40,818 --> 00:05:49,447
-[FOREIGN]
+00:05:40,818 --> 00:05:51,447
+>> [Ó, shén me shū?]
+>> [Yī běn zhōngwén shū, jiào hóng lóu mèng.]
 
 59
-00:05:49,447 --> 00:05:59,515
-[FOREIGN]
+00:05:51,447 --> 00:05:58,515
+>> [Hǎokàn ma?]
+>> [En, hěn hǎokàn.]
 
 60
-00:05:59,515 --> 00:06:03,830
-[FOREIGN]
+00:05:58,515 --> 00:06:04,830
+[Wǒ xǐhuān kàn zhòngwén shū,
+nǐ zài kàn shén me shū?]
 
 61
-00:06:03,830 --> 00:06:13,830
-[FOREIGN]
+00:06:05,830 --> 00:06:14,830
+>> [Wǒ bù xǐhuān kànshū.]
+[Wǒ xǐhuān shuìjiào hé kàn diànshì.]
 
 62
 00:06:15,336 --> 00:06:22,530
 Okay, let's do an exercise now.
 
 63
-00:06:24,510 --> 00:06:29,510
+00:06:24,510 --> 00:06:27,510
 Right now we are all in
 different places in the world.
 
 64
-00:06:29,510 --> 00:06:34,090
-Can you please tell me [FOREIGN]?
+00:06:27,510 --> 00:06:34,090
+Can you please tell me,
+[nǐ zài nǎ ér ne?]
 
 65
 00:06:34,090 --> 00:06:41,723
-[FOREIGN]
+[Nǐ zuò shénme ne?]
+[Nǐ xǐhuān zuò shénme?]
 
 66
-00:06:41,723 --> 00:06:50,120
-[FOREIGN]
+00:06:42,723 --> 00:06:47,120
+[Nǐ bù xǐhuān zuò shénme?]
 
 67
-00:06:50,120 --> 00:06:53,413
+00:06:47,620 --> 00:06:53,413
 If you ask me the same questions,
+I could say
 
 68
 00:06:53,413 --> 00:07:03,313
-I could say [FOREIGN]
+[Wǒ zài běijīng ne.]
+[Wǒ jiāo hànyǔ ne.]
 
 69
 00:07:03,313 --> 00:07:08,360
-[FOREIGN]
+[Wǒ xǐhuān kàn diànyǐng.]
 
 70
 00:07:08,360 --> 00:07:15,930
-[FOREIGN]
+[Wǒ bù xǐhuān dǎ májiàng.]
 
 71
-00:07:15,930 --> 00:07:20,981
-[FOREIGN] Okay, time is up.
+00:07:17,930 --> 00:07:20,981
+Okay, time is up.
 
 72
 00:07:20,981 --> 00:07:26,304
@@ -295,4 +326,4 @@ Looking forward to seeing you next time.
 
 73
 00:07:26,304 --> 00:07:28,353
-[xièxie！Zàijiàn!]
+[Xièxie！Zàijiàn!]
