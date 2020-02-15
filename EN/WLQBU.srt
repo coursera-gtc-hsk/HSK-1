@@ -4,28 +4,31 @@
 
 2
 00:00:05,760 --> 00:00:13,807
-[Tónɡxuémen hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.]
+[Tónɡxuémen hǎo! Huānyínɡ láidào HSK hànyǔ kètánɡ.]
 
 3
-00:00:13,807 --> 00:00:17,255
-[Nǐ xǐhuɑn zuò shénme？Nǐ xǐhuɑn qù kāfēitīnɡ mɑ？]
+00:00:13,807 --> 00:00:18,255
+[Nǐ xǐhuɑn zuò shénme? Nǐ xǐhuɑn qù kāfēitīnɡ mɑ?]
 
 4
-00:00:17,255 --> 00:00:24,152
-[Nǐ xǐhuɑn zài kāfēitīnɡ kànshū mɑ？Nǐ xǐhuɑn]
+00:00:18,255 --> 00:00:24,152
+[Nǐ xǐhuɑn zài kāfēitīnɡ kànshū mɑ?
+Nǐ xǐhuɑn kàn shénme shū?]
 
 5
-00:00:24,152 --> 00:00:27,600
-[kàn shénme shū？]
+00:00:24,152 --> 00:00:26,600
+[Nǐ xǐhuɑn zài kāfēitīnɡ kànshū mɑ?
+Nǐ xǐhuɑn kàn shénme shū?]
 
 6
-00:00:27,600 --> 00:00:35,647
-[Wǒ hěn xǐhuɑn qù kāfēitīnɡ，wǒ xǐhuɑn zài kāfēitīnɡ kànshū.]
+00:00:26,600 --> 00:00:34,647
+[Wǒ hěn xǐhuɑn qù kāfēitīnɡ.
+Wǒ xǐhuɑn zài kāfēitīnɡ kànshū.]
 
 7
-00:00:35,647 --> 00:00:45,997
-[yě xǐhuɑn zài nàlǐ jiàn pénɡyou.] The lesson for today
-[Wǒ ài kàn diànyǐnɡ.].
+00:00:34,647 --> 00:00:45,997
+[yě xǐhuɑn zài nàlǐ jiàn pénɡyou.]
+The lesson for today is [Wǒ ài kàn diànyǐnɡ.].
 
 8
 00:00:45,997 --> 00:00:49,075
@@ -33,11 +36,13 @@
 
 9
 00:00:49,075 --> 00:00:53,140
-Xiaobei and Xiaopei will
+Xiaobei and Xiaopei will talk about
+ what they like and dislike.
 
 10
 00:00:53,140 --> 00:00:55,520
-talk about what they like and dislike.
+Xiaobei and Xiaopei will talk about
+ what they like and dislike.
 
 11
 00:00:56,990 --> 00:00:58,130
@@ -45,35 +50,38 @@ Let's watch a video.
 
 12
 00:00:58,130 --> 00:01:03,581
->> [FOREIGN]
+>> [Xiǎobèi, nǐ xǐhuān kàn diànshì ma?]
 
 13
 00:01:03,581 --> 00:01:06,512
->> [FOREIGN]
+>> [Diànshì ya? Wǒ bù ài kàn.]
 
 14
 00:01:06,512 --> 00:01:08,195
->> [FOREIGN]
+>> [Diànyǐng ne? Nǐ ài kàn ma?]
 
 15
 00:01:08,195 --> 00:01:13,302
->> [FOREIGN]
+>> [Ài kàn, wǒ yǒu shíhòu zài jiā lǐ kàn diànyǐng,
+ yǒu shíhòu qù diànyǐng yuàn.]
 
 16
 00:01:13,302 --> 00:01:16,652
->> [FOREIGN]
+>> [Ó, nǐ ài kàn shénme diànyǐng?
+zhōngguó de, wàiguó de?]
 
 17
-00:01:16,652 --> 00:01:22,044
->> [FOREIGN]
+00:01:16,652 --> 00:01:21,044
+>> [Zhōngguó de hé wàiguó de wǒ dōu xǐhuān.
+ Nǐ zuì xǐhuān zuò shénme?]
 
 18
-00:01:22,044 --> 00:01:25,438
->> [FOREIGN]
+00:01:21,044 --> 00:01:25,438
+>> [Wǒ zuì xǐhuān dǎ qiú.]
 
 19
 00:01:25,438 --> 00:01:25,987
->> Okay?
+Okay?
 
 20
 00:01:25,987 --> 00:01:30,244
@@ -86,25 +94,26 @@ Three.
 
 22
 00:01:36,690 --> 00:01:40,893
-[FOREIGN]
+[kàn diànshì] [kàn diànyǐng] [dǎqiú]
 
 23
 00:01:40,893 --> 00:01:45,696
-[FOREIGN]
+[kàn diànshì] [kàn diànyǐng] [dǎqiú]
 
 24
 00:01:45,696 --> 00:01:54,704
-[FOREIGN]
+[Tāmen zài dǎqiú.]
 Who loves watching films?
 
 25
-00:01:54,704 --> 00:02:00,656
-[Xiǎobèi xǐhuɑn]
-kàn diànyǐnɡ.
+00:01:57,704 --> 00:02:00,656
+[Xiǎobèi xǐhuān kàn diànyǐnɡ.]
+Who loves playing ball games?
 
 26
 00:02:00,656 --> 00:02:07,802
-[kàn diànyǐnɡ]. Who loves playing ball games?
+[Xiǎobèi xǐhuān kàn diànyǐnɡ.]
+Who loves playing ball games?
 
 27
 00:02:07,802 --> 00:02:13,114
@@ -120,27 +129,31 @@ Read with me, please.
 
 30
 00:02:20,606 --> 00:02:30,902
-[FOREIGN]
+[ài] [yǒushíhòu]
 
 31
 00:02:30,902 --> 00:02:38,256
-[FOREIGN]
+[jiā] [lǐ] [zuì]
 
 32
 00:02:38,256 --> 00:02:41,197
-[FOREIGN]
+[dǎqiú]
+[ài] means to love.
 
 33
 00:02:41,197 --> 00:02:50,024
-[FOREIGN] [ài]
+[dǎqiú]
+[ài] means to love.
 
 34
 00:02:50,024 --> 00:02:51,876
-means to love.
+[dǎqiú]
+[ài] means to love.
 
 35
 00:02:51,876 --> 00:02:57,123
-I love you, [Zěnmeshuō?] [Wǒ ài nǐ!]
+I love you, [Zěnmeshuō?]
+[Wǒ ài nǐ.]
 
 36
 00:02:57,123 --> 00:03:03,143
@@ -148,40 +161,39 @@ I love reading, [Zěnmeshuō]?
 
 37
 00:03:03,143 --> 00:03:07,660
- [Wǒ ài kànshū.].
+[Wǒ ài kànshū.]
 
 38
-00:03:07,660 --> 00:03:13,155
-[yǒushíhou]is sometimes. [Wǒ yǒushíhou]
+00:03:07,660 --> 00:03:15,155
+[yǒushíhou]is sometimes.
+[Wǒ yǒushíhou kàn diànyǐnɡ,
 
 39
-00:03:13,155 --> 00:03:18,225
-[kàn diànyǐnɡ]，[yǒushíhou kàn diànshì.]
+00:03:15,155 --> 00:03:18,225
+yǒushíhou kàn diànshì.]
 
 40
-00:03:18,225 --> 00:03:23,521
+00:03:19,225 --> 00:03:23,521
 [jiā] Is home, family, household.
 
 41
 00:03:23,521 --> 00:03:29,527
-You could say [wǒ jiā]
-my home.
+You could say [wǒ jiā], my home.
 
 42
 00:03:29,527 --> 00:03:33,602
-[wǒ de jiārén]
-My family.
+[Wǒ de jiārén], my family.
 
 43
 00:03:33,602 --> 00:03:38,331
-[Wǒ ài wǒ jiā.] I love my family.
+[Wǒ ài wǒ jiā], I love my family.
 
 44
-00:03:38,331 --> 00:03:41,049
+00:03:38,331 --> 00:03:43,049
 or [Wǒ ài wǒ jiārén.]
 
 45
-00:03:41,049 --> 00:03:46,098
+00:03:44,049 --> 00:03:46,098
 [lǐ] means inside.
 
 46
@@ -190,7 +202,8 @@ How do you say at home?
 
 47
 00:03:48,618 --> 00:03:55,217
-It's [zài jiā lǐ] or [zài jiā]. Inside hospital,
+It's [zài jiā lǐ] or [zài jiā].
+Inside hospital,
 
 48
 00:03:55,217 --> 00:03:59,004
@@ -202,121 +215,129 @@ It's [zài jiā lǐ] or [zài jiā]. Inside hospital,
 
 50
 00:04:04,056 --> 00:04:10,178
-We could say, [zuì duō，zuì hǎo]
+We could say, [zuì duō, zuì hǎo]
 
 51
 00:04:10,178 --> 00:04:17,326
-[zuì shǎo, zuì xǐhuɑn]
-etc.
+[zuì shǎo, zuì xǐhuɑn], etc.
 
 52
 00:04:20,076 --> 00:04:23,321
 [dǎ qiú] is play ball games.
 
 53
-00:04:23,321 --> 00:04:28,648
+00:04:23,321 --> 00:04:29,648
 You could say, [dǎ lánqiú], play basketball.
 
 54
-00:04:28,648 --> 00:04:33,909
-[dǎ pīnɡpānɡqiú]
-play ping pong.
+00:04:29,648 --> 00:04:35,409
+[dǎ pīnɡpānɡqiú], play ping pong.
 
 55
-00:04:33,909 --> 00:04:37,776
+00:04:35,409 --> 00:04:37,776
 Read the text with me please.
 
 56
-00:04:48,904 --> 00:04:58,904
-[FOREIGN]
+00:04:42,904 --> 00:04:52,904
+>> [Xiǎobèi, nǐ xǐhuān kàn diànshì ma?]
+>> [Diànshì ya? Wǒ bù ài kàn.]
 
 57
-00:05:00,688 --> 00:05:10,789
-[FOREIGN]
+00:04:52,904 --> 00:05:03,789
+>> [Diànyǐng ne? Nǐ ài kàn ma?]
+>> [Ài kàn, wǒ yǒu shíhòu zài jiā lǐ kàn diànyǐng,
+
 
 58
-00:05:10,789 --> 00:05:17,523
-[FOREIGN]
+00:05:03,789 --> 00:05:17,523
+yǒu shíhòu qù diànyǐng yuàn.] >> [Ó, nǐ ài kàn
+ shénme diànyǐng?zhōngguó de, wàiguó de?]
 
 59
-00:05:17,523 --> 00:05:27,523
-[FOREIGN]
+00:05:17,523 --> 00:05:29,991
+>> [Zhōngguó de hé wàiguó de wǒ dōu xǐhuān.
+Nǐ zuì xǐhuān zuò shénme?]
 
 60
-00:05:30,991 --> 00:05:39,411
-[FOREIGN] Let's do an exercise now.
+00:05:29,991 --> 00:05:39,411
+>> [Wǒ zuì xǐhuān dǎ qiú.]
+Let's do an exercise now.
 
 61
-00:05:40,590 --> 00:05:42,093
-Listen to the statements. So, number one.
+00:05:40,590 --> 00:05:46,093
+Listen to the statements. So, number one,
 
 62
 00:05:50,271 --> 00:05:51,722
-[FOREIGN]
+[Wǒ ài kàn diànshì.]
 
 63
 00:05:55,245 --> 00:05:56,053
-[FOREIGN]
+[Wǒ ài kàn diànshì.]
 
 64
 00:05:58,713 --> 00:06:02,998
-Number two.
+Number two,
 
 65
 00:06:02,998 --> 00:06:09,732
-[FOREIGN]
+[Tā xīngqī liù qù dǎqiú.]
 
 66
-00:06:09,732 --> 00:06:14,564
-[FOREIGN]
+00:06:09,732 --> 00:06:12,564
+[Tā xīngqī liù qù dǎqiú.]
 
 67
-00:06:14,564 --> 00:06:18,706
-Number three.[FOREIGN]
+00:06:12,564 --> 00:06:18,706
+Number three,
+[Wǒ xiǎng qù diànyǐng yuàn kàn diànyǐng].
 
 68
 00:06:18,706 --> 00:06:23,540
-[FOREIGN]
+Number three,
+[Wǒ xiǎng qù diànyǐng yuàn kàn diànyǐng].
 
 69
-00:06:23,540 --> 00:06:28,613
-[FOREIGN] Number four.
+00:06:26,540 --> 00:06:28,613
+Number four, [Jiějie xǐhuān kàn shū].
 
 70
 00:06:28,613 --> 00:06:37,310
-[FOREIGN]
+Number four, [Jiějie xǐhuān kàn shū].
 
 71
-00:06:37,310 --> 00:06:42,145
-Number five.
+00:06:38,310 --> 00:06:42,145
+Number five, [Tā de māo zài jiā lǐ].
 
 72
 00:06:42,145 --> 00:06:50,434
-[FOREIGN]
+Number five, [Tā de māo zài jiā lǐ].
 
 73
-00:06:50,434 --> 00:06:59,756
-[FOREIGN]Please choose one correct answer for each question.Okay, the answers for you here,
+00:06:55,434 --> 00:06:59,756
+Please choose one correct answer for each
 
 74
 00:07:06,114 --> 00:07:09,208
-That's
+question. Okay, the answers for you here,
 
 75
 00:07:09,208 --> 00:07:10,611
-one,
+That's one, you choose B.
 
 76
 00:07:10,611 --> 00:07:15,747
-we choose B
+That's one, you choose B.
 
 77
 00:07:15,747 --> 00:07:21,423
-and 2C, 3A, 4C
+and 2C, 3A, 4C and 5A.
+[Nǐ dá duì le mɑ?]
 
 78
 00:07:21,423 --> 00:07:26,558
-and 5A. [Nǐ dá duì le mɑ？]
+and 2C, 3A, 4C and 5A.
+[Nǐ dá duì le mɑ?]
 
 79
 00:07:26,558 --> 00:07:32,247
@@ -344,13 +365,5 @@ based on what you hear. That's all for today.
 
 85
 00:08:02,170 --> 00:08:06,123
-See you next time. xièxie！Zàijiàn！
-
-86
-00:08:10,911 --> 00:08:12,351
-
-87
-00:08:12,351 --> 00:08:13,168
-
-88
-00:08:13,168 --> 00:08:17,309
+See you next time.
+[xièxie! Zàijiàn!]
