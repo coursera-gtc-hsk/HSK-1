@@ -45,12 +45,12 @@ Read the new words with me please.
 [dōngxi] [yīxiē]
 
 12
-00:01:02,401 --> 00:01:07,025
+00:01:02,401 --> 00:01:13,025
 [shuǐguǒ] [jiàn]
 
 13
-00:01:07,025 --> 00:01:16,026
-[FOREIGN] let's watch a video.
+00:01:13,025 --> 00:01:16,026
+Let's watch a video.
 
 14
 00:01:16,026 --> 00:01:20,195
@@ -64,72 +64,79 @@ what they are going to do.
 
 16
 00:01:33,528 --> 00:01:35,172
->> [FOREIGN]
+>> [Xiǎobèi, nǐ qù nǎr?]
 
 17
 00:01:35,172 --> 00:01:37,151
->> [FOREIGN]
+>> [Wǒ qù shāngdiàn mǎi dōngxi.]
 
 18
 00:01:37,151 --> 00:01:39,306
->> [FOREIGN]
+>> [Nǐ qù mǎi shénme dōngxi?]
 
 19
 00:01:39,306 --> 00:01:42,641
->> [FOREIGN]
+>> [Wǒ xiǎng mǎi yīxiē shuǐguǒ, nǐ qù nǎr?]
 
 20
 00:01:42,641 --> 00:01:48,181
->> [FOREIGN]
+>> [Wǒ xiànzài qù xuéxiào jiàn yīgè tóngxué,
+ wǒ xiàwǔ qù mǎi dōngxi.]
 
 21
 00:01:48,181 --> 00:01:49,779
->> [FOREIGN]
->> [FOREIGN]
+>> [Hǎode, zàijiàn!]
+>> [Zàijiàn!]
 
 22
 00:01:49,779 --> 00:01:51,761
->> [FOREIGN]
+>> [Hǎode, zàijiàn!]
+>> [Zàijiàn!]
 
 23
 00:01:56,219 --> 00:01:58,687
->> Okay, questions?
+Okay, questions?
 
 24
 00:01:58,687 --> 00:02:01,579
-[Xiǎobèi qù nǎr？]
+[Xiǎobèi qù nǎr?]
 
 25
 00:02:03,936 --> 00:02:07,649
-[Tā qù shānɡdiàn. ]
+[Tā qù shānɡdiàn.]
 
 26
 00:02:07,649 --> 00:02:12,951
-[Tínɡnà qù nǎr？]
+[Tínɡnà qù nǎr?]
 
 27
 00:02:12,951 --> 00:02:20,910
-[Tā qù jiàn yí ɡe tónɡxué.] Okay, read the text with me.
+[Tā qù jiàn yí ɡe tónɡxué.]
+Okay, read the text with me.
 
 28
 00:02:20,910 --> 00:02:27,189
-[FOREIGN]
+>> [Xiǎobèi, nǐ qù nǎr?]
+>> [Wǒ qù shāngdiàn mǎi dōngxi.]
 
 29
 00:02:27,189 --> 00:02:32,571
-[FOREIGN]
+>> [Nǐ qù mǎi shénme dōngxi?]
 
 30
 00:02:32,571 --> 00:02:42,438
-[FOREIGN]
+>> [Wǒ xiǎng mǎi yīxiē shuǐguǒ, nǐ qù nǎr?]
+>> [Wǒ xiànzài qù xuéxiào jiàn yīgè tóngxué,
 
 31
-00:02:42,438 --> 00:02:50,511
-[FOREIGN]
+00:02:42,438 --> 00:02:52,511
+wǒ xiàwǔ qù mǎi dōngxi.]
+>> [Hǎode, zàijiàn!] >> [Zàijiàn!]
 
 32
-00:02:50,511 --> 00:02:58,585
-[Nǐ qù nǎr？] is sort of greetings in Chinese culture.
+00:02:52,511 --> 00:02:58,585
+[Nǐ qù nǎr?] is sort of greetings
+in Chinese culture.
 
 33
 00:02:58,585 --> 00:03:02,191
@@ -138,20 +145,22 @@ to know where he or
 
 34
 00:03:02,191 --> 00:03:06,020
-she is going but
-just to show your concern.
+she is going, but just to show
+your concern.
 
 35
 00:03:07,030 --> 00:03:12,013
-Usually, when you see somebody doing something like studying,
+Usually, when you see somebody doing something
+like studying,
 
 36
 00:03:12,013 --> 00:03:17,152
-shopping, eating, you may ask, [Xuéxí ne？Mǎi dōnɡxi ne？]
+shopping, eating, you may ask,
+[Xuéxí ne?]
 
 37
 00:03:17,152 --> 00:03:21,520
-[Chīfàn ne？].
+[Mǎi dōnɡxi ne? Chīfàn ne?]
 
 38
 00:03:21,520 --> 00:03:26,363
@@ -164,23 +173,25 @@ not for exchanging information.
 
 40
 00:03:30,320 --> 00:03:37,672
-In Chinese culture, restating a fact effect in
+In Chinese culture, restating a fact in
 a question way, is a way of greeting.
 
 41
-00:03:37,672 --> 00:03:43,672
-[Xiǎobèi shuō,] [Wǒ qù shānɡdiàn mǎi dōnɡxi.]
+00:03:37,672 --> 00:03:45,672
+[Xiǎobèi shuō, "Wǒ qù shānɡdiàn mǎi dōnɡxi."]
 
 42
-00:03:43,672 --> 00:03:48,115
-This sentence contains two verbs [qù] and [mǎi],
+00:03:45,672 --> 00:03:48,115
+This sentence contains two verbs, [qù] and [mǎi],
+like I introduced to you before.
 
 43
-00:03:48,115 --> 00:03:53,224
+00:03:48,115 --> 00:03:54,224
+This sentence contains two verbs, [qù] and [mǎi],
 like I introduced to you before.
 
 44
-00:03:53,224 --> 00:03:59,011
+00:03:54,224 --> 00:03:59,011
 It is a sentence with serial verbs.
 
 45
@@ -197,18 +208,18 @@ In this case, it's an auxiliary verb
 
 48
 00:04:13,797 --> 00:04:18,323
-in the conversation, [Tínɡnà shuō]
+in the conversation, [Tínɡnà shuō,]
 
 49
 00:04:18,323 --> 00:04:22,153
-[Nǐ xiǎnɡ mǎi shénme dōnɡxi？]
+["Nǐ xiǎnɡ mǎi shénme dōnɡxi?"]
 
 50
 00:04:22,153 --> 00:04:28,281
-[Xiǎobèi shuō, wǒ xiǎnɡ mǎi yìxiē shuǐɡuǒ.]
+[Xiǎobèi shuō, "wǒ xiǎnɡ mǎi yìxiē shuǐɡuǒ."]
 
 51
-00:04:28,281 --> 00:04:35,175
+00:04:30,281 --> 00:04:35,175
 And the structure is,
 
 52
@@ -222,15 +233,18 @@ previous lesson as well.
 
 54
 00:04:49,478 --> 00:04:52,525
-For example, [FOREIGN].
+For example, [nǐmen míngtiān xiān kàn
+diànyǐng ma?] [wǒ yě xiǎng qù.]
 
 55
 00:04:52,525 --> 00:05:01,666
-[FOREIGN].
+For example, [nǐmen míngtiān xiān kàn
+diànyǐng ma?] [wǒ yě xiǎng qù.]
 
 56
 00:05:01,666 --> 00:05:10,810
-[FOREIGN].
+[Nǐ xiǎng zài yīyuàn gōngzuò ma?]
+[Nǐ xiǎng zuò shén me?]
 
 57
 00:05:10,810 --> 00:05:15,687
@@ -239,10 +253,10 @@ to have a Chinese dish?
 
 58
 00:05:15,687 --> 00:05:22,215
-[FOREIGN]
+[Wǒ xiǎng chī zhōngguó cài.]
 
 59
-00:05:24,743 --> 00:05:25,708
+00:05:24,743 --> 00:05:25,708w
 How about,
 
 60
@@ -251,7 +265,7 @@ I don't want to see that person.
 
 61
 00:05:31,051 --> 00:05:38,529
-[FOREIGN].
+[Wǒ bù xiǎng jiàn nà gè rén.]
 
 62
 00:05:38,529 --> 00:05:42,289
@@ -270,8 +284,9 @@ Let's have a look.
 Okay.
 
 66
-00:05:55,333 --> 00:06:05,333
-[FOREIGN].
+00:05:55,333 --> 00:06:31,333
+[mǎi dōngxī] [chī shuǐguǒ] [jiàn péngyou]
+[xiě hànzì] [shuìjiào] [Nǐ zuò duì le ma?]
 
 67
 00:06:31,304 --> 00:06:32,989
@@ -283,4 +298,4 @@ I hope you enjoyed the lesson.
 
 69
 00:06:34,868 --> 00:06:38,396
-[Xièxie！Zàijiàn！]
+[Xièxie! Zàijiàn!]
