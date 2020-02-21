@@ -4,124 +4,130 @@
 
 2
 00:00:06,700 --> 00:00:11,662
-[Nǐ hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.]
+[Nǐ hǎo! Huānyínɡ láidào HSK hànyǔ kètánɡ.]
 
 3
 00:00:11,662 --> 00:00:21,662
-[Nǐ xǐhuɑn qù shānɡdiàn mɑ？Nǐ qù shānɡdiàn mǎi shénme dōnɡxi？Wǒ yǒushíhou qù shānɡdiàn mǎi shuǐɡuǒ. Shuǐɡuǒ hěn hǎochī，wǒ hěn xǐhuɑn chī shuǐɡuǒ. Nǐ ne？]
+[Nǐ xǐhuɑn qù shānɡdiàn mɑ? Nǐ qù shānɡdiàn mǎi shénme
+ dōnɡxi? Wǒ yǒushíhou qù shānɡdiàn mǎi shuǐɡuǒ.]
 
 4
-00:00:28,950 --> 00:00:31,702
-We're going to learn
-three dialogues today.
+00:00:21,662 --> 00:00:27,162
+[Shuǐɡuǒ hěn hǎochī，Wǒ hěn xǐhuɑn chī shuǐɡuǒ. Nǐ ne?]
 
 5
+00:00:28,950 --> 00:00:31,702
+We're going to learn three dialogues today.
+
+6
 00:00:31,702 --> 00:00:34,753
 They're all about buying things.
 
 6
 00:00:34,753 --> 00:00:39,086
-There are three new words
-from the first dialogue.
+There are three new words from the first dialogue.
 
-7
+8
 00:00:39,086 --> 00:00:42,560
 Read after me, please.
 
-8
-00:00:42,560 --> 00:00:52,560
-[FOREIGN].
-
 9
+00:00:42,560 --> 00:00:55,560
+[píngguǒ] [qián] [yuán/kuài]
+
+10
 00:00:55,974 --> 00:01:01,401
 The basic unit of money in China is [yuán].
 
-10
+11
 00:01:01,401 --> 00:01:06,538
-[kuài] is more common, 
+[kuài] is more common,
 informal way to talk about money.
 
-11
+12
 00:01:06,538 --> 00:01:09,113
 For example,
-
-12
-00:01:09,113 --> 00:01:16,840
-[yí kuài/yuán（qián）] [bā kuài/yuán（qián）] 
+[yí kuài/yuán qián] [bā kuài/yuán qián]
 
 13
-00:01:16,840 --> 00:01:24,569
-[wǔ shí qī kuài/yuán（qián）]
+00:01:09,113 --> 00:01:16,840
+For example,
+[yí kuài/yuán qián] [bā kuài/yuán qián]
 
 14
-00:01:24,569 --> 00:01:31,414
-To ask about price, you say
-something first and then [Duōshao qián?].
+00:01:16,840 --> 00:01:24,569
+[wǔ shí qī kuài/yuán (qián)]
 
 15
-00:01:31,414 --> 00:01:41,028
-For example, [FOREIGN].
+00:01:24,569 --> 00:01:31,414
+To ask about price, you say
+something first and then, [Duōshao qián?]
 
 16
-00:01:41,028 --> 00:01:48,241
-[FOREIGN].
+00:01:31,414 --> 00:01:41,028
+For example, [Zhège duōshǎo qián?]
+[Zhè běn shū duōshǎo qián?]
 
 17
+00:01:41,028 --> 00:01:48,241
+[Nǐ de shǒujī duōshǎo qián?]
+
+18
 00:01:48,241 --> 00:01:52,783
 Now let's watch a video.
 
-18
+19
 00:01:52,783 --> 00:01:56,792
 [Xiǎobèi xiǎnɡ mǎi pínɡɡuǒ.]
 
-19
+20
 00:01:56,792 --> 00:02:02,578
 Please tell me how much is one apple.
-
-20
-00:02:02,578 --> 00:02:09,034
-How many apples did [Xiǎobèi] want to buy?
+How many apples did Xiaobei want to buy?
 
 21
-00:02:09,034 --> 00:02:10,028
->> [FOREIGN]
->> [FOREIGN]
+00:02:02,578 --> 00:02:09,034
+Please tell me how much is one apple.
+How many apples did Xiaobei want to buy?
 
 22
-00:02:10,028 --> 00:02:12,089
->> [FOREIGN]
+00:02:09,034 --> 00:02:10,028
+>> [Nǐhǎo.] >> [Nǐhǎo.]
 
 23
-00:02:12,089 --> 00:02:12,908
->> [FOREIGN]
+00:02:10,028 --> 00:02:12,908
+>> [Yī gè píng guǒ duōshǎo qián?]
+>> [Wǔ kuài qián.]
 
 24
 00:02:12,908 --> 00:02:14,485
->> [FOREIGN]
+>> [Wǒ mǎi sān ge píng guǒ.]
+>> [Hǎo, sān ge píngguǒ shíwǔ kuài qián.]
 
 25
 00:02:14,485 --> 00:02:16,707
->> [FOREIGN]
+>> [Wǒ mǎi sān gw píng guǒ.]
+>> [Hǎo, sān ge píngguǒ shíwǔ kuài qián.]
 
 26
 00:02:16,707 --> 00:02:17,541
->> Okay.
+Okay.
 
 27
 00:02:20,729 --> 00:02:24,723
-[Yí ɡè pínɡɡuǒ duōshǎo qián？]
+[Yí ɡè pínɡɡuǒ duōshǎo qián?]
 
 28
 00:02:28,286 --> 00:02:32,249
-[FOREIGN]
+[Wǔ kuài qián.]
 
 29
 00:02:32,249 --> 00:02:38,214
-[Xiǎobèi mǎi le jǐ ɡè pínɡɡuǒ？]
+[Xiǎobèi mǎi le jǐ ɡè pínɡɡuǒ?]
 
 30
 00:02:40,569 --> 00:02:45,914
-[FOREIGN]. [Nǐ dá duì le mɑ？]
+[Sān gè.] [Nǐ dá duì le mɑ?]
 
 31
 00:02:45,914 --> 00:02:49,880
@@ -129,40 +135,44 @@ Read the text with me please.
 
 32
 00:02:49,880 --> 00:02:59,880
-[FOREIGN]
+>> [Nǐhǎo, yī gè píng guǒ duō shǎo qián?]
+>> [Wǔ kuài qián.]
 
 33
+00:02:59,880 --> 00:03:10,485
+>> [wǒ mǎi sān ge píng guǒ.]
+>> [Hǎo, sān ge píngguǒ shíwǔ kuài qián.]
+
+34
 00:03:12,518 --> 00:03:16,489
 Dialogue two is about buying clothes.
 
-34
+35
 00:03:16,489 --> 00:03:22,487
 Before watching video we will
 learn a couple of new words.
 
-35
+36
 00:03:22,487 --> 00:03:25,948
 Read after me please.
 
-36
-00:03:25,948 --> 00:03:30,667
-[FOREIGN]
-
 37
-00:03:30,667 --> 00:03:39,430
-[FOREIGN]
+00:03:25,948 --> 00:03:30,667
+[xiānsheng] [qiánmiàn] [nà] [jiàn] [yīfu]
 
 38
 00:03:39,430 --> 00:03:46,849
-[FOREIGN]
+[xiānsheng] [qiánmiàn] [nà] [jiàn] [yīfu]
 
 39
 00:03:46,849 --> 00:03:49,529
-[xiānshenɡ] 
+[xiānshenɡ], mister, sir, gentleman.
+[qiánmiàn], front.
 
 40
 00:03:49,529 --> 00:03:54,801
-mister, sir, gentleman.[qiánmiàn] front.
+[xiānshenɡ], mister, sir, gentleman.
+[qiánmiàn], front.
 
 41
 00:03:54,801 --> 00:03:59,764
@@ -175,92 +185,100 @@ mister, sir, gentleman.[qiánmiàn] front.
 43
 00:04:04,719 --> 00:04:13,366
 Let's watch a video and tell me the prices
-of the clothes [Xùdōnɡ] asked about.
+of the clothes Xudong asked about.
 
 44
 00:04:13,366 --> 00:04:16,891
->> [FOREIGN]
->> [FOREIGN]
+>> [Xiānsheng nǐhǎo.]
+>> [Nǐhǎo, zhèjiàn yīfu duōshǎo qián?]
 
 45
 00:04:16,891 --> 00:04:18,488
->> [FOREIGN]
+>> [Xiānsheng nǐhǎo.]
+>> [Nǐhǎo, zhèjiàn yīfu duōshǎo qián?]
 
 46
 00:04:18,488 --> 00:04:21,202
->> [FOREIGN]
+>> [Jiǔshíbā kuài.]
 
 47
 00:04:21,202 --> 00:04:23,046
->> [FOREIGN]
+>> [Qiánmian nàjiàn ne?]
 
 48
 00:04:23,046 --> 00:04:27,334
->> [FOREIGN]
+>> [Nàjiàn liùshíjiǔ kuài.]
 
 49
 00:04:27,334 --> 00:04:32,655
->> Okay, [Yīfu duōshao qián？] 
+Okay, [Yīfu duōshao qián?]
 
 50
 00:04:32,655 --> 00:04:40,502
-Did you hear the first price is [jiǔ shí bā kuài].
+Did you hear the first price is [jiǔshíbā kuài].
 
 51
 00:04:40,502 --> 00:04:46,158
-The second price is [liù shí jiǔ kuài].
+The second price is [liùshíjiǔ kuài].
 
 52
-00:04:46,158 --> 00:04:52,341
-Follow me to read the text please. [FOREIGN].
+00:04:46,158 --> 00:04:49,341
+Follow me to read the text please.
 
 53
-00:04:52,341 --> 00:04:58,970
-[FOREIGN].
+00:04:49,341 --> 00:04:58,970
+>> [Xiānsheng nǐhǎo.]
+>> [Nǐhǎo, zhèjiàn yīfu duōshǎo qián?]
 
 54
 00:04:58,970 --> 00:05:08,970
-[FOREIGN].
+>> [Jiǔshíbā kuài.]
+>> [Qiánmian nàjiàn ne?]
 
 55
+00:05:08,970 --> 00:05:12,970
+>> [Nàjiàn liùshíjiǔ kuài.]
+
+56
 00:05:13,662 --> 00:05:19,454
 Now follow me to read dialogue three.
 
-56
-00:05:19,454 --> 00:05:24,132
-[FOREIGN]
-
 57
-00:05:24,132 --> 00:05:28,810
-again.
+00:05:19,454 --> 00:05:24,132
+>> [Mǐfàn duōshǎo qián?]
+>> [Yī kuài.]
 
 58
-00:05:28,810 --> 00:05:35,367
-[FOREIGN]
+00:05:24,132 --> 00:05:28,810
+Again.
 
 59
+00:05:28,810 --> 00:05:35,367
+>> [Mǐfàn duōshǎo qián?]
+>> [Yī kuài.]
+
+60
 00:05:35,367 --> 00:05:43,018
 [mǐ] means uncooked rice. [mǐfàn] is cooked rice.
 
-60
-00:05:43,018 --> 00:05:47,078
-How about a bowl of rice
-
 61
-00:05:47,078 --> 00:05:52,000
+00:05:43,018 --> 00:05:52,000
+How about a bowl of rice?
 is [yì wǎn mǐ fàn].
 
 62
-00:05:52,000 --> 00:05:56,927
-[yì wǎn mǐ fàn].
+00:05:52,000 --> 00:05:54,927
+How about a bowl of rice?
+is [yì wǎn mǐ fàn].
 
 63
-00:05:56,927 --> 00:06:02,748
-I like eating rice
+00:05:54,927 --> 00:06:02,748
+I like eating rice?
+Is [wǒ xǐhuɑn chī mǐfàn],
 
 64
 00:06:02,748 --> 00:06:07,021
-is [Wǒ xǐhuɑn chī m fà.] or [Wǒ ài chī mǐfàn.]
+or [Wǒ ài chī mǐfàn].
 
 65
 00:06:09,945 --> 00:06:12,002
@@ -273,20 +291,22 @@ picture for each dialogue.
 
 67
 00:06:21,636 --> 00:06:23,137
->> Number one.
+Number one.
 
 68
 00:06:23,137 --> 00:06:27,040
->> [FOREIGN]
->> [FOREIGN]
+>> [Zhè jiàn yīfu duōshǎo qián?]
+>> [Bāshíwǔ kuài.]
 
 69
 00:06:27,040 --> 00:06:29,300
->> [FOREIGN]
+>> [Zhè jiàn yīfu duōshǎo qián?]
+>> [Bāshíwǔ kuài.]
 
 70
 00:06:29,300 --> 00:06:34,235
->> [FOREIGN]
+>> [Zhè jiàn yīfu duōshǎo qián?]
+>> [Bāshíwǔ kuài.]
 
 71
 00:06:34,235 --> 00:06:35,894
@@ -294,46 +314,51 @@ Number two.
 
 72
 00:06:35,894 --> 00:06:38,956
-[FOREIGN]
->> [FOREIGN]
+>> [Nǐ mǎi shénme?]
+>> [Wǒ mǎi píngguǒ.]
 
 73
 00:06:38,956 --> 00:06:40,594
->> [FOREIGN]
+>> [Nǐ mǎi shénme?]
+>> [Wǒ mǎi píngguǒ.]
 
 74
 00:06:40,594 --> 00:06:44,295
->> [FOREIGN]
+>> [Nǐ mǎi shénme?]
+>> [Wǒ mǎi píngguǒ.]
 
 75
 00:06:44,295 --> 00:06:45,188
->> Number three.
+Number three.
 
 76
 00:06:45,188 --> 00:06:50,812
->> [FOREIGN]
->> [FOREIGN]
+>> [Mǐfàn duōshǎo qián?]
+>> [Sān kuài.]
 
 77
 00:06:50,812 --> 00:06:55,578
->> [FOREIGN]
+>> [Mǐfàn duōshǎo qián?]
+>> [Sān kuài.]
 
 78
 00:06:55,578 --> 00:06:57,929
->> Number four.
+Number four.
 
 79
 00:06:57,929 --> 00:07:02,590
-[FOREIGN]
->> [FOREIGN]
+>> [Nǐ zài nǎr?]
+>> [Wǒ zài shāngdiàn.]
 
 80
 00:07:02,590 --> 00:07:03,603
->> [FOREIGN]
+>> [Nǐ zài nǎr?]
+>> [Wǒ zài shāngdiàn.]
 
 81
 00:07:03,603 --> 00:07:05,974
->> [FOREIGN]
+>> [Nǐ zài nǎr?]
+>> [Wǒ zài shāngdiàn.]
 
 82
 00:07:05,974 --> 00:07:06,763
@@ -341,20 +366,22 @@ Number five.
 
 83
 00:07:06,763 --> 00:07:11,170
->> [FOREIGN]
->> [FOREIGN]
+>> [Nǐ xǐhuān tīng yīnyuè ma?]
+>> [Bù tài xǐ huān.]
 
 84
 00:07:11,170 --> 00:07:13,663
->> [FOREIGN]
+>> [Nǐ xǐhuān tīng yīnyuè ma?]
+>> [Bù tài xǐ huān.]
 
 85
 00:07:13,663 --> 00:07:18,020
->> [FOREIGN]
+>> [Nǐ xǐhuan tīng yīnyuè ma?]
+>> [Bù tài xǐhuan.]
 
 86
 00:07:18,020 --> 00:07:20,144
->> Here are the texts.
+Here are the texts.
 
 87
 00:07:23,231 --> 00:07:28,344
@@ -368,7 +395,7 @@ the same as that in part three
 89
 00:07:37,024 --> 00:07:42,650
 of the listening comprehension,
-HSK, test level one.
+HSK, test Level 1.
 
 90
 00:07:42,650 --> 00:07:44,761
@@ -392,7 +419,9 @@ pictures based on what you hear.
 94
 00:08:07,905 --> 00:08:12,532
 Okay, that's all for today.
+[Xièxiè！Zàijiàn！]
 
 95
 00:08:12,532 --> 00:08:14,921
+Okay, that's all for today.
 [Xièxiè！Zàijiàn！]
