@@ -96,17 +96,17 @@ How many apples did Xiaobei want to buy?
 
 23
 00:02:10,028 --> 00:02:12,908
->> [Yī gè píng guǒ duōshǎo qián?]
+>> [Yī gè píngguǒ duōshǎo qián?]
 >> [Wǔ kuài qián.]
 
 24
 00:02:12,908 --> 00:02:14,485
->> [Wǒ mǎi sān ge píng guǒ.]
+>> [Wǒ mǎi sān ge píngguǒ.]
 >> [Hǎo, sān ge píngguǒ shíwǔ kuài qián.]
 
 25
 00:02:14,485 --> 00:02:16,707
->> [Wǒ mǎi sān gw píng guǒ.]
+>> [Wǒ mǎi sān gw píngguǒ.]
 >> [Hǎo, sān ge píngguǒ shíwǔ kuài qián.]
 
 26
@@ -135,12 +135,12 @@ Read the text with me please.
 
 32
 00:02:49,880 --> 00:02:59,880
->> [Nǐhǎo, yī gè píng guǒ duō shǎo qián?]
+>> [Nǐhǎo, yī gè píngguǒ duō shǎo qián?]
 >> [Wǔ kuài qián.]
 
 33
 00:02:59,880 --> 00:03:10,485
->> [wǒ mǎi sān ge píng guǒ.]
+>> [wǒ mǎi sān ge píngguǒ.]
 >> [Hǎo, sān ge píngguǒ shíwǔ kuài qián.]
 
 34

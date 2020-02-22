@@ -4,35 +4,40 @@
 
 2
 00:00:06,706 --> 00:00:16,706
-[Nǐ hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ. Jīntiān nǐ qù shānɡdiàn le mɑ？Nǐ mǎi pínɡɡuǒ le mɑ？Yí ɡè pínɡɡuǒ duōshao qián？Nǐ xǐhuɑn mǎi yīfu mɑ？Wǒ xǐhuɑn chī pínɡɡuǒ，yě xǐhuɑn chī mǐfàn, nǐ ài chī shénme？].
+[Nǐ hǎo! Huānyínɡ láidào HSK hànyǔ kètánɡ.
+Jīntiān nǐ qù shānɡdiàn le mɑ? Nǐ mǎi pínɡɡuǒ le mɑ?]
 
 3
+00:00:16,706 --> 00:00:33,706
+[Yí ɡè pínɡɡuǒ duōshao qián? Nǐ xǐhuɑn mǎi yīfu mɑ?
+Wǒ xǐhuɑn chī pínɡɡuǒ, yě xǐhuɑn chī mǐfàn, nǐ ài chī shénme?]
+
+4
 00:00:34,034 --> 00:00:38,233
 Today we're going to talk about
 buying things on the Internet.
 
-4
-00:00:38,233 --> 00:00:44,350
-[Zài wǎnɡshànɡ mǎi dōnɡxi.] is very popular in China now.
-
 5
+00:00:38,233 --> 00:00:44,350
+[Zài wǎnɡshànɡ mǎi dōnɡxi],
+is very popular in China now.
+
+6
 00:00:46,120 --> 00:00:47,740
 What about in your country?
 
-6
+7
 00:00:50,290 --> 00:00:54,002
 Read the new words with me please.
 
-7
-00:00:54,002 --> 00:01:04,002
-[FOREIGN].
-
 8
-00:01:22,675 --> 00:01:27,282
-[wǎnɡshanɡ] is online or on the Internet.
+00:00:54,002 --> 00:01:22,002
+[wǎngshang] [chá] [bēizi]
+[xué] [cài] [kěyǐ] []]hǎo ba]
 
 9
-00:01:27,282 --> 00:01:30,429
+00:01:22,675 --> 00:01:30,429
+[wǎnɡshanɡ] is online or on the Internet.
 [chá] is tea.
 
 10
@@ -45,7 +50,7 @@ Read the new words with me please.
 
 12
 00:01:38,461 --> 00:01:41,459
-[zěnme shuō] tea cup? 
+[zěnme shuō] tea cup?
 
 13
 00:01:41,459 --> 00:01:47,190
@@ -61,7 +66,7 @@ I learn English, you learn Chinese
 
 16
 00:01:55,960 --> 00:02:04,663
-[zěnme shuō]? [Wǒ xué hànyǔ，nǐ xué yīnɡyǔ].
+[zěnme shuō?] [Wǒ xué hànyǔ, nǐ xué yīnɡyǔ.]
 
 17
 00:02:04,663 --> 00:02:08,928
@@ -73,8 +78,8 @@ Can I sit here?
 
 19
 00:02:11,424 --> 00:02:18,605
-[Wǒ kěyǐ zuò zhèr mɑ？]
-may I speak Chinese?
+[Wǒ kěyǐ zuò zhèr mɑ?]
+May I speak Chinese?
 
 20
 00:02:18,605 --> 00:02:25,201
@@ -83,7 +88,7 @@ may I speak Chinese?
 
 21
 00:02:25,201 --> 00:02:32,132
- [hǎo de], [hǎo], means okay, all right.
+[hǎo de], [hǎo], means okay, all right.
 
 22
 00:02:32,132 --> 00:02:37,117
@@ -91,56 +96,60 @@ For example, [Wǒmen tīnɡ yīnyuè bɑ!]
 
 23
 00:02:37,117 --> 00:02:41,606
-[Hǎo bɑ!].
+[Hǎo bɑ.]
 
 24
 00:02:41,606 --> 00:02:48,393
 Video time, listen to Huanhuan and
-Hailiang, talking about stopping online.
+Hailiang, talking about shopping online.
 
 25
 00:02:48,393 --> 00:02:52,534
->> [FOREIGN]
+>> [Hǎiliàng, nǐ xǐhuan zài wǎngshang mǎi dōngxi ma?]
 
 26
 00:02:52,534 --> 00:02:58,483
->> [FOREIGN]
+>> [Xǐhuan, zuótiān zài wǎngshang mǎi le
+diǎnr chá, yī gè bēizi hé yī běn shū.]
 
 27
 00:02:58,483 --> 00:03:00,100
->> [FOREIGN]
+>> [Nǐ mǎi le shénme shū?]
 
 28
 00:03:00,100 --> 00:03:04,002
->> [FOREIGN]
+>> [Shū de míngzi jiào zhōngguó cài, nǐ xiǎng kàn ma?]
 
 29
 00:03:04,002 --> 00:03:09,925
->> [FOREIGN]
+>> [Xiǎngkàn! Wǒ xiǎng xué zuò zhōngguó cài.
+Wǒ kàn yīgeyuè kěyǐ ma?]
 
 30
 00:03:09,925 --> 00:03:12,220
->> [FOREIGN]
+>> [Yīgeyuè? Ńg……, hǎo ba.]
 
 31
-00:03:12,220 --> 00:03:13,286
->> [FOREIGN]
+00:03:16,375 --> 00:03:19,995
+Okay, let's see the answers.
 
 32
-00:03:16,375 --> 00:03:19,995
->> Okay, let's see the answers.
+00:03:19,995 --> 00:03:28,640
+[Hǎiliànɡ zuótiān zài wǎnɡshanɡ mǎi le shénme?]
 
 33
-00:03:19,995 --> 00:03:28,640
-[Hǎiliànɡ zuótiān zài wǎnɡshanɡ mǎi le shénme？]
+00:03:31,991 --> 00:03:49,991
+[Chá, bēizi hé yì běn shū.]
+[Shū de mínɡzi shì shénme?] [Zhōnɡɡuó cài.]
 
 34
-00:03:31,991 --> 00:03:41,991
-[chá，bēizi hé yì běn shū]. [Shū de mínɡzi shì shénme?] [Zhōnɡɡuó cài.] [Huānhuān xiǎnɡ xuéxí shénme？] [Tā xiǎnɡ xué zuò Zhōnɡɡuó cài.]
+00:03:49,991 --> 00:04:01,025
+[Huānhuān xiǎnɡ xuéxí shénme?]
+[Tā xiǎnɡ xué zuò Zhōnɡɡuó cài.]
 
 35
 00:04:01,025 --> 00:04:03,610
-The next one.
+The next one,
 
 36
 00:04:03,610 --> 00:04:05,047
@@ -148,117 +157,137 @@ How long?
 
 37
 00:04:05,047 --> 00:04:09,996
-[yí ɡè yuè].
+[Yí ɡè yuè.]
 
 38
 00:04:09,996 --> 00:04:11,198
-The last one
+The last one,
 
 39
 00:04:15,753 --> 00:04:22,593
-[shì de] or [duì].
+[Shìde] or [duì].
 
 40
 00:04:22,593 --> 00:04:26,848
 Now lets read the whole text.
 
 41
-00:04:26,848 --> 00:04:36,848
-[FOREIGN].
+00:04:26,848 --> 00:04:34,848
+>> [Hǎiliàng, nǐ xǐhuan zài wǎngshang mǎi dōngxi ma?]
 
 42
+00:04:34,848 --> 00:04:45,848
+>> [Xǐhuan, zuótiān zài wǎngshang mǎi le
+diǎnr chá, yī gè bēizi hé yī běn shū.]
+
+43
+00:04:45,848 --> 00:04:59,848
+>> [Nǐ mǎi le shénme shū?]
+>> [Shū de míngzi jiào zhōngguó cài, nǐ xiǎng kàn ma?]
+
+44
+00:04:59,848 --> 00:05:10,848
+>> [Xiǎngkàn! Wǒ xiǎng xué zuò zhōngguó cài.
+Wǒ kàn yīgeyuè kěyǐ ma?]
+
+45
+00:05:10,848 --> 00:05:17,848
+>> [Yīgeyuè? Ńg……, hǎo ba.]
+
+46
 00:05:19,814 --> 00:05:21,801
 [wǎnɡshanɡ] is online.
 
-43
+47
 00:05:21,801 --> 00:05:27,470
-If you say [shànɡwǎnɡ] it
+If you say [shànɡwǎnɡ], it
 means to surf the Internet.
 
-44
+48
 00:05:29,010 --> 00:05:32,670
 Look at the character [wǎnɡ].
 
-45
+49
 00:05:32,670 --> 00:05:35,575
 Is it really like a net?
 
-46
-00:05:39,769 --> 00:05:44,749
-The particle [le]
-has many uses, one of
-
-47
-00:05:44,749 --> 00:05:50,014
-the most common is to
-express the completion
-
-48
-00:05:50,014 --> 00:05:54,296
-of an action. This is called aspect, 
-
-49
-00:05:54,296 --> 00:06:00,276
-Which is about whether the action
-is complete in the certain time.
-
 50
-00:06:02,266 --> 00:06:07,424
-The structure is subject
+00:05:39,769 --> 00:05:44,749
+The particle [le] has many uses, one of
 
 51
-00:06:07,424 --> 00:06:13,568
-+ verb + [le] + object.
+00:05:44,749 --> 00:05:50,014
+the most common is to express the completion
 
 52
-00:06:13,568 --> 00:06:16,568
-For example
+00:05:50,014 --> 00:05:54,296
+of an action. This is called aspect,
 
 53
-00:06:16,568 --> 00:06:23,569
-[FOREIGN]
+00:05:54,296 --> 00:06:00,276
+which is about whether the action
+is complete in the certain time.
 
 54
-00:06:23,569 --> 00:06:30,572
-[FOREIGN]
+00:06:02,266 --> 00:06:07,424
+The structure is subject
++ verb + [le] + object.
 
 55
-00:06:35,096 --> 00:06:37,719
-Let’s do an exercise. 
+00:06:07,424 --> 00:06:13,568
+The structure is subject
++ verb + [le] + object.
 
 56
+00:06:13,568 --> 00:06:16,568
+For example,
+
+57
+00:06:16,568 --> 00:06:23,569
+[Wǒ mǎi le yī diǎnr chá.]
+[Tā qù le shāng diàn.]
+
+58
+00:06:23,569 --> 00:06:30,572
+[Māma xué le yī nián zhōngwén.]
+
+59
+00:06:35,096 --> 00:06:37,719
+Let’s do an exercise.
+
+60
 00:06:37,719 --> 00:06:43,732
 Please make a sentence or
 phrase based on each picture.
 
-57
+61
 00:06:50,134 --> 00:06:55,374
-Number one, [Tāmen zài mǎi shuǐɡuǒ.]
+Number one, [Tāmen zài mǎi shuǐɡuǒ].
 
-58
+62
 00:06:55,374 --> 00:07:02,363
 or you could say, [Tāmen mǎi le shuǐɡuǒ].
 
-59
+63
 00:07:02,363 --> 00:07:08,537
 The second one,
 
-60
+64
 00:07:08,537 --> 00:07:12,506
 [Tāmen zài xué zuò Zhōnɡɡuó cài].
 
-61
+65
 00:07:12,506 --> 00:07:14,868
 The last one.
 
-62
+66
 00:07:14,868 --> 00:07:18,911
 [Tāmen zài hēchá.]
 
-63
+67
 00:07:22,058 --> 00:07:26,425
-Time to say bye-bye. See you next time.
+Time to say byebye. See you next time.
 
-64
+68
 00:07:26,425 --> 00:07:29,810
-[Xièxie！Zàijiàn！]
+[Xièxie! Zàijiàn!]
