@@ -3,44 +3,49 @@
 [MUSIC]
 
 2
-00:00:06,958 --> 00:00:10,252
-[FOREIGN]
+00:00:06,958 --> 00:00:11,662
+[Nǐ hǎo! Huānyínɡ láidào HSK hànyǔ kètánɡ.]
 
 3
-00:00:10,252 --> 00:00:16,840
-In this lesson,
+00:00:11,662 --> 00:00:16,840
+[Nǐ xǐhuan zài wǎngshang mǎi dōngxī ma?]
 
 4
-00:00:16,840 --> 00:00:21,546
-we are going
+00:00:16,840 --> 00:00:19,546
+[Nǐ zài wǎngshang mài shénme dōngxi?]
 
 5
-00:00:21,546 --> 00:00:26,722
-to talk about
+00:00:19,546 --> 00:00:26,722
+[Wǒ huì zuò zhōngguó cài, Nǐ huì ma?]
+[Nǐ xiǎng xué ma?]
 
 6
 00:00:26,722 --> 00:00:32,847
-Chinese food.
+In this lesson, we are going
+to talk about Chinese food.
 
 7
 00:00:32,847 --> 00:00:37,260
-The title of this
+The title of this lesson is,
+[wǒ huì zuò zhōngguó cài].
 
 8
 00:00:37,260 --> 00:00:43,253
-lesson is, [FOREIGN].
+The title of this lesson is,
+[wǒ huì zuò zhōngguó cài].
 
 9
 00:00:43,253 --> 00:00:49,490
 Let's learn some new words.
 
 10
-00:00:49,490 --> 00:00:59,490
-[FOREIGN].
+00:00:49,490 --> 00:01:20,029
+[wèi] [zhè jǐ tiān] [zuò fàn]
+[xué huì] [qǐng] [ā] [néng] [zhù]
 
 11
 00:01:20,029 --> 00:01:22,735
-[FOREIGN] means hello.
+[wèi] means hello.
 
 12
 00:01:22,735 --> 00:01:27,902
@@ -49,12 +54,12 @@ when making a phone call.
 
 13
 00:01:27,902 --> 00:01:35,939
-It's [FOREIGN] but the way often
-say [FOREIGN] instead of [FOREIGN].
+It's the fourth tone, but the way often
+say [wéi] instead of [wèi].
 
 14
 00:01:35,939 --> 00:01:43,437
-[FOREIGN] means these days, recently.
+[zhè jǐ tiān] means these days, recently.
 
 15
 00:01:43,437 --> 00:01:46,165
@@ -62,35 +67,36 @@ What are you doing these days?
 
 16
 00:01:46,165 --> 00:01:51,913
-[FOREIGN], what are you
-reading these days?
+[Zhè jǐ tiān nǐ zuò shén me ne?]
+what are you reading these days?
 
 17
 00:01:51,913 --> 00:01:56,489
-[FOREIGN]
+[Zhè jǐ tiān nǐ zài dú shénme shū?]
 
 18
 00:01:56,489 --> 00:02:03,680
-is to learn.
+[xué huì]
+[xué] is to learn.
 
 19
 00:02:03,680 --> 00:02:09,698
-If you have learned and regarded,
-you need to add [FOREIGN] after [FOREIGN].
+If you have learned and got it,
+you need to add [huì] after [xué].
 
 20
 00:02:09,698 --> 00:02:12,507
-That is [FOREIGN].
+That is [xué huì].
 
 21
 00:02:12,507 --> 00:02:17,364
-For example,
-[FOREIGN] have learned cooking.
+For example, [wǒ xué huì le zuò fàn.]
+I've learned cooking.
 
 22
 00:02:17,364 --> 00:02:26,076
-Canelan to write Chinese
-characters [FOREIGN],
+Can I learn to write Chinese
+characters? [Wǒ néng xuéhuì xiě hànzì ma?]
 
 23
 00:02:26,076 --> 00:02:30,002
@@ -98,27 +104,25 @@ of course, you can.
 
 24
 00:02:30,002 --> 00:02:32,731
-[FOREIGN] is to invite.
+[qǐng] is to invite.
 
 25
 00:02:32,731 --> 00:02:40,986
-[FOREIGN]
-that means please.
+We've learned [qǐng] in [qǐng zuò],
+[qǐng hē chá], that means please.
 
 26
 00:02:40,986 --> 00:02:48,879
-In this sentence [FOREIGN]
-means to invite.
+In this sentence, [wǒ qǐng nǐ chīfàn],
+[qǐng] means to invite.
 
 27
-00:02:48,879 --> 00:02:54,824
-[FOREIGN] is sentence
-final induction here.
+00:02:48,879 --> 00:02:56,824
+[a] is sentence-final interjection here.
 
 28
-00:02:54,824 --> 00:03:00,457
-The induction are,
-is often added to the end
+00:02:56,824 --> 00:03:00,457
+The interjection [a] is often added to the end
 
 29
 00:03:00,457 --> 00:03:05,938
@@ -135,20 +139,20 @@ depends on the context.
 
 32
 00:03:16,080 --> 00:03:22,533
-For example,
-[FOREIGN] means good, fine, okay.
+For example, [hǎo a] means good,
+fine, okay.
 
 33
 00:03:22,533 --> 00:03:26,664
-[FOREIGN] you're right.
+[duì a], you're right.
 
 34
 00:03:26,664 --> 00:03:31,130
-[FOREIGN] definitely, I think so too.
+[shì a], definitely, I think so too.
 
 35
 00:03:34,519 --> 00:03:40,102
-[FOREIGN] Is used to
+[néng] is used to
 emphasize one's ability or
 
 36
@@ -157,27 +161,28 @@ the possibility of something to happen.
 
 37
 00:03:47,811 --> 00:03:49,543
-The structure?
+The structure,
 
 38
 00:03:49,543 --> 00:03:57,515
-Subject, + [FOREIGN] + verb + object.
+Subject + [néng] + verb + object.
 
 39
-00:03:57,515 --> 00:04:03,562
-For example, [FOREIGN]
+00:03:57,515 --> 00:04:05,562
+For example,
+[nǐ néng zài zhèr xiě nǐ de zhōngwén míngzì ma?]
 
 40
-00:04:03,562 --> 00:04:08,341
+00:04:05,562 --> 00:04:08,341
 a long sentence.
 
 41
 00:04:08,341 --> 00:04:14,014
-[FOREIGN]
+[Jīntiān xiàwǔ nǐ néng lái ma?]
 
 42
 00:04:18,609 --> 00:04:21,745
-Radio time [FOREIGN]
+Video time, Xiaopei and Xiaobei
 
 43
 00:04:21,745 --> 00:04:26,060
@@ -194,48 +199,50 @@ to the questions below.
 
 46
 00:04:33,778 --> 00:04:41,172
->> [FOREIGN]
->> [FOREIGN]
+>> [Wèi! Nǐhǎo! Wǒ shì Xiǎobèi, shì xiǎopéi ma?]
+>> [Duì, wǒ shì xiǎopéi. Xiǎobèi, nǐ zěnmeyàng?]
 
 47
 00:04:41,172 --> 00:04:44,259
->> [FOREIGN]
+>> [Wǒ hěn hǎo. Wǒ zhèjǐtiān xué zuòfàn ne!]
 
 48
 00:04:44,259 --> 00:04:46,456
->> [FOREIGN]
+>> [Shìma? nǐ xuéhuì le ma?]
 
 49
 00:04:46,456 --> 00:04:51,048
->> [FOREIGN]
+>> [Xuéhuì le, wǒ xiǎng qǐng nǐ hé
+xiǎoyuè lái wǒ jiā chīfàn.]
 
 50
 00:04:51,048 --> 00:04:53,892
->> [FOREIGN]
+>> [Hǎo a! Xièxiè! shénme shíhou?]
 
 51
 00:04:53,892 --> 00:04:56,908
->> [FOREIGN]
+>> [Xīngqīsì xiàwǔ nǐmen néng lái ma?]
 
 52
 00:04:56,908 --> 00:04:59,323
->> [FOREIGN]
+>> [Néng, jǐ diǎn ya?]
 
 53
 00:04:59,323 --> 00:05:01,020
->> [FOREIGN]
+>> [Wǔ diǎn kěyǐ ma?]
 
 54
 00:05:01,020 --> 00:05:04,169
->> [FOREIGN]
+>> [Kěyǐ, xīngqīsì jiàn. Nǐ zhù zài nǎr?]
 
 55
 00:05:06,451 --> 00:05:10,336
->> Okay, let's look at the answers.
+Okay, let's look at the answers.
 
 56
-00:05:15,531 --> 00:05:20,859
-[FOREIGN]
+00:05:15,531 --> 00:05:26,859
+[Xiǎobèi, zhèjǐtiān xué shénme ne?]
+[xué zuòfàn]
 
 57
 00:05:27,975 --> 00:05:32,398
@@ -243,115 +250,135 @@ The next one, what for?
 
 58
 00:05:32,398 --> 00:05:38,656
-[FOREIGN]
+[chīfàn]
 
 59
 00:05:40,734 --> 00:05:48,811
-And the third one [FOREIGN]
+And the third one, [tāmen néng lái].
 
 60
 00:05:48,811 --> 00:05:57,437
-and the last one [FOREIGN]
+and the last one, [xīngqīsì wǔ diǎn].
 
 61
 00:06:02,204 --> 00:06:07,051
-[FOREIGN] now, read text with me.
+[Nǐ dá duì le ma?]
+Now, read text with me.
 
 62
-00:06:09,888 --> 00:06:19,888
-[FOREIGN]
+00:06:09,888 --> 00:06:21,888
+>> [Wèi, nǐhǎo. Wǒ shì xiǎobèi, shì xiǎopéi ma?]
+>> [Duì, wǒ shì xiǎopéi, xiǎobèi, nǐ zěnmeyàng?]
 
 63
+00:06:21,888 --> 00:06:34,488
+>> [Wǒ hěn hǎo. Wǒ zhèjǐtiān xué zuòfàn ne!]
+>> [Shìma, nǐ xuéhuì le ma?]
+
+64
+00:06:34,488 --> 00:06:43,388
+>> [Xuéhuì le, wǒ xiǎng qǐng nǐ hé
+xiǎoyuè lái wǒ jiā chīfàn.]
+
+65
+00:06:43,388 --> 00:06:57,388
+>> [Hǎo a! xièxiè! shénme shíhou?]
+>> [Xīngqīsì xiàwǔ nǐmen néng lái ma?]
+
+66
+00:06:57,388 --> 00:07:12,388
+>> [Néng, jǐ diǎn ya?] >> [Wǔ diǎn kěyǐ ma?]
+>> [Kěyǐ, xīngqīsì jiàn. Nǐ zhù zài nǎr?]
+
+67
 00:07:16,106 --> 00:07:19,530
 Let's do an exercise now.
 
-64
+68
 00:07:19,530 --> 00:07:21,666
 Match the questions and answers.
 
-65
-00:07:28,914 --> 00:07:34,230
-Okay, number
-
-66
-00:07:34,230 --> 00:07:39,546
-one [FOREIGN].
-
-67
-00:07:39,546 --> 00:07:45,955
-Number two,
-
-68
-00:07:45,955 --> 00:07:51,201
-[FOREIGN].
-
 69
-00:07:51,201 --> 00:07:56,616
-Number three,
+00:07:28,914 --> 00:07:30,230
+Okay, number one,
 
 70
-00:07:56,616 --> 00:08:00,367
-[FOREIGN].
+00:07:34,230 --> 00:07:39,546
+[Nǐ xué shénme ne?]
+[Xué zuò zhōngguó fàn ne.]
 
 71
-00:08:00,367 --> 00:08:04,911
-Number four,
+00:07:39,546 --> 00:07:45,955
+Number two, [Nǐ shénme shíhòu lái wǒ jiā?]
 
 72
-00:08:04,911 --> 00:08:08,321
-[FOREIGN].
+00:07:45,955 --> 00:07:51,201
+[Míngtiān xiàwǔ sān diǎn.]
 
 73
-00:08:08,321 --> 00:08:14,561
-The last one,
+00:07:51,201 --> 00:07:56,616
+Number three, [nǐ zhù zài nàr?]
 
 74
-00:08:14,561 --> 00:08:18,203
-[FOREIGN]
+00:07:56,616 --> 00:08:00,367
+[Běijīng.]
 
 75
+00:08:00,367 --> 00:08:08,321
+Number four, [nǐ mǎi le shénme?]
+[Kāfēi.]
+
+76
+00:08:08,321 --> 00:08:14,561
+The last one, [zhè jiàn yī fú duō shǎo qián?]
+
+77
+00:08:14,561 --> 00:08:18,203
+[Bāshíqī kuài.]
+
+78
 00:08:21,090 --> 00:08:24,783
 Sorry we don't have enough time to read,
 
-76
+79
 00:08:24,783 --> 00:08:27,849
 but please look at it again later.
 
-77
+80
 00:08:31,247 --> 00:08:36,255
 This type of question is
-the same as that in reading
+the same as that in Reading
 
-78
+81
 00:08:36,255 --> 00:08:41,037
-comprehension part 3
-which is K test level 1.
+Comprehension Part 3
+HSK Test level 1.
 
-79
+82
 00:08:41,037 --> 00:08:44,400
 There are five items in part 3.
 
-80
+83
 00:08:44,400 --> 00:08:48,576
 In this section, 5 questions and
 
-81
+84
 00:08:48,576 --> 00:08:52,178
 5 answers will be provided.
 
-82
+85
 00:08:52,178 --> 00:08:57,303
 You need to choose just one of
 the answers to match each question.
 
-83
+86
 00:09:01,442 --> 00:09:03,297
-Time to say bye bye.
+Time to say byebye.
 
-84
+87
 00:09:03,297 --> 00:09:05,482
 Hope you enjoyed the lesson.
 
-85
+88
 00:09:05,482 --> 00:09:08,304
-[FOREIGN]
+[Xièxiè! Zàijiàn!]
