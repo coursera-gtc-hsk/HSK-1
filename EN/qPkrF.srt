@@ -217,11 +217,11 @@ xiǎoyuè lái wǒ jiā chīfàn.]
 
 50
 00:04:51,048 --> 00:04:53,892
->> [Hǎo a! Xièxiè! shénme shíhou?]
+>> [Hǎo a! Xièxiè! Shénme shíhou?]
 
 51
 00:04:53,892 --> 00:04:56,908
->> [Xīngqīsì xiàwǔ nǐmen néng lái ma?]
+>> [Xīngqīliù xiàwǔ nǐmen néng lái ma?]
 
 52
 00:04:56,908 --> 00:04:59,323
@@ -233,7 +233,7 @@ xiǎoyuè lái wǒ jiā chīfàn.]
 
 54
 00:05:01,020 --> 00:05:04,169
->> [Kěyǐ, xīngqīsì jiàn. Nǐ zhù zài nǎr?]
+>> [Kěyǐ, xīngqīliù jiàn. Nǐ zhù zài nǎr?]
 
 55
 00:05:06,451 --> 00:05:10,336
@@ -258,7 +258,7 @@ And the third one, [tāmen néng lái].
 
 60
 00:05:48,811 --> 00:05:57,437
-and the last one, [xīngqīsì wǔ diǎn].
+and the last one, [xīngqīliù wǔ diǎn].
 
 61
 00:06:02,204 --> 00:06:07,051
@@ -282,13 +282,13 @@ xiǎoyuè lái wǒ jiā chīfàn.]
 
 65
 00:06:43,388 --> 00:06:57,388
->> [Hǎo a! xièxiè! shénme shíhou?]
->> [Xīngqīsì xiàwǔ nǐmen néng lái ma?]
+>> [Hǎo a! xièxiè! Shénme shíhou?]
+>> [Xīngqīliù xiàwǔ nǐmen néng lái ma?]
 
 66
 00:06:57,388 --> 00:07:12,388
 >> [Néng, jǐ diǎn ya?] >> [Wǔ diǎn kěyǐ ma?]
->> [Kěyǐ, xīngqīsì jiàn. Nǐ zhù zài nǎr?]
+>> [Kěyǐ, xīngqīliù jiàn. Nǐ zhù zài nǎr?]
 
 67
 00:07:16,106 --> 00:07:19,530

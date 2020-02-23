@@ -4,7 +4,8 @@
 
 2
 00:00:09,438 --> 00:00:19,933
->> [Nǐ hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ. Nǐ huì zuòfàn mɑ？Nǐ xǐhuɑn zuòfàn mɑ？] 
+>> [Nǐ hǎo! Huānyínɡ láidào HSK hànyǔ kètánɡ.
+Nǐ huì zuòfàn mɑ? Nǐ xǐhuɑn zuòfàn mɑ?]
 
 3
 00:00:19,933 --> 00:00:23,904
@@ -12,7 +13,8 @@ Chinese food is very famous in the world.
 
 4
 00:00:23,904 --> 00:00:32,036
-[Zhōnɡɡuó cài hěn hǎo chī，nǐ xiǎnɡ xué zuò Zhōnɡɡuó cài mɑ？].
+[Zhōnɡɡuó cài hěn hǎochī,
+nǐ xiǎnɡ xué zuò Zhōnɡɡuó cài mɑ?]
 
 5
 00:00:32,036 --> 00:00:36,039
@@ -24,11 +26,11 @@ The title of this lesson is
 
 7
 00:00:40,277 --> 00:00:45,429
-[FOREIGN].
+[Nǐ hē diǎnr shén me?]
 
 8
 00:00:45,429 --> 00:00:49,373
-There are three shot videos for you.
+There are three short videos for you.
 
 9
 00:00:49,373 --> 00:00:53,074
@@ -36,56 +38,64 @@ Let's watch the first one.
 
 10
 00:00:53,074 --> 00:00:55,622
-Xiaobei and Xudong
+Xiaobei and Xudong are in a cafe.
 
 11
 00:00:55,622 --> 00:00:56,859
-are in a cafe. 
+Xiaobei and Xudong are in a cafe.
 
 12
 00:01:03,703 --> 00:01:07,815
->> [FOREIGN]
->> [FOREIGN].
+>> [Nǐ hē diǎnr shénme?]
+>> [Wǒ xiǎng hē yī bēi kāfēi, nǐ ne?]
 
 13
 00:01:07,815 --> 00:01:14,091
->> [FOREIGN]
+>> [Wǒ xǐhuan hē chá, wǒ yào yī bēi chá.]
 
 14
-00:01:14,091 --> 00:01:16,714
->> OK. Questions.
+00:01:12,091 --> 00:01:16,714
+OK. Questions.
 
 15
 00:01:16,714 --> 00:01:26,714
-[Shéi xiǎnɡ hē yì bēi kāfēi？] [Xiǎobèi xiǎnɡ hē yì bēi kāfēi.] [Shéi xǐhuɑn hē chá?] [Xùdōnɡ xǐhuɑn hē chá.]
+[Shéi xiǎnɡ hē yì bēi kāfēi？]
+[Xiǎobèi xiǎnɡ hē yì bēi kāfēi.]
 
 16
+00:01:26,714 --> 00:01:41,816
+[Shéi xǐhuɑn hē chá?] [Xùdōnɡ xǐhuɑn hē chá.]
+
+17
 00:01:41,816 --> 00:01:47,058
-Dialog one, read
+Dialogue one, read after me please.
 
 17
 00:01:47,058 --> 00:01:52,303
-after me please.
+>> [Nǐ hē diǎnr shénme?]
+>> [Wǒ xiǎng hē yī bēi kāfēi, nǐ ne?]
 
 18
 00:01:52,303 --> 00:01:55,887
-[FOREIGN]
+>> [Nǐ hē diǎnr shénme?]
+>> [Wǒ xiǎng hē yī bēi kāfēi, nǐ ne?]
 
 19
-00:01:55,887 --> 00:02:01,526
-[FOREIGN] 
+00:01:55,887 --> 00:02:06,526
+>> [Wǒ xǐhuan hē chá, wǒ yào yī bēi chá.]
 
 20
-00:02:01,526 --> 00:02:11,246
+00:02:06,526 --> 00:02:11,246
 [hē] is to drink. We could say,
 
 21
 00:02:11,246 --> 00:02:18,538
-[hē chá、hē kāfēi、hē kělè (Cola)].
+[hē chá, hē kāfēi, hē kělè(Cola).]
 
 22
 00:02:18,538 --> 00:02:21,082
-[Wǒmen xué le bēizi.] [bēizi] is cup.
+[Wǒmen xué le bēizi.]
+[bēizi] is cup.
 
 23
 00:02:21,082 --> 00:02:26,196
@@ -93,7 +103,7 @@ after me please.
 
 24
 00:02:26,196 --> 00:02:32,755
-For example, [yì bēi chá] [sān bēi kāfēi].
+For example, [yì bēi chá], [sān bēi kāfēi].
 
 25
 00:02:32,755 --> 00:02:36,120
@@ -101,11 +111,11 @@ For example, [yì bēi chá] [sān bēi kāfēi].
 
 26
 00:02:36,120 --> 00:02:38,071
-I want to have Chinese food [Zěn me shuō]？
+I want to have Chinese food, [zěn me shuō?]
 
 27
 00:02:38,071 --> 00:02:44,365
-[Wǒ yào chī Zhōnɡɡuó cài].
+[Wǒ yào chī Zhōnɡɡuó cài.]
 
 28
 00:02:44,365 --> 00:02:47,491
@@ -113,7 +123,7 @@ I want to buy some fruit.
 
 29
 00:02:47,491 --> 00:02:55,052
-[Wǒ yào mǎi yì xiē shuǐɡuǒ.]
+[Wǒ yào mǎi yìxiē shuǐɡuǒ.]
 
 30
 00:02:55,052 --> 00:03:00,108
@@ -124,53 +134,57 @@ Now Xudong and Xiaobei are ordering their drinks.
 Watch the video please.
 
 32
-00:03:02,710 --> 00:03:08,879
->> [FOREIGN]
->> [FOREIGN]
+00:03:02,710 --> 00:03:06,879
+>> [Xiǎojiě, yī bēi kāfēi duōshǎo qián?]
+>> [Shíbā kuài.]
 
 33
-00:03:08,879 --> 00:03:10,623
->> [FOREIGN]
+00:03:06,879 --> 00:03:08,623
+>> [Yī bēi chá ne?] >> [Shíèr kuài.]
 
 34
-00:03:10,623 --> 00:03:12,656
->> [FOREIGN]
+00:03:10,623 --> 00:03:13,656
+>> [Nàge bēizi lǐ de shì shénme dōngxī?]
 
 35
-00:03:12,656 --> 00:03:14,897
->> [FOREIGN]
+00:03:13,656 --> 00:03:15,897
+>> [Nàge? Shì rè shuǐ.]
 
 36
-00:03:14,897 --> 00:03:18,103
->> [FOREIGN]
+00:03:17,103 --> 00:03:19,363
+OK. Questions?
 
 37
-00:03:18,103 --> 00:03:19,363
->> OK. Questions.
+00:03:22,559 --> 00:03:32,191
+[Yì bēi kāfēi duōshao qián?]
+[Yì bēi kāfēi shíbā kuài.]
 
 38
-00:03:22,559 --> 00:03:28,191
-[Yì bēi kāfēi duōshao qián？] [FOREIGN] 
+00:03:33,992 --> 00:03:42,992
+[Yì bēi chá duōshao qián?]
+[Yì bēi chá shíèr kuài.]
 
 39
-00:03:33,992 --> 00:03:43,992
-[Yì bēi chá duōshao qián？][FOREIGN].
+00:03:45,790 --> 00:03:49,057
+The last question,
 
 40
-00:03:45,790 --> 00:03:49,057
-The last question.
+00:03:49,057 --> 00:03:58,664
+[Chábēi lǐmiàn shì shénme?] [Rè shuǐ.]
 
 41
-00:03:49,057 --> 00:03:58,664
-[Chábēi lǐmiàn shì shénme？] [Rè shuǐ.]
+00:03:58,664 --> 00:04:01,235
+Read dialogue two with me please.
 
 42
-00:03:58,664 --> 00:04:01,235
-Read dialog two with me please.
+00:04:05,329 --> 00:04:15,329
+>> [Xiǎojiě, yī bēi kāfēi duōshǎo qián?]
+>> [Shíbā kuài.] >> [Yī bēi chá ne?]
 
 43
-00:04:05,329 --> 00:04:15,329
-[FOREIGN]
+00:04:15,329 --> 00:04:33.329
+>> [Shíèr kuài.] >> [Nàge chábēi lǐ de
+shì shénme dōngxī?] >> [Nàge? Shì rè shuǐ.]
 
 44
 00:04:33,348 --> 00:04:36,688
@@ -190,11 +204,11 @@ Do you remember how to say outside?
 
 48
 00:04:47,522 --> 00:04:51,584
-It is [wàimiàn]. 
+It is [wàimiàn].
 
 49
 00:04:51,584 --> 00:04:55,647
-[Rè shuǐ.] [rè] is hot.
+[rè shuǐ], [rè] is hot.
 
 50
 00:04:55,647 --> 00:04:58,985
@@ -205,45 +219,49 @@ It is [wàimiàn].
 [Zhōnɡɡuórén hěn xǐhuɑn hē rèshuǐ.]
 
 52
-00:05:08,522 --> 00:05:09,836
+00:05:06,522 --> 00:05:09,836
 The last video for you for today.
 
 53
 00:05:17,560 --> 00:05:21,706
->> [FOREIGN]
->> [FOREIGN]
+>> [Kāfēi hǎo hē ma?]
+>> [Hǎo hē, chá hǎo hē ma?]
 
 54
 00:05:21,706 --> 00:05:29,214
->> [FOREIGN]
+>> [Hěn hǎo hē! Wǒ měitiān shàngwǔ
+yī bēi chá, xiàwǔ yī bēi chá.]
 
 55
 00:05:29,214 --> 00:05:31,118
->> Follow me to read the text.
+Okay, follow me to read the text.
 
 56
-00:05:35,166 --> 00:05:45,166
-[FOREIGN].
+00:05:35,166 --> 00:05:43,166
+>> [Kāfēi hǎo hē ma?]
+>> [Hǎo hē, chá hǎo hē ma?]
 
 57
-00:05:55,924 --> 00:05:57,874
-[hǎo hē] is taste good.
+00:05:43,166 --> 00:05:53,166
+>> [Hěn hǎo hē! Wǒ měitiān shàngwǔ
+yī bēi chá, xiàwǔ yī bēi chá.]
 
 58
+00:05:53,924 --> 00:05:57,874
+[hǎo hē] is taste good.
+
+59
 00:05:57,874 --> 00:06:02,579
 For food, we say, [hǎo chī].
 
-59
-00:06:02,579 --> 00:06:09,850
-For drinks, we say [hǎo hē]. [měitiān] is everyday.
-
 60
-00:06:09,850 --> 00:06:10,980
-[Zěnme shuō]
+00:06:02,579 --> 00:06:09,850
+For drinks, we say [hǎo hē].
+[měitiān] is everyday.
 
 61
-00:06:10,980 --> 00:06:13,636
-I learn Chinese everyday?
+00:06:09,850 --> 00:06:13,636
+[Zěnme shuō] I learn Chinese everyday?
 
 62
 00:06:13,636 --> 00:06:17,570
@@ -259,4 +277,4 @@ Looking forward to seeing you next time.
 
 65
 00:06:27,026 --> 00:06:29,499
-[Xièxie！Zàijiàn！]
+[Xièxie! Zàijiàn!]
