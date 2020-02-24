@@ -3,20 +3,21 @@
 [MUSIC]
 
 2
-00:00:06,908 --> 00:00:10,719
-[Tónɡxuémen hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.] 
+00:00:06,908 --> 00:00:12,719
+[Tónɡxuémen hǎo!Huānyínɡ láidào HSK hànyǔ kètánɡ.]
 
 3
-00:00:10,719 --> 00:00:17,253
-[Nǐ xǐhuɑn hē shénme？Nǐ xǐhuɑn hē chá mɑ？] 
+00:00:12,719 --> 00:00:17,253
+[Nǐ xǐhuɑn hē shénme? Nǐ xǐhuɑn hē chá mɑ?]
 
 4
 00:00:17,253 --> 00:00:22,698
-[Nǐ ài hē kāfēi mɑ？] 
+[Nǐ ài hē kāfēi mɑ?]
 
 5
 00:00:22,698 --> 00:00:30,864
-[Hěn duō Zhōnɡɡuórén xǐhuɑn hē rèshuǐ.][Wǒ yě xǐhuɑn hē rèshuǐ. Nǐ ne？] 
+[Hěn duō Zhōnɡɡuórén xǐhuɑn hē rèshuǐ.]
+[Wǒ yě xǐhuɑn hē rèshuǐ. Nǐ ne?]
 
 6
 00:00:30,864 --> 00:00:37,400
@@ -28,24 +29,25 @@ Let's start from Lesson 1.
 
 8
 00:00:40,391 --> 00:00:49,045
-[FOREIGN] Read the new
-words with me please.
+[Nǐ zěn me qù?]
+Read the new words with me please.
 
 9
 00:00:49,045 --> 00:00:59,045
-[FOREIGN]
+[chūzū chē] [hé …… yīqǐ]
 
 10
 00:01:00,302 --> 00:01:08,343
-[FOREIGN]
+[huílái] [hòutiān]
 
 11
 00:01:08,343 --> 00:01:17,994
-[FOREIGN]
+[nán péngyou]
 
 12
 00:01:17,994 --> 00:01:21,094
-[nán] means male. [pénɡyou] is friend.
+[nán] means male.
+[pénɡyou] is friend.
 
 13
 00:01:21,094 --> 00:01:23,013
@@ -57,8 +59,8 @@ What about girlfriend?
 
 15
 00:01:26,020 --> 00:01:32,799
-is [nǚ pénɡyou]. [nǚ]
-means female.
+It's [nǚ pénɡyou].
+[nǚ] means female.
 
 16
 00:01:35,452 --> 00:01:37,779
@@ -79,48 +81,48 @@ Listen to the details below.
 
 20
 00:01:54,715 --> 00:01:59,457
->> [FOREIGN]
->> [FOREIGN]
+>> [Huānhuān, míngtiān nǐ qù nǎr?]
+>> [Wǒ qù kàn yī gè péngyou.]
 
 21
 00:01:59,457 --> 00:02:01,566
->> [FOREIGN]
+>> [Nǐ zěnme qù?]
 
 22
 00:02:01,566 --> 00:02:03,488
->> [FOREIGN]
+>> [Zuò chūzū chē qù.]
 
 23
 00:02:03,488 --> 00:02:05,580
->> [FOREIGN]
+>> [Nǐ yī gè rén qù ma?]
 
 24
 00:02:05,580 --> 00:02:09,132
->> [FOREIGN]
+>> [Bù, wǒ hé wǒ de nán péngyou yīqǐ qù.]
 
 25
 00:02:09,132 --> 00:02:12,362
->> [FOREIGN]
+>> [Nǐ míngtiān xiàwǔ néng huílái ma?]
 
 26
 00:02:12,362 --> 00:02:15,706
->> [FOREIGN]
+>> [Bùnéng, wǒ hòutiān shàngwǔ huí.]
 
 27
 00:02:15,706 --> 00:02:18,823
->> [FOREIGN]
+>> [Wǒmen shénme shíhou qù mǎi yīfu?]
 
 28
 00:02:18,823 --> 00:02:22,242
->> [FOREIGN]
+>> [Ng… Hòutiān xiàwǔ kěyǐ ma?]
 
 29
 00:02:22,242 --> 00:02:25,806
->> [FOREIGN]
+>> [Kěyǐ, wǒmen qù nǎgè shāngdiàn?]
 
 30
 00:02:25,806 --> 00:02:27,000
->> Okay.
+Okay.
 
 31
 00:02:27,000 --> 00:02:30,986
@@ -128,95 +130,102 @@ Let's see the answers.
 
 32
 00:02:30,986 --> 00:02:34,567
-[Mínɡtiān Huānhuān qù nǎr？]
+[Mínɡtiān Huānhuān qù nǎr?]
 
 33
 00:02:37,060 --> 00:02:40,686
-[FOREIGN]
+[Tā qù kàn yī gè péngyou.]
 
 34
-00:02:43,204 --> 00:02:46,403
-[Tā zěnme qù？] [FOREIGN] 
+00:02:43,204 --> 00:02:52,403
+[Tā zěnme qù?] [Tā zuò chūzū chē qù.]
 
 35
-00:02:47,984 --> 00:02:57,984
-[Tā yí ɡè rén qù mɑ？] [FOREIGN] 
-[Tā mínɡtiān xiàwǔ nénɡ huílái mɑ？[FOREIGN] 
-[Tāmen shénme shíhou qù mǎi yīfu？[FOREIGN] 
+00:02:52,984 --> 00:03:07,984
+[Tā yí ɡè rén qù mɑ?]
+[Bù, tā hé tā de nán péngyou yīqǐ qù.]
 
 36
-00:03:38,443 --> 00:03:40,873
-So many questions.
+00:03:08,443 --> 00:03:23,873
+[Tā mínɡtiān xiàwǔ nénɡ huílái mɑ?]
+[Bùnéng, wǒ hòutiān shàngwǔ huí.]
 
 37
-00:03:40,873 --> 00:03:46,991
-[Nǐ dá duì le mɑ？] Please read the text with me.
+00:03:23,873 --> 00:03:35,991
+[Tāmen shénme shíhou qù mǎi yīfu?]
+[Hòutiān xiàwǔ.]
 
 38
-00:03:50,185 --> 00:04:00,185
-[FOREIGN]
+00:03:38,185 --> 00:03:50,185
+So many questions. [Nǐ dá duì le mɑ?]
+Please read the text with me.
 
 39
-00:04:05,305 --> 00:04:13,945
-[FOREIGN]
+00:03:50,185 --> 00:03:58,685
+>> [Nǐ míngtiān nǐ qù nǎr?]
+>> [Wǒ qù kàn yī gè péngyou.]
 
 40
-00:04:13,945 --> 00:04:24,749
-[zuò] is to sit.
+00:03:50,185 --> 00:04:05,305
+>> [Nǐ zěnme qù?]
+>> [Zuò chūzū chē qù.]
 
 41
-00:04:24,749 --> 00:04:30,023
+00:04:05,305 --> 00:04:17,945
+>> [Nǐ yī gè rén qù ma?]
+>> [Bù, wǒ hé wǒ de nán péngyou yīqǐ qù.]
+
+42
+00:04:13,945 --> 00:04:23,749
+[zuò] is to sit.
+
+43
+00:04:23,749 --> 00:04:30,023
 We learned [qǐnɡ zuò] ,
 which means sit down, please.
 
-42
+44
 00:04:30,023 --> 00:04:35,700
 What about [zuò chūzū chē] in the dialogue?
 
-43
-00:04:35,700 --> 00:04:38,965
+45
+00:04:35,700 --> 00:04:39,965
 Literally, it means, sit in the taxi.
 
-44
-00:04:38,965 --> 00:04:42,073
+46
+00:04:39,965 --> 00:04:44,073
 [Wǒ zuò chūzū chē qù.]
 
-45
-00:04:42,073 --> 00:04:47,845
-is I go by taxi.
+47
+00:04:44,073 --> 00:04:47,845
+It's I go by taxi.
 
-46
+48
 00:04:50,983 --> 00:04:56,140
 The preposition [hé] is
 commonly used to express 'with'.
 
-47
+49
 00:04:57,940 --> 00:05:02,110
 Remember, the 'with' phrase
 should come before the verb.
 
-48
+50
 00:05:04,440 --> 00:05:08,387
 The structure is,
 
-49
-00:05:08,387 --> 00:05:13,815
-subject plus [hé] plus
-
-50
-00:05:13,815 --> 00:05:20,238
-person plus verb plus object.
-
 51
-00:05:20,238 --> 00:05:30,058
-For example,
+00:05:08,387 -->  00:05:20,238
+subject + [hé] + person + verb + object
 
 52
-00:05:30,058 --> 00:05:36,933
-[FOREIGN]
+00:05:20,238 --> 00:05:29,933
+For example, [zuótiān wǒ hé mèimei
+qù diànyǐngyuàn kàn diànyǐng le.]
 
 53
-00:05:39,831 --> 00:05:43,883
+00:05:29,933 --> 00:05:43,883
+[wǒ xǐhuan hé bàba māma liáotiānr.]
 The word [yìqǐ] is used a lot with
 
 54
@@ -229,43 +238,48 @@ something together with somebody.
 
 56
 00:05:52,869 --> 00:05:57,751
-The structure is, subject
+The structure is, subject + [hé]
+ + person + [yìqǐ] + verb + object.
 
 57
 00:05:57,751 --> 00:06:03,058
-plus [hé] plus person plus
+The structure is, subject + [hé]
+ + person + [yìqǐ] + verb + object.
 
 58
 00:06:03,058 --> 00:06:08,802
-[yìqǐ] plus verb plus object.
+The structure is, subject + [hé]
+ + person + [yìqǐ] + verb + object.
 
 59
 00:06:08,802 --> 00:06:17,854
 For example,
+[wǒ hé jiějie yīqǐ zuò chūzū chē huíjiā.]
 
 60
 00:06:17,854 --> 00:06:23,137
-[FOREIGN]
+[wǒ hé māma yīqǐ chī wǔfàn.]
 
 61
 00:06:25,603 --> 00:06:29,281
 Go on with the text.
 
 62
-00:06:29,281 --> 00:06:34,863
-[FOREIGN]
+00:06:29,281 --> 00:06:37,363
+>> [Nǐ míngtiān xiàwǔ néng huílái ma?]
+>> [Bùnéng, wǒ hòutiān shàngwǔ huí.]
 
 63
-00:06:34,863 --> 00:06:39,648
-[FOREIGN] Okay,
+00:06:37,363 --> 00:06:41,648
+>> [Wǒmen shénme shíhou qù mǎi yīfu?]
 
 64
-00:06:39,648 --> 00:06:42,837
-[FOREIGN]
+00:06:41,648 --> 00:06:45,837
+>> [Hòutiān xiàwǔ kěyǐ ma?]
 
 65
-00:06:42,837 --> 00:06:52,407
-[FOREIGN] 
+00:06:45,837 --> 00:06:52,407
+>> [Kěyǐ, wǒmen qù nǎgè shāngdiàn?]
 
 66
 00:06:52,407 --> 00:06:56,398
@@ -277,20 +291,21 @@ You can answer these questions
 according to your own situation.
 
 68
-00:07:05,260 --> 00:07:10,453
-[FOREIGN]
+00:07:05,260 --> 00:07:12,453
+[Míngtiān nǐ qù nǎr?]
+[Nǐ zěnme qù?]
 
 69
-00:07:10,453 --> 00:07:17,871
-[FOREIGN] or [FOREIGN] or somebody
+00:07:12,453 --> 00:07:16,871
+[Nǐ hé nǐ nán péngyou / ]
 
 70
-00:07:17,871 --> 00:07:22,324
-else [FOREIGN]?
+00:07:16,871 --> 00:07:22,324
+[nǚ péngyou] or somebody else [yīqǐ qù ma?]
 
 71
 00:07:22,324 --> 00:07:25,477
-[FOREIGN]
+[Nǐ shénme shíhou huílái?]
 
 72
 00:07:25,477 --> 00:07:30,640
@@ -302,7 +317,4 @@ Hope you enjoyed the lesson.
 
 74
 00:07:33,570 --> 00:07:34,553
-[Xièxie！Zàijiàn！] 
-
-75
-00:07:34,553 --> 00:07:37,001
+[Xièxie! Zàijiàn!]
