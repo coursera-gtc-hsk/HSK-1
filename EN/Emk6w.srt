@@ -33,7 +33,7 @@ Read the new words with me please.
 8
 00:00:54,002 --> 00:01:22,002
 [wǎngshang] [chá] [bēizi]
-[xué] [cài] [kěyǐ] []]hǎo ba]
+[xué] [cài] [kěyǐ] [hǎo ba]
 
 9
 00:01:22,675 --> 00:01:30,429
@@ -96,7 +96,7 @@ For example, [Wǒmen tīnɡ yīnyuè bɑ!]
 
 23
 00:02:37,117 --> 00:02:41,606
-[Hǎo bɑ.]
+[Hǎo bɑ!]
 
 24
 00:02:41,606 --> 00:02:48,393
