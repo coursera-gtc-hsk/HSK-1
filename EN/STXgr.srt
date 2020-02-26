@@ -4,41 +4,45 @@
 
 2
 00:00:06,437 --> 00:00:16,437
-[Tónɡxuémen hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ. Nǐ xiǎnɡ lái Běijīnɡ mɑ？Nǐ zěnme lái Běijīnɡ？Nǐ yào zuò fēijī lái mɑ？Wǒ de pénɡyou lái le，tā shì jīntiān shànɡwǔ jiǔdiǎn lái de，tā shì dǎchē lái de. Hé pénɡyou zài yìqǐ，wǒ hěn ɡāoxìnɡ!].
+[Tónɡxuémen hǎo! Huānyínɡ láidào HSK hànyǔ kètánɡ.
+ Nǐ xiǎnɡ lái Běijīnɡ mɑ？Nǐ zěnme lái Běijīnɡ?]
 
 3
+00:00:16,437 --> 00:00:25,437
+[Nǐ yào zuò fēijī lái mɑ? Wǒ de pénɡyou lái le，
+tā shì jīntiān shànɡwǔ jiǔdiǎn lái de,]
+
+4
+00:00:25,437 --> 00:00:33,681
+[tā shì dǎchē lái de. Hé pénɡyou zài yìqǐ,
+wǒ hěn ɡāoxìnɡ!]
+
+5
 00:00:33,681 --> 00:00:37,633
 In this lesson,
 we're going to learn directions.
 
-4
+6
 00:00:37,633 --> 00:00:47,247
-The title of the lesson is [FOREIGN].
+The title of the lesson is
+[wǒ de xiǎo māo ne?]
 
-5
+7
 00:00:47,247 --> 00:00:51,140
 Before watching a video,
 let's go over the new words.
 
-6
-00:00:51,140 --> 00:00:59,236
-[FOREIGN].
-
-7
-00:00:59,236 --> 00:01:09,236
-[FOREIGN]
-
 8
-00:01:11,239 --> 00:01:14,668
-[FOREIGN] is
+00:00:51,140 --> 00:00:59,236
+[zhuōzi] [yǐzi]
 
 9
-00:01:14,668 --> 00:01:24,958
-[FOREIGN]book.
+00:00:59,236 --> 00:01:20,236
+[shūbāo] [shàngmiàn] [xiàmiàn] [hòumiàn]
 
 10
-00:01:24,958 --> 00:01:28,254
-[shū] is book; [bāo] is bag.
+00:01:21,668 --> 00:01:28,254
+[shū] is book, [bāo] is bag.
 
 11
 00:01:28,254 --> 00:01:32,983
@@ -54,7 +58,8 @@ On the table [zěnme shuō]?
 
 14
 00:01:41,941 --> 00:01:48,466
-[Zài zhuōzi shànɡmiàn.] Under the chair [zěnme shuō]?
+[Zài zhuōzi shànɡmiàn.]
+Under the chair [zěnme shuō]?
 
 15
 00:01:48,466 --> 00:01:53,696
@@ -94,31 +99,33 @@ Match the sentences with the pictures.
 
 24
 00:02:28,543 --> 00:02:38,543
-[FOREIGN].
+[Bēizi zài zhuōzi shàngmiàn.]
+[Māo zài yǐzi xiàmiàn.]
 
 25
-00:03:04,449 --> 00:03:05,698
-Okay?
+00:02:39,543 --> 00:02:51,698
+[Shū zài shūbāo lǐmiàn.]
+[Tāmen zài fàndiàn qiánmiàn.]
 
 26
-00:03:05,698 --> 00:03:07,397
-Let's see the answers.
+00:02:51,698 --> 00:03:04,449
+[Gǒu zài kàn hòumiàn.]
 
 27
-00:03:11,384 --> 00:03:16,406
-1D.
+00:03:04,449--> 00:03:07,397
+Okay? Let's see the answers.
 
 28
-00:03:16,406 --> 00:03:20,855
-2A.
+00:03:11,384 --> 00:03:20,855
+1D, 2A,
 
 29
 00:03:20,855 --> 00:03:24,949
-3B.
+3B,
 
 30
 00:03:24,949 --> 00:03:28,063
-4E.
+4E,
 
 31
 00:03:28,063 --> 00:03:33,450
@@ -126,7 +133,7 @@ Let's see the answers.
 
 32
 00:03:33,450 --> 00:03:35,951
-[Nǐ zuò duì le mɑ？]
+[Nǐ zuò duì le mɑ?]
 
 33
 00:03:35,951 --> 00:03:41,313
@@ -142,44 +149,46 @@ Tingna will tell her where it is.
 
 36
 00:03:48,339 --> 00:03:52,828
-Listen and
-pay attention to the details below.
+Listen and pay attention to
+the details below.
 
 37
 00:03:52,828 --> 00:03:59,169
->> [FOREIGN]
+>> [Tíngnà, wǒ de xiǎomāo ne? Nǐ kànjiàn le ma?]
 
 38
 00:03:59,169 --> 00:04:04,230
->> [FOREIGN]
+>> [Kànjiàn le, zài zhuōzi shàngmiàn.]
 
 39
 00:04:04,230 --> 00:04:07,702
->> [FOREIGN]
+>> [Zhuōzi shàngmiàn méiyǒu a!]
 
 40
 00:04:07,702 --> 00:04:10,347
->> [FOREIGN]
+>> [Zài shū de hòumiàn?]
 
 41
 00:04:10,347 --> 00:04:13,297
->> [FOREIGN]
+>> [Nàr yě méiyǒu a!]
 
 42
 00:04:13,297 --> 00:04:23,297
->> [FOREIGN].
+>> [Ó, zài yǐzi xiàmiàn.] >>[Méiyǒu a!]
+>> [Kàn! Nà shì nǐ de xiǎomāo.]
 
 43
-00:04:28,458 --> 00:04:34,340
->> Okay, let's see the answers.
+00:04:23,297 --> 00:04:27,297
+   [Zài shūbāo lǐmiàn.]
 
 44
-00:04:34,340 --> 00:04:38,884
-Firstly, Tingna said Xiaomao is,
+00:04:28,458 --> 00:04:38,884
+Okay, let's see the answers.
+Firstly, Tingna said xiaomao is,
 
 45
 00:04:42,349 --> 00:04:49,578
-a [Zài zhuōzi shànɡmiàn].
+a [Zài zhuōzi shànɡmiàn]
 
 46
 00:04:49,578 --> 00:04:51,424
@@ -187,7 +196,7 @@ Finally, where is the cat?
 
 47
 00:04:54,392 --> 00:05:00,352
-b [Zài shūbāo lǐmiàn.]
+c [Zài shūbāo lǐmiàn]
 
 48
 00:05:04,360 --> 00:05:08,798
@@ -195,22 +204,32 @@ Now, read the text with me.
 
 49
 00:05:08,798 --> 00:05:18,798
-[FOREIGN].
+>> [Tíngnà, wǒ de xiǎomāo ne? Nǐ kànjiàn le ma?]
+>> [Kànjiàn le, zài zhuōzi shàngmiàn.]
 
 50
-00:05:49,879 --> 00:05:52,298
-Another exercise for you.
+00:05:18,798 --> 00:05:27,798
+>> [Zhuōzi shàngmiàn méiyǒu a!]
+>> [Zài shū de hòumiàn.]
 
 51
-00:05:52,298 --> 00:05:55,140
-Fill in the gaps with suitable words.
+00:05:27,798 --> 00:05:38,798
+>> [Méiyǒu a!]
+>> [Ó, zài yǐzi xiàmiàn.] >>[Méiyǒu a!]
 
 52
-00:06:10,665 --> 00:06:13,462
-Okay, let's see the answers.
+00:05:38,798 --> 00:05:47,798
+>> [Kàn! Nà shì nǐ de xiǎomāo.]
+   [Zài shūbāo lǐmiàn.]
 
 53
-00:06:16,274 --> 00:06:23,303
+00:05:49,879 --> 00:05:55,140
+Another exercise for you.
+Fill in the gaps with suitable words.
+
+53
+00:06:10,665 --> 00:06:23,303
+Okay, let's see the answers.
 1E, 2C, 3A, 4B, 5D.
 
 54
@@ -220,7 +239,7 @@ Okay, let's see the answers.
 55
 00:06:27,221 --> 00:06:32,736
 This type of question is the same
-as part four Reading comprehension,
+as part four, Reading comprehension,
 
 56
 00:06:32,736 --> 00:06:35,170
@@ -251,7 +270,7 @@ the HSK test, level one.
 
 62
 00:07:01,416 --> 00:07:06,470
-I hope you find this helpful whether
+I hope you find this helpful, whether
 you will take the test or not.
 
 63
@@ -268,4 +287,4 @@ Looking forward to seeing you next time.
 
 66
 00:07:17,031 --> 00:07:19,124
-[Xièxie！Zàijiàn！]
+[Xièxie! Zàijiàn!]
