@@ -148,7 +148,7 @@ Let's see the answers.
 36
 00:03:08,443 --> 00:03:23,873
 [Tā mínɡtiān xiàwǔ nénɡ huílái mɑ?]
-[Bùnéng, wǒ hòutiān shàngwǔ huí.]
+[Bùnéng, tā hòutiān shàngwǔ huí.]
 
 37
 00:03:23,873 --> 00:03:35,991
@@ -162,7 +162,7 @@ Please read the text with me.
 
 39
 00:03:50,185 --> 00:03:58,685
->> [Nǐ míngtiān nǐ qù nǎr?]
+>> [Míngtiān nǐ qù nǎr?]
 >> [Wǒ qù kàn yī gè péngyou.]
 
 40

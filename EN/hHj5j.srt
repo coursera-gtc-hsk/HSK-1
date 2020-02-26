@@ -26,7 +26,7 @@ The title of this lesson is
 
 7
 00:00:40,277 --> 00:00:45,429
-[Nǐ hē diǎnr shén me?]
+[Nǐ hē diǎnr shénme?]
 
 8
 00:00:45,429 --> 00:00:49,373
@@ -70,13 +70,8 @@ OK. Questions.
 00:01:41,816 --> 00:01:47,058
 Dialogue one, read after me please.
 
-17
-00:01:47,058 --> 00:01:52,303
->> [Nǐ hē diǎnr shénme?]
->> [Wǒ xiǎng hē yī bēi kāfēi, nǐ ne?]
-
 18
-00:01:52,303 --> 00:01:55,887
+00:01:47,058 --> 00:01:55,887
 >> [Nǐ hē diǎnr shénme?]
 >> [Wǒ xiǎng hē yī bēi kāfēi, nǐ ne?]
 
