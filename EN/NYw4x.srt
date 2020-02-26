@@ -72,249 +72,276 @@ pay attention to the questions below.
 
 17
 00:01:40,048 --> 00:01:43,520
->> [FOREIGN]
->> [FOREIGN]
+>> [Zhè shì bādálǐng chángchéng ma?] >> [Shì a.]
 
 18
 00:01:43,520 --> 00:01:46,758
->> [FOREIGN]
+>> [Tài měi le! Bādálǐng chángchéng zài nǎr?]
 
 19
 00:01:46,758 --> 00:01:51,348
->> [FOREIGN]
+>> [Zài běijīng de xīběi.
+Wǒmen jiào jǐ gè tóngxué yīqǐ qù ba?]
 
 20
 00:01:51,348 --> 00:01:53,373
->> [FOREIGN]
+>> [Hǎo a! Nǎtiān qù?]
 
 21
 00:01:53,373 --> 00:01:55,900
->> [FOREIGN]
+>> [Zhège xīngqīliù zěnme yàng?]
 
 22
 00:01:55,900 --> 00:01:58,961
->> [FOREIGN]
+>> [Hǎo, wǒmen zěnme qù ne?]
 
 23
 00:01:58,961 --> 00:02:01,101
->> [FOREIGN]
+>> [Nǐ xué chē le ma? Wǒmen kāichē qù ba!]
 
 24
 00:02:01,101 --> 00:02:10,178
->> [FOREIGN]
+>> [Xuéle! hǎode, wǒ kāichē, nǐmen zuòchē,
+wǒmen yīqǐ qù bādálǐng chángchéng!]
 
 25
 00:02:10,178 --> 00:02:13,287
->> Okay, let's see the answers.
+Okay, let's see the answers.
 
 26
 00:02:19,742 --> 00:02:28,190
-[Chánɡchénɡ de mínɡzi shì]
-[FOREIGN]
+[Chánɡchénɡ de mínɡzi shì?]
+[Bādálǐng chángchéng.]
 
 27
 00:02:31,844 --> 00:02:35,768
-[Bādálǐnɡ chánɡchénɡ zài nǎr？]
+[Bādálǐnɡ chánɡchénɡ zài nǎr?]
 
 28
 00:02:38,027 --> 00:02:47,403
-[FOREIGN] [Tāmen nǎtiān qù chánɡchénɡ？]
+[Zài běijīng de xīběi.]
+[Tāmen nǎtiān qù chánɡchénɡ?]
 
 29
 00:02:47,403 --> 00:02:54,100
-[FOREIGN] Now,
+[Xīngqīliù.] Now,
 
 30
 00:02:54,100 --> 00:03:02,137
-[Tāmen zěnme qù？] [FOREIGN]
+[Tāmen zěnme qù?] [Tāmen kāichē qù.]
 
 31
 00:03:02,137 --> 00:03:11,513
-[Tínɡnà huì kāichē mɑ？]
+[Tínɡnà huì kāichē mɑ?]
 
 32
 00:03:11,513 --> 00:03:19,550
-[FOREIGN] [Shéi zuòchē？]
+[Tā huì kāichē.] [Shéi zuòchē?]
 
 33
 00:03:19,550 --> 00:03:30,269
-[FOREIGN] Now go over the text with me please.
+[Hǎiliàng hé tóngxuémen.]
+Now go over the text with me please.
 
 34
-00:03:30,269 --> 00:03:40,269
-[FOREIGN]
+00:03:30,269 --> 00:03:42,269
+>> [Zhè shì bādálǐng chángchéng ma?] >> [Shì a.]
+>> [Tài měi le! Bādálǐng chángchéng zài nǎr?]
 
 35
+00:03:42,269 --> 00:03:52,269
+>> [Zài běijīng de xīběi.
+Wǒmen jiào jǐ gè tóngxué yīqǐ qù ba?]
+
+36
+00:03:52,269 --> 00:04:01,269
+>> [Hǎo a! Nǎtiān qù?]
+>> [Zhège xīngqīliù zěnme yàng?]
+
+37
 00:04:03,798 --> 00:04:07,254
 [chánɡchénɡ] is the Great Wall.
 
-36
+38
 00:04:07,254 --> 00:04:13,662
 [Bādálǐnɡ] is the name of
 a section of the Great Wall.
 
-37
-00:04:13,662 --> 00:04:22,858
-There are also [Mùtiányù chánɡchénɡ、Sīmǎtái chánɡchéng] etc. in Beijing.
-
-38
-00:04:22,858 --> 00:04:31,580
-[měi] is beautiful. [Wǒmen kéyǐ shuō，chánɡchénɡ hěn měi.]
-
 39
-00:04:31,580 --> 00:04:42,243
-[Nà ɡè nǚrén hěn měi；Hànzì hěn měi.] and so on.
-[xīběi] is Northwest.
+00:04:13,662 --> 00:04:22,858
+There are also Mutianyu Chanɡchenɡ,
+Sīmatai Chanɡcheng etc. in Beijing.
 
 40
-00:04:42,243 --> 00:04:44,702
-[xī] is West.
+00:04:22,858 --> 00:04:31,580
+[měi] is beautiful.
+[Wǒmen kéyǐ shuō, chánɡchénɡ hěn měi.]
 
 41
-00:04:44,702 --> 00:04:52,067
-[běi] is North, [dōnɡ] is East,
-[nán] is South.
+00:04:31,580 --> 00:04:42,243
+[Nàɡe nǚrén hěn měi], [Hànzì hěn měi] and so on.
+[xīběi] is northwest.
 
 42
-00:04:52,067 --> 00:04:56,800
-[jǐ ɡè], several, a few.
+00:04:42,243 --> 00:04:44,702
+[xī] is west,
 
 43
+00:04:44,702 --> 00:04:52,067
+[běi] is north, [dōnɡ] is east,
+[nán] is south.
+
+44
+00:04:52,067 --> 00:04:56,800
+[jǐɡè], several, a few.
+
+45
 00:04:56,800 --> 00:04:59,748
 We learnt [jǐ] in
 
-44
+46
 00:04:59,748 --> 00:05:05,647
 [jǐ diǎn] [xīnɡqī jǐ], but this one is different.
 
-45
+47
 00:05:05,647 --> 00:05:12,751
-For example, [Shūbāo lǐ yǒu jǐ ɡè pínɡɡuǒ.].
+For example, [Shūbāo lǐ yǒu jǐ ɡè pínɡɡuǒ.]
 
-46
+48
 00:05:12,751 --> 00:05:18,750
 This sentence is a statement which means
 
-47
-00:05:18,750 --> 00:05:25,983
-there are a few apples in
-the school bag. However, if you raise the intonation a bit,
-
-48
-00:05:25,983 --> 00:05:31,099
-the sentence becomes
-a question, that is
-
 49
+00:05:18,750 --> 00:05:25,983
+there are a few apples in the school bag.
+However, if you raise the intonation a bit,
+
+50
+00:05:25,983 --> 00:05:31,099
+the sentence becomes a question, that is
+
+51
 00:05:31,099 --> 00:05:38,699
 [Shūbāo lǐ yǒu jǐ ɡè pínɡɡuǒ?]
 
-50
+52
 00:05:38,699 --> 00:05:42,168
 Okay, go on with the text.
 
-51
-00:05:42,168 --> 00:05:52,168
-[FOREIGN].
-
-52
-00:06:12,771 --> 00:06:17,341
-Sentences like [Wǒmen jiào jǐ ɡè tónɡxué yìqǐ qù bɑ!]
-
 53
-00:06:17,341 --> 00:06:22,121
-is called pivotal sentence.
+00:05:42,168 --> 00:05:54,168
+>> [Hǎo, wǒmen zěnme qù ne?]
+>> [Nǐ xuéhuì kāichē le ma? Wǒmen kāichē qù ba!]
 
 54
+00:05:54,168 --> 00:06:10,168
+>> [wǒ xué huì kāi chē le. Hǎode, wǒ kāichē,
+nǐmen zuòchē, wǒmen yīqǐ qù bādálǐng chángchéng!]
+
+55
+00:06:12,771 --> 00:06:17,341
+Sentences like [Wǒmen jiào jǐ ɡè tónɡxué yìqǐ qù bɑ!]
+is called pivotal sentence.
+
+56
+00:06:17,341 --> 00:06:22,121
+Sentences like [Wǒmen jiào jǐ ɡè tónɡxué yìqǐ qù bɑ!]
+is called pivotal sentence.
+
+57
 00:06:22,121 --> 00:06:26,081
 A pivotal sentence has two predicates.
 
-55
+58
 00:06:26,081 --> 00:06:30,858
-The first of which has
-an object that serves
+The first of which has an object that serves
 
-56
+59
 00:06:30,858 --> 00:06:35,511
 as the subject for the second predicate.
 
-57
-00:06:35,511 --> 00:06:42,713
-The structure is, subject plus verb one,
-
-58
-00:06:42,713 --> 00:06:49,521
-pivotal word plus verb two plus object.
-
-59
-00:06:49,521 --> 00:06:55,488
-For example, [FOREIGN].
-
 60
-00:06:56,963 --> 00:07:01,314
-[FOREIGN].
+00:06:35,511 --> 00:06:42,713
+The structure is, subject + verb 1
++ pivotal word + verb 2 + object.
 
 61
+00:06:42,713 --> 00:06:49,521
+The structure is, subject + verb 1
++ pivotal word + verb 2 + object.
+
+62
+00:06:49,521 --> 00:06:55,488
+For example, [wǒ qǐng péngyou lái chīfàn].
+
+63
+00:06:56,963 --> 00:07:01,314
+[Tā jiào nǚ‘ér xiě hànzì].
+
+64
 00:07:01,314 --> 00:07:06,756
 [ne] can be with questions.
 
-62
+65
 00:07:06,756 --> 00:07:10,654
-Involving interrogative
+Involving interrogative pronouns,
 
-63
+66
 00:07:10,654 --> 00:07:15,718
-pronouns, like [nǎr，shéi，zěnme，shénme] etc.
+like [nǎr], [shéi], [zěnme], [shénme] etc.
 
-64
+67
 00:07:15,718 --> 00:07:21,572
 to soften the tone of the question.
 
-65
+68
 00:07:21,572 --> 00:07:24,572
 The structure is,
-
-66
-00:07:24,572 --> 00:07:30,392
- interrogative pronoun plus [ne].
-
-67
-00:07:30,392 --> 00:07:38,762
-For example, [FOREIGN].
-
-68
-00:07:38,762 --> 00:07:45,042
-[FOREIGN].
+interrogative pronoun + [ne].
 
 69
+00:07:24,572 --> 00:07:30,392
+The structure is,
+interrogative pronoun + [ne].
+
+70
+00:07:30,392 --> 00:07:38,762
+For example, [wǒ men zěnme qù ne?]
+[Tāmen zuò shénme ne?]
+
+71
+00:07:38,762 --> 00:07:45,042
+[Wǒ de hànyǔ shū zài nǎr ne?]
+
+72
 00:07:49,084 --> 00:07:51,197
 Time flies.
 
-70
+73
 00:07:51,197 --> 00:07:55,970
 Six weeks passed since you've
 started to learn Chinese with me.
 
-71
+74
 00:07:57,740 --> 00:08:00,770
 Hope you'll find that this
 course useful and enjoyable.
 
-72
+75
 00:08:02,500 --> 00:08:07,085
 I sincerely hope you can keep
 going with your Chinese study.
 
-73
+76
 00:08:07,085 --> 00:08:12,635
 My colleagues from the School of
 Chinese as a second language of
 
-74
+77
 00:08:12,635 --> 00:08:19,980
 Peking University will continue to teach
 you for higher levels in the near future.
 
-75
+78
 00:08:19,980 --> 00:08:24,587
-[Xièxie nǐmen！Tónɡxuémen，zàijiàn！]
+[Xièxie nǐmen! Tónɡxuémen, zàijiàn!]
