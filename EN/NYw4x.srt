@@ -4,16 +4,16 @@
 
 2
 00:00:07,091 --> 00:00:12,534
-[Tónɡxuémen hǎo！Huānyínɡ láidào HSK hànyǔ kètánɡ.] 
+[Tónɡxuémen hǎo! Huānyínɡ láidào HSK hànyǔ kètánɡ.]
 
 3
 00:00:12,534 --> 00:00:19,653
-Wǒmen xuéxí le shànɡmiàn、xiàmiàn、
-qiánmiàn、hòumiàn]
+[Wǒmen xuéxí le shànɡmiàn, xiàmiàn,
+qiánmiàn, hòumiàn]
 
 4
 00:00:19,653 --> 00:00:25,934
-[lǐmiàn、wàimiàn] Can you use 
+[lǐmiàn, wàimiàn] Can you use
 
 5
 00:00:25,934 --> 00:00:30,546
@@ -21,41 +21,44 @@ these direction words to make some sentences?
 
 6
 00:00:30,546 --> 00:00:34,546
-[Qǐnɡ tīnɡ wǒ shuō]
+[Qǐnɡ tīnɡ wǒ shuō.]
 
 7
 00:00:34,546 --> 00:00:42,544
-[Wǒ de xiǎo māo zài zhuōzi shànɡmiàn. Wǒ de shū zài yǐzi xiàmiàn.] 
+[Wǒ de xiǎo māo zài zhuōzi shànɡmiàn.
+Wǒ de shū zài yǐzi xiàmiàn.]
 
 8
 00:00:42,544 --> 00:00:48,828
-[Shǒujī zài nǐ de shūbāo lǐmiàn. ] 
+[Shǒujī zài nǐ de shūbāo lǐmiàn.]
 
 9
-00:00:48,828 --> 00:00:54,541
-[Nǐ de pénɡyou zài xuéxiào wàimiàn.] 
-[Tā de tónɡxué]
+00:00:48,828 --> 00:00:55,541
+[Nǐ de pénɡyou zài xuéxiào wàimiàn.]
+[Tā de tónɡxué zài shānɡdiàn lǐmiàn.]
 
 10
-00:00:54,541 --> 00:01:01,397
-[zài shānɡdiàn lǐmiàn.] 
-[Tā jiā zài wǒ jiā hòumiàn.] 
+00:00:55,541 --> 00:01:01,397
+[Tā jiā zài wǒ jiā hòumiàn.]
 
 11
 00:01:01,397 --> 00:01:11,120
-[Nǐ tīnɡdǒnɡ le mɑ？] Do you understand? I am actually confused by those words and the sentences.
+[Nǐ tīnɡdǒnɡ le mɑ?] Do you understand?
+I am actually confused by those words and the sentences.
 
 12
 00:01:12,790 --> 00:01:18,833
 Anyway, you will have something new for
+today, the topic for this lesson is
 
 13
 00:01:18,833 --> 00:01:22,032
-today, the topic for this lesson is 
+Anyway, you will have something new for
+today, the topic for this lesson is
 
 14
 00:01:22,032 --> 00:01:27,730
-[FOREIGN] So beautiful!
+[Tài měi le!] So beautiful!
 
 15
 00:01:27,730 --> 00:01:33,009
@@ -123,19 +126,19 @@ pay attention to the questions below.
 
 30
 00:02:54,100 --> 00:03:02,137
-[Tāmen zěnme qù？] [FOREIGN] 
+[Tāmen zěnme qù？] [FOREIGN]
 
 31
 00:03:02,137 --> 00:03:11,513
-[Tínɡnà huì kāichē mɑ？] 
+[Tínɡnà huì kāichē mɑ？]
 
 32
 00:03:11,513 --> 00:03:19,550
-[FOREIGN] [Shéi zuòchē？] 
+[FOREIGN] [Shéi zuòchē？]
 
 33
 00:03:19,550 --> 00:03:30,269
-[FOREIGN] Now go over the text with me please. 
+[FOREIGN] Now go over the text with me please.
 
 34
 00:03:30,269 --> 00:03:40,269
@@ -160,7 +163,7 @@ There are also [Mùtiányù chánɡchénɡ、Sīmǎtái chánɡchéng] etc. in B
 
 39
 00:04:31,580 --> 00:04:42,243
-[Nà ɡè nǚrén hěn měi；Hànzì hěn měi.] and so on. 
+[Nà ɡè nǚrén hěn měi；Hànzì hěn měi.] and so on.
 [xīběi] is Northwest.
 
 40
@@ -174,11 +177,11 @@ There are also [Mùtiányù chánɡchénɡ、Sīmǎtái chánɡchéng] etc. in B
 
 42
 00:04:52,067 --> 00:04:56,800
-[jǐ ɡè], several, a few. 
+[jǐ ɡè], several, a few.
 
 43
 00:04:56,800 --> 00:04:59,748
-We learnt [jǐ] in 
+We learnt [jǐ] in
 
 44
 00:04:59,748 --> 00:05:05,647
@@ -200,7 +203,7 @@ the school bag. However, if you raise the intonation a bit,
 48
 00:05:25,983 --> 00:05:31,099
 the sentence becomes
-a question, that is 
+a question, that is
 
 49
 00:05:31,099 --> 00:05:38,699
@@ -216,7 +219,7 @@ Okay, go on with the text.
 
 52
 00:06:12,771 --> 00:06:17,341
-Sentences like [Wǒmen jiào jǐ ɡè tónɡxué yìqǐ qù bɑ!] 
+Sentences like [Wǒmen jiào jǐ ɡè tónɡxué yìqǐ qù bɑ!]
 
 53
 00:06:17,341 --> 00:06:22,121
@@ -257,7 +260,7 @@ For example, [FOREIGN].
 
 62
 00:07:06,756 --> 00:07:10,654
-Involving interrogative 
+Involving interrogative
 
 63
 00:07:10,654 --> 00:07:15,718
