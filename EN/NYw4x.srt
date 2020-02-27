@@ -306,7 +306,7 @@ interrogative pronoun + [ne].
 
 70
 00:07:30,392 --> 00:07:38,762
-For example, [wǒ men zěnme qù ne?]
+For example, [wǒmen zěnme qù ne?]
 [Tāmen zuò shénme ne?]
 
 71

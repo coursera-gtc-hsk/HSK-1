@@ -18,11 +18,11 @@
 
 5
 00:00:26,966 --> 00:00:33,664
-[wǒ zǒulù qù shāngdiàn. Nǐ xǐhuan zǒulù ma?]
+[Wǒ zǒulù qù shāngdiàn. Nǐ xǐhuan zǒulù ma?]
 
 6
 00:00:33,664 --> 00:00:38,553
-Today, we are going to learn $2.two dialogues.
+Today, we are going to learn two dialogues.
 
 7
 00:00:38,553 --> 00:00:41,435
@@ -86,7 +86,7 @@ Here is the text, read after me please.
 20
 00:01:41,563 --> 00:01:48,943
 >> [Xiǎopéi, nǐ jīntiān zěnme qù xuéxiào?]
->> [wǒ kāichē qù.]
+>> [Wǒ kāichē qù.]
 
 21
 00:01:48,943 --> 00:01:52,500
@@ -151,7 +151,7 @@ read after me please.
 
 35
 00:03:09,829 --> 00:03:17,259
-apart from expressing a learned skill, [huì]
+Apart from expressing a learned skill, [huì]
 can also be used to
 
 36
@@ -300,7 +300,7 @@ Let's do an exercise now.
 
 68
 00:06:47,347 --> 00:06:51,656
-Based on the statements
+Based on the statements,
 questions are asked.
 
 69
@@ -341,11 +341,11 @@ answer for each question.
 
 74
 00:07:30,860 --> 00:07:37,309
->> Test 3, [wǒ gēgw wǎnshàng bùqù xuéxiào, tā huíjiā.]
+>> Test 3, [wǒ gēge wǎnshàng bùqù xuéxiào, tā huíjiā.]
 
 75
 00:07:37,309 --> 00:07:42,956
->> Test 3, [wǒ gēgw wǎnshàng bùqù xuéxiào, tā huíjiā.]
+>> Test 3, [wǒ gēge wǎnshàng bùqù xuéxiào, tā huíjiā.]
 
 76
 00:07:42,956 --> 00:07:47,934
@@ -353,12 +353,12 @@ answer for each question.
 
 77
 00:07:47,934 --> 00:07:54,454
->> Test 4, [dìdi míng tiān qù kàn yīgè péngyou,
+>> Test 4, [dìdi míngtiān qù kàn yīgè péngyou,
  tā yīgè rén qù.]
 
 78
 00:07:54,454 --> 00:08:00,162
->> Test 4, [dìdi míng tiān qù kàn yīgè péngyou,
+>> Test 4, [dìdi míngtiān qù kàn yīgè péngyou,
  tā yīgè rén qù.]
 
 79

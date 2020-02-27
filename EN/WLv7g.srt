@@ -25,7 +25,7 @@ Nǐ huì kāichē mɑ? Nǐ xǐhuɑn zǒulù mɑ?]
 
 7
 00:00:34,946 --> 00:00:44,216
-[Tāmen shì zuò fēijī lái de.]
+[Tāmen shì zuò fēijī lái de]
 Read the new words with me, please.
 
 8
@@ -202,7 +202,7 @@ Let's see the questions and answers.
 
 48
 00:04:16,366 --> 00:04:21,577
-[Xǐhuɑn]
+[Xǐhuɑn.]
 
 49
 00:04:21,577 --> 00:04:33,077
@@ -309,38 +309,38 @@ Subject + [shì] + information to be emphasized
 71
 00:07:13,559 --> 00:07:23,559
 [Nǐ shì shénme shíhou lái de?]
-[Wǒ shì shàngxīngqǐ lái de.]
+[Wǒ shì shàngxīngqī lái de.]
 
 72
 00:07:23,559 --> 00:07:29,559
 [Nǐ shì zěnme lái de?]
 [Wǒ shì zuò chūzū chē lái de.]
 
-72
+73
 00:07:29,559--> 00:07:40,559
 [Nǐ shì zài nǎr xué de zhōngwén?]
 [Wǒ shì zài běijīng dàxué xué de zhōngwén.]
 
-73
+74
 00:07:42,927 --> 00:07:47,543
 [shì......de] structure, is frequently used
 
-74
+75
 00:07:47,543 --> 00:07:54,910
 when asking details about the past or
 telling details about the past.
 
-75
+76
 00:07:56,110 --> 00:08:04,870
 It can be used to emphasize any detail,
 but mostly time, manner or place.
 
-76
+77
 00:08:08,036 --> 00:08:13,470
 Can you make more dialogues
 with [shì......de] structure?
 
-77
+78
 00:08:17,034 --> 00:08:26,184
 [Hǎode tónɡxuémen，Wǒmen yào shuō zàijiàn le.
 Xièxie nǐmen，Mínɡtiān jiàn!]
